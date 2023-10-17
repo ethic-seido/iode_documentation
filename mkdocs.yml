@@ -27,9 +27,24 @@ theme:
 copyright: Copyright &copy; 2020 - 2023 ETHIC SEIDO
 
 extra:
+  feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: 1
+          note: >-
+            Thanks for your feedback!
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: 0
   generator: false
   social:
     - icon: fontawesome/brands/linkedin 
       link: https://www.linkedin.com/showcase/es-iode
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/ESIodeSearchEngine
+    - icon: material/comment-account
+      link: https://ethicseido.com/Shared/Contact
+
+
