@@ -3,7 +3,19 @@ theme:
   features:
     - navigation.tabs
   palette:
-    primary: blue
+    # Palette toggle for light mode
+    - scheme: default
+      primary: blue 
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
   favicon: assets/IodeIconv232.png
   icon:
     logo: fontawesome/solid/microscope
