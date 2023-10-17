@@ -1,0 +1,22 @@
+site_name: ES IODE Documentation
+theme:
+  features:
+    - navigation.tabs
+  palette:
+    primary: blue
+  favicon: assets/IodeIconv232.png
+  icon:
+    logo: fontawesome/solid/microscope
+  name: material
+  language: en
+  font:
+    text: Inter
+copyright: Copyright &copy; 2020 - 2023 ETHIC SEIDO
+
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin 
+      link: https://www.linkedin.com/showcase/es-iode
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/ESIodeSearchEngine
