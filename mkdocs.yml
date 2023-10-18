@@ -17,7 +17,7 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
-  favicon: assets/IodeIconv232.png
+  favicon: assets/IodeIconv232-round.png
   icon:
     logo: fontawesome/solid/microscope
   name: material
