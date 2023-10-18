@@ -2,6 +2,10 @@
 
 ## ES/IODE Changelog
 
+### 1.6 <small>October 18, 2023</small>
+
+- Added scientific paper social card functionality 
+
 ### 1.5.1 <small>October 17, 2023</small>
 
 - Updated font size of ES/IODE menu
