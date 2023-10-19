@@ -1,0 +1,21 @@
+[data-md-color-scheme="esiode"] {
+    --md-primary-fg-color:        #007BFF;
+  }
+[data-md-color-scheme="esiode"] .md-footer {
+    background-color: #007BFF; /* Couleur de fond */
+    color: #fff; /* Couleur du texte */
+}
+/* Arrondir la barre de recherche */
+.md-search {
+    border-radius: 20px; /* Ajustez le rayon en fonction de la courbure souhaitée */
+  }
+  
+  /* Arrondir le champ de recherche */
+  .md-search-input {
+    border-radius: 20px; /* Ajustez le rayon en fonction de la courbure souhaitée */
+  }
+  
+  /* Arrondir le bouton de recherche (icône) */
+  .md-search__icon {
+    border-radius: 20px; /* Ajustez le rayon en fonction de la courbure souhaitée */
+  }

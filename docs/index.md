@@ -1,4 +1,4 @@
-# Home
+# Introduction
 
 ## Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
 
@@ -14,6 +14,13 @@ We are committed to providing scientific studies from reliable and verified sour
 
 ### User-Friendly
 ES/IODE is designed to be user-friendly. You don't need to be an expert in academic research to find the studies you need. Our intuitive interface allows you to navigate easily through our collection.
+
+## How to access ES/IODE?
+
+In your favorite internet browser (chrome, brave, edge, firefox...), use the following link to access ES/IODE :
+
+[Access to ES/IODE](https://ethicseido.com/Iode/Iode){ .md-button .md-button--primary}
+
 
 ## Getting Started
 

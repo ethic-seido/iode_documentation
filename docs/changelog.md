@@ -1,6 +1,13 @@
+---
+icon: material/format-list-bulleted
+---
 # Changelog
 
 ## ES/IODE Changelog
+
+### 1.6.1 <small>October 19, 2023</small>
+
+- Increased security against external attacks on social card calling
 
 ### 1.6 <small>October 18, 2023</small>
 
@@ -38,3 +45,4 @@
 
 ### 1.0 <small>June 1, 2023</small>
 - Initializing the documentation
+

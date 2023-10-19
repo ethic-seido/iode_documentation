@@ -1,18 +1,27 @@
 site_name: ES IODE Documentation
+nav:
+  - Introduction: "index.md"
+  - ChangeLog: "changelog.md"
 theme:
   features:
     - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
   palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: blue 
+    - scheme: esiode
+      accent: blue 
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-
-    # Palette toggle for dark mode
     - scheme: slate
       primary: black
+      accent: blue 
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
@@ -23,7 +32,9 @@ theme:
   name: material
   language: en
   font:
-    text: Inter
+    text: Poppins
+extra_css:
+  - stylesheets/extra.css
 copyright: Copyright &copy; 2020 - 2023 ETHIC SEIDO
 
 extra:
@@ -44,7 +55,36 @@ extra:
       link: https://www.linkedin.com/showcase/es-iode
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/ESIodeSearchEngine
-    - icon: material/comment-account
+    - icon: fontawesome/solid/envelope
       link: https://ethicseido.com/Shared/Contact
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - footnotes
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - pymdownx.tabbed:
+      alternate_style: true
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - toc:
+      permalink: true
+
 
 
