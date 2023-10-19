@@ -5,6 +5,10 @@ icon: material/format-list-bulleted
 
 ## ES/IODE Changelog
 
+### 1.7 <small>October 19, 2023</small>
+
+- Turning off the 'epidemic analysis' function; government authorities are no longer sharing epidemic data.
+
 ### 1.6.1 <small>October 19, 2023</small>
 
 - Increased security against external attacks on social card calling
