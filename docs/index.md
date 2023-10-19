@@ -6,8 +6,8 @@ __ES/IODE__ is the search engine for scientific studies that allows you to acces
 
 ## Why Choose ES/IODE?
 
-### Advanced Search
-__ES/IODE__ offers advanced search capabilities that allow you to specify your search criteria to obtain specific results. You can filter by field, date, authors, keywords, and much more. This ensures that you get relevant results for your subject.
+<!-- ### Advanced Search
+__ES/IODE__ offers advanced search capabilities that allow you to specify your search criteria to obtain specific results. You can filter by field, date, authors, keywords, and much more. This ensures that you get relevant results for your subject. -->
 
 ### Source Reliability
 We are committed to providing scientific studies from reliable and verified sources. Our database is continuously updated to offer you the most current and accurate information.
@@ -19,7 +19,6 @@ __ES/IODE__ is designed to be user-friendly. You don't need to be an expert in a
 
 In your favorite internet browser (chrome, brave, edge, firefox...), use the following link to access __ES/IODE__ :
 
-<!-- [Access to __ES/IODE__](https://ethicseido.com/Iode/Search){ .md-button .md-button--primary} -->
 ```
 https://ethicseido.com/Iode/Search
 ```
