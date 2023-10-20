@@ -2,7 +2,12 @@
 
 ## Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
 
-__ES/IODE__ is the search engine for scientific studies that allows you to access a vast collection of high-quality scientific documents. Our service is designed to simplify your search for academic publications and help you find accurate and credible information for your research needs.
+__ES/IODE__ is the scientific studies search engine that gives you access to a vast collection of high-quality scientific documents. 
+Our service is designed:
+
+- to simplify your search for academic publications and scientific documents.
+- to help you find accurate and credible information for your research needs.
+- to help you deepen your research topics.
 
 ## Why Choose ES/IODE?
 
@@ -14,6 +19,11 @@ We are committed to providing scientific studies from reliable and verified sour
 
 ### User-Friendly
 __ES/IODE__ is designed to be user-friendly. You don't need to be an expert in academic research to find the studies you need. Our intuitive interface allows you to navigate easily through our collection.
+
+### Innovation
+__ES/IODE__ is constantly evolving to provide its users with a cutting-edge scientific research experience. Our search engine incorporates advanced technologies such as __GenAI__ (Generative AI), __Text-to-Speech__, __Translation Deep Learning__, __LLM__ (Large language Model) and __NLP__ (Natural Language Processing). These groundbreakig features enable researchers and science enthusiasts to access a world of information with unparalleled ease and precision.
+
+But our commitment to innovation doesn't stop there. We are determined to maintain an ethical approach in the development of our future features. Our goal is to provide increasingly advanced research tools while respecting data privacy, transparency, and ethics. With __ES/IODE__, innovation and ethics go hand in hand to deliver a scientific research experience that meets the needs of the community while upholding the fundamental values of scientific integrity.
 
 ## How to access ES/IODE search engine?
 
