@@ -1,5 +1,5 @@
 site_name: ES IODE Documentation
-site_url: https://iode-documentation.readthedocs.io/
+site_url: https://iode-documentation.readthedocs.io/en/latest/
 
 nav:
   - Introduction: "index.md"
