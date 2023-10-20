@@ -1,5 +1,6 @@
 ---
 icon: material/format-list-bulleted
+description: displaying service update information
 ---
 # Changelog
 

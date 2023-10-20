@@ -1,4 +1,6 @@
 site_name: ES IODE Documentation
+site_url: https://iode-documentation.readthedocs.io/
+
 nav:
   - Introduction: "index.md"
   - ChangeLog: "changelog.md"
@@ -10,11 +12,13 @@ theme:
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotate
     - content.code.copy
   palette:
     - scheme: esiode
+      primary: blue
       accent: blue 
       toggle:
         icon: material/weather-night
@@ -25,6 +29,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
 
   favicon: assets/IodeIconv232-round.png
   icon:
@@ -89,5 +94,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+plugins:
+  - social
+  - search
 
 

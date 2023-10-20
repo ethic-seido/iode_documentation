@@ -1,3 +1,6 @@
+---
+description: to get started using the service
+---
 # Introduction
 
 ## Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
