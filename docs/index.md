@@ -4,6 +4,9 @@ icon: simple/readthedocs
 ---
 # Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
 
+[![image](https://img.shields.io/badge/version-1.7-blue)](changelog.md)
+[![image](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
+
 [![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)
 
 
