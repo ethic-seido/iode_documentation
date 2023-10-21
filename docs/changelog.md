@@ -1,5 +1,5 @@
 ---
-icon: material/format-list-bulleted
+icon: material/format-list-numbered-rtl
 description: displaying service update information
 ---
 # Changelog

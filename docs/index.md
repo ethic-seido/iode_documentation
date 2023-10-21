@@ -1,9 +1,13 @@
 ---
 description: to get started using the service
+icon: simple/readthedocs
 ---
-# Introduction
+# Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
 
-## Welcome to ES/IODE: Your Reliable Scientific Studies Search Engine
+[![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)
+
+
+## Introduction
 
 __ES/IODE__ is the scientific studies search engine that gives you access to a vast collection of high-quality scientific documents. 
 Our service is designed:

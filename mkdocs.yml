@@ -6,16 +6,13 @@ nav:
   - ChangeLog: "changelog.md"
 theme:
   features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - search.share
-    - content.tabs.link
-    - content.code.annotate
-    - content.code.copy
+      - navigation.instant
+      - navigation.tracking
+      - navigation.top
+      - search.highlight
+      - search.share
+      - content.code.annotate
+      - content.code.copy
   palette:
     - scheme: esiode
       primary: blue
@@ -64,30 +61,15 @@ extra:
       link: https://ethicseido.com/Shared/Contact
 
 markdown_extensions:
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - footnotes
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - attr_list
-  - tables
-  - pymdownx.tabbed:
-      alternate_style: true
-  - md_in_html
-  - pymdownx.highlight:
-      anchor_linenums: true
   - admonition
-  - pymdownx.arithmatex:
-      generic: true
-  - pymdownx.details
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      linenums: true
   - toc:
       permalink: true
   - pymdownx.emoji:
