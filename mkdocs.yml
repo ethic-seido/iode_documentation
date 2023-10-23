@@ -18,13 +18,13 @@ theme:
       primary: blue
       accent: blue 
       toggle:
-        icon: material/weather-night
+        icon: fontawesome/solid/moon
         name: Switch to dark mode
     - scheme: slate
       primary: black
       accent: blue 
       toggle:
-        icon: material/weather-sunny
+        icon: material/white-balance-sunny
         name: Switch to light mode
 
 
