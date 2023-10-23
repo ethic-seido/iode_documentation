@@ -10,7 +10,7 @@ icon: simple/readthedocs
 [![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)
 
 
-## Introduction
+## **Introduction**
 
 __ES/IODE__ is the scientific studies search engine that gives you access to a vast collection of high-quality scientific documents. 
 Our service is designed:
@@ -19,7 +19,7 @@ Our service is designed:
 - to help you find accurate and credible information for your research needs.
 - to help you deepen your research topics.
 
-## Why Choose ES/IODE?
+## **Why Choose ES/IODE?**
 
 <!-- ### Advanced Search
 __ES/IODE__ offers advanced search capabilities that allow you to specify your search criteria to obtain specific results. You can filter by field, date, authors, keywords, and much more. This ensures that you get relevant results for your subject. -->
@@ -35,7 +35,7 @@ __ES/IODE__ is constantly evolving to provide its users with a cutting-edge scie
 
 But our commitment to innovation doesn't stop there. We are determined to maintain an ethical approach in the development of our future features. Our goal is to provide increasingly advanced research tools while respecting data privacy, transparency, and ethics. With __ES/IODE__, innovation and ethics go hand in hand to deliver a scientific research experience that meets the needs of the community while upholding the fundamental values of scientific integrity.
 
-## How to access ES/IODE search engine?
+## **How to access ES/IODE search engine?**
 
 In your favorite internet browser (chrome, brave, edge, firefox...), use the following link to access __ES/IODE__ :
 
@@ -43,7 +43,7 @@ In your favorite internet browser (chrome, brave, edge, firefox...), use the fol
 https://ethicseido.com/Iode/Search
 ```
 
-## Getting Started
+## **Getting Started**
 
 To get started using __ES/IODE__, simply enter relevant keywords in the search bar at the center of the page.
 
@@ -55,7 +55,7 @@ Feel free to contact us if you have any questions or comments.
 
 Happy searching! :rocket:
 
-## Search settings
+## **Search settings**
 
 Click on the icon :material-cog: under the search bar, then you can activate the __ES/IODE__ AI assistant and select the model.
 

@@ -4,7 +4,7 @@ description: displaying service update information
 ---
 # Changelog
 
-## ES/IODE Changelog
+## **ES/IODE Changelog**
 
 ### 1.7 <small>October 19, 2023</small>
 
