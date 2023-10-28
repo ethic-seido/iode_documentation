@@ -6,6 +6,11 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.0 <small>October 28, 2023</small>
+
+- Added clinical trials search engine functionality.
+- Improved automatic translation functionality of document details.
+
 ### 1.7 <small>October 19, 2023</small>
 
 - Turning off the 'epidemic analysis' function; government authorities are no longer sharing epidemic data.
