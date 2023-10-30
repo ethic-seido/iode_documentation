@@ -6,6 +6,12 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.1 <small>October 30, 2023</small>
+
+- Evolution of the ES/IODE AI Assistant Module: Addition of dynamic links allowing the direct entry of the keyword into the search bar when clicked.
+- Improved the results list of scientific articles and clinical trials.
+- Editing images representing search results from scientific articles and clinical trials.
+
 ### 2.0 <small>October 28, 2023</small>
 
 - Added clinical trials search engine functionality.
