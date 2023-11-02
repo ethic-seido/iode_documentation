@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.1.1 <small>November 02, 2023</small>
+
+- Improved security extension against malicious server attacks.
+
 ### 2.1 <small>October 30, 2023</small>
 
 - Evolution of the ES/IODE AI Assistant Module: Addition of dynamic links allowing the direct entry of the keyword into the search bar when clicked.
