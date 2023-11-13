@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.1.2 <small>November 13, 2023</small>
+
+- bugfix: AI service call issue.
+
 ### 2.1.1 <small>November 02, 2023</small>
 
 - Improved security extension against malicious server attacks.
