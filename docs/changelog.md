@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.2 <small>November 14, 2023</small>
+
+- Improved visual experience, in low light or at night, dark mode has been added.
+
 ### 2.1.2 <small>November 13, 2023</small>
 
 - bugfix: AI service call issue.
