@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 2.3 <small>November 24, 2023</small>
+- Added the SciScholarCraft functionality to help and support scientists in writing scientific studies.
+- Improved detailed layout of scientific documents
+
 ### 2.2 <small>November 14, 2023</small>
 
 - Improved visual experience, in low light or at night, dark mode has been added.
