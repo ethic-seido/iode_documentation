@@ -6,7 +6,15 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
-### 2.3 <small>November 24, 2023</small>
+### 3.1 <small>December 4, 2023</small>
+- Improved SciScholarCraft functionality : Addition of tasks following the loading of scientific research areas.
+- Improved SciScholarCraft functionality : Added the scientific study research selection task relevant to the research objective.
+- Improved SciScholarCraft functionality : Added the task of generating a scientific study writing plan according to the research objective.
+- Improved SciScholarCraft functionality : Addition of the hypothesis generation task according to the research objective.
+- Improved SciScholarCraft functionality : Addition of the hypothesis generation task according to the research objective.
+- Improved SciScholarCraft functionality : Added estimated loading times.
+
+### 3.0 <small>November 24, 2023</small>
 - Added the SciScholarCraft functionality to help and support scientists in writing scientific studies.
 - Improved detailed layout of scientific documents
 
