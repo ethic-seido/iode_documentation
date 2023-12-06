@@ -6,11 +6,16 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.1.1 <small>December 6, 2023</small>
+- Improved SciScholarCraft functionality : Addition of the representation image.
+- Improved SciScholarCraft functionality : Added the retry icon to the hypothesis generation task.
+- Improved SciScholarCraft functionality : Added the retry icon to the scientific study research selection task.
+- Improved SciScholarCraft functionality : Added the retry icon to the scientific study writing plan generation task.
+
 ### 3.1 <small>December 4, 2023</small>
 - Improved SciScholarCraft functionality : Addition of tasks following the loading of scientific research areas.
 - Improved SciScholarCraft functionality : Added the scientific study research selection task relevant to the research objective.
-- Improved SciScholarCraft functionality : Added the task of generating a scientific study writing plan according to the research objective.
-- Improved SciScholarCraft functionality : Addition of the hypothesis generation task according to the research objective.
+- Improved SciScholarCraft functionality : Added the scientific study writing plan generation task based on the research objective. 
 - Improved SciScholarCraft functionality : Addition of the hypothesis generation task according to the research objective.
 - Improved SciScholarCraft functionality : Added estimated loading times.
 
