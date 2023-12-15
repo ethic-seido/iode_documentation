@@ -6,6 +6,14 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.2 <small>December 15, 2023</small>
+- Improved SciScholarCraft functionality : Addition of a quick-access bar with a workflow, making it easier to navigate from one section to another.
+- Improved SciScholarCraft functionality : Added functionality for saving research projects for a logged-in user.
+- Improved SciScholarCraft functionality : Added functionality for deleting research projects for a logged-in user.
+- Improved SciScholarCraft functionality : Added new project creation functionality.
+- Improved SciScholarCraft functionality : Better control of generation actions for research objectives.
+- Improved text legibility, with a change of font and better spacing calibration.
+
 ### 3.1.1 <small>December 6, 2023</small>
 - Improved SciScholarCraft functionality : Addition of the representation image.
 - Improved SciScholarCraft functionality : Added the retry icon to the hypothesis generation task.
