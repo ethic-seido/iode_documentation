@@ -66,7 +66,7 @@ It is located to the right of the generations sections.
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are connected with an account (created on our platform)**
+    **This feature is only accessible if you are logged in with an account (created on our platform)**
 
 2 possibilities are available to you:
 
@@ -80,7 +80,7 @@ you will then be able to view the list of your projects (if you have already sav
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are connected with an account (created on our platform)**
+    **This feature is only accessible if you are logged in with an account (created on our platform)**
 
 !!! info
 
@@ -100,7 +100,7 @@ A notification will confirm if the project has been saved.
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are connected with an account (created on our platform)**
+    **This feature is only accessible if you are logged in with an account (created on our platform)**
 
 2 possibilities are available to you:
 
@@ -117,7 +117,7 @@ A notification will confirm if the project has been saved.
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are connected with an account (created on our platform)**
+    **This feature is only accessible if you are logged in with an account (created on our platform)**
 
 2 possibilities are available to you:
 
@@ -134,7 +134,7 @@ A notification will confirm if the project has been saved.
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are connected with an account (created on our platform)**
+    **This feature is only accessible if you are logged in with an account (created on our platform)**
 
 
 Click on the :fontawesome-solid-plus: icon in the quick access sidebar.
