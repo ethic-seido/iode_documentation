@@ -7,7 +7,9 @@ description: to start using the scientific article search feature
 
 To start using __ES/IODE's scientific article search function__, simply enter relevant keywords into the search bar in the center of the page.
 
-Sign up for a free account to enjoy advanced features such as saving your searches and managing your favorites.
+![search bar](assets/searchbar-articles.png)
+
+Sign up for a free account to enjoy advanced features.
 
 __ES/IODE__ is here to assist you in your quest for scientific knowledge. 
 
