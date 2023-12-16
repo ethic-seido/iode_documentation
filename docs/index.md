@@ -61,4 +61,14 @@ In your favorite internet browser (chrome, brave, edge, firefox...), use the fol
 https://ethicseido.com/Iode/SciScholarCraft
 ```
 
+## **How to log in to ES/IODE?**
 
+To log in, click on the “Sign in” button in the navigation bar
+
+![nav bar](assets/navbar.png)
+
+Then you will be directed to the log in screen.
+
+![login](assets/login.png)
+
+If you have an account, fill in the information and log in. Otherwise click on "Register here" and follow the instructions on the screen.
