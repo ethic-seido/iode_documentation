@@ -3,6 +3,9 @@ site_url: https://iode-documentation.readthedocs.io/en/latest/
 
 nav:
   - Introduction: "index.md"
+  - Articles search feature: "researcharticles.md"
+  - Clinical trials search feature: "researchtrials.md"
+  - SciScholarCraft feature: "scischolarcraft.md"
   - ChangeLog: "changelog.md"
 theme:
   features:

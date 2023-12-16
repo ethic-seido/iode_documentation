@@ -13,6 +13,7 @@ description: displaying service update information
 - Improved SciScholarCraft functionality : Added new project creation functionality.
 - Improved SciScholarCraft functionality : Better control of generation actions for research objectives.
 - Improved text legibility, with a change of font and better spacing calibration.
+- Fixed a bug that caused ES/IODE AI to respond in French with the Genius model to search for scientific studies and clinical trials in the languages: English, German, Spanish and Dutch.
 
 ### 3.1.1 <small>December 6, 2023</small>
 - Improved SciScholarCraft functionality : Addition of the representation image.
