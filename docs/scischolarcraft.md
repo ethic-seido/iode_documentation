@@ -113,6 +113,8 @@ A notification will confirm if the project has been saved.
     1. The **Research project selection** menu will appear, then click on the button ![selection button](assets/selection-button.png) on the line of the project you want to delete.
     2. The Action menu will appear, then click on the button ![delete button](assets/delete-button.png).
 
+A notification will confirm if the project has been deleted.
+
 ## **Open your project**
 
 !!! warning "login required"
