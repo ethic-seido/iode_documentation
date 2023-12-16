@@ -60,7 +60,7 @@ It corresponds to the visual below:
 
 ![quickaccess sidebar](assets/quickaccess-sidebar.png)
 
-It is located to the right of the generations sections.
+It is located to the left of the generations sections.
 
 ## **Research project selection**
 
