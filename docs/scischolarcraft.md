@@ -29,6 +29,10 @@ Then you will have access to the following section, under analysis :
 
 Next, click on the "Generation of hypotheses" button, the action of the generations will begin.
 
+### **Copy Generation of hypotheses to the clipboard**
+
+In hypotheses section, click on the :fontawesome-solid-copy: icon located at the top right.
+
 ## **Selection of scientific studies**
 
 For the "Selection of scientific studies" function, you must first enter a research objective in the search bar and obtain the result of the SciScholarCraft analysis.
@@ -39,6 +43,10 @@ Then you will have access to the following section, under analysis :
 
 Next, click on the "Selection of scientific studies" button, the action of the generations will begin.
 
+### **Copy scientific studies to the clipboard**
+
+In scientific studies section, click on the :fontawesome-solid-copy: icon located at the top right.
+
 ## **Generating Writing Plan**
 
 For the "Generating Writing Plan" function, you must first enter a research objective in the search bar and obtain the result of the SciScholarCraft analysis.
@@ -48,6 +56,14 @@ Then you will have access to the following section, under analysis :
 ![tasks section](assets/tasks-section.png)
 
 Next, click on the "Generating Writing Plan" button, the action of the generations will begin.
+
+### **Export Generating Writing Plan to Word**
+
+In Writing plan section, click on the :fontawesome-solid-file-export: icon located at the top right.
+
+### **Copy Generating Writing Plan to the clipboard**
+
+In Writing plan section, click on the :fontawesome-solid-copy: icon located at the top right.
 
 ## **Quick access sidebar**
 
