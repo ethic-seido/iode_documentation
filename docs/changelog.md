@@ -8,7 +8,9 @@ description: displaying service update information
 
 ### 3.2.1 <small>December 20, 2023</small>
 
-- minor correction to the SciScholarCraft functionality on a problem loading scientific studies.
+- Minor correction to the SciScholarCraft functionality on a problem loading scientific studies.
+- Changed the button shape for scrolling to the top of the page; it's now a perfect circle.
+- Changed the button shape for navigating back to the ES/IODE AI block; it is now a perfect circle. This modification applies to the "Scientific Articles Search" and "Clinical Trials Search" functionalities.
 
 ### 3.2 <small>December 15, 2023</small>
 - Improved SciScholarCraft functionality : Addition of a quick-access bar with a workflow, making it easier to navigate from one section to another.
