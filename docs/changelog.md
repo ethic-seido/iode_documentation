@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.2.1 <small>December 20, 2023</small>
+
+- minor correction to the SciScholarCraft functionality on a problem loading scientific studies.
+
 ### 3.2 <small>December 15, 2023</small>
 - Improved SciScholarCraft functionality : Addition of a quick-access bar with a workflow, making it easier to navigate from one section to another.
 - Improved SciScholarCraft functionality : Added functionality for saving research projects for a logged-in user.
