@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.2.2 <small>December 28, 2023</small>
+
+- Changed the presentation of the ES/IODE platform, improved the design, added a promotional video
+
 ### 3.2.1 <small>December 20, 2023</small>
 
 - Minor correction to the SciScholarCraft functionality on a problem loading scientific studies.
