@@ -1,0 +1,111 @@
+---
+icon: material/format-list-numbered-rtl
+description: Anzeige von Service-Update-Informationen
+---
+# Änderungsprotokoll
+
+## **ES/IODE Änderungsprotokoll**
+
+### 3.2.2 <small>28. Dezember 2023</small>
+
+- Änderung der Präsentation der ES/IODE-Plattform, Verbesserung des Designs, Hinzufügen eines Werbevideos
+
+### 3.2.1 <small>20. Dezember 2023</small>
+
+- Geringfügige Korrektur der SciScholarCraft-Funktionalität bei einem Problem beim Laden wissenschaftlicher Studien.
+- Änderung der Form des Buttons zum Scrollen nach oben; er ist jetzt ein perfekter Kreis.
+- Änderung der Form des Buttons zur Navigation zurück zum ES/IODE AI-Block; er ist jetzt ein perfekter Kreis. Diese Änderung gilt für die Funktionalitäten "Wissenschaftliche Artikel suchen" und "Klinische Studien suchen".
+
+### 3.2 <small>15. Dezember 2023</small>
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen einer Schnellzugriffsleiste mit einem Workflow, um einfacher zwischen den Abschnitten zu navigieren.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen von Funktionalitäten zum Speichern von Forschungsprojekten für einen eingeloggten Benutzer.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen von Funktionalitäten zum Löschen von Forschungsprojekten für einen eingeloggten Benutzer.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen neuer Funktionalitäten zur Projektentwicklung.
+- Verbesserte SciScholarCraft-Funktionalität: Bessere Kontrolle der Generierungsaktionen für Forschungsziele.
+- Verbesserte Textlesbarkeit durch Änderung der Schriftart und bessere Abstandskalibrierung.
+- Behebung eines Fehlers, der dazu führte, dass der ES/IODE AI mit dem Genius-Modell auf die Suche nach wissenschaftlichen Studien und klinischen Studien in den Sprachen Englisch, Deutsch, Spanisch und Niederländisch auf Französisch antwortete.
+
+### 3.1.1 <small>6. Dezember 2023</small>
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen des Repräsentationsbildes.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen des Wiederholungssymbols für die Hypothesengenerierungsaufgabe.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen des Wiederholungssymbols für die Auswahl wissenschaftlicher Studien bei der Forschungszielsetzung.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen des Wiederholungssymbols für die Generierung des Schreibplans für wissenschaftliche Studien gemäß der Forschungszielsetzung.
+
+### 3.1 <small>4. Dezember 2023</small>
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen von Aufgaben nach dem Laden der wissenschaftlichen Forschungsbereiche.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen der Auswahl wissenschaftlicher Studien gemäß der Forschungszielsetzung.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen der Generierung des Schreibplans für wissenschaftliche Studien basierend auf dem Forschungsziel.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen der Hypothesengenerierungsaufgabe gemäß der Forschungszielsetzung.
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen geschätzter Ladezeiten.
+
+### 3.0 <small>24. November 2023</small>
+- Hinzufügen der SciScholarCraft-Funktionalität zur Unterstützung von Wissenschaftlern bei der Erstellung wissenschaftlicher Studien.
+- Verbesserte detaillierte Gestaltung wissenschaftlicher Dokumente
+
+### 2.2 <small>14. November 2023</small>
+
+- Verbessertes visuelles Erlebnis, bei schlechten Lichtverhältnissen oder nachts wurde der Dunkelmodus hinzugefügt.
+
+### 2.1.2 <small>13. November 2023</small>
+
+- Fehlerbehebung: Problem mit dem Aufruf des KI-Dienstes.
+
+### 2.1.1 <small>2. November 2023</small>
+
+- Verbesserte Sicherheitserweiterung gegen bösartige Serverangriffe.
+
+### 2.1 <small>30. Oktober 2023</small>
+
+- Weiterentwicklung des ES/IODE KI-Assistentenmoduls: Hinzufügen von dynamischen Links, die das direkte Eingeben des Schlüsselworts in die Suchleiste ermöglichen, wenn darauf geklickt wird.
+- Verbesserte Ergebnisliste wissenschaftlicher Artikel und klinischer Studien.
+- Bearbeitung von Bildern, die die Suchergebnisse aus wissenschaftlichen Artikeln und klinischen Studien repräsentieren.
+
+### 2.0 <small>28. Oktober 2023</small>
+
+- Hinzufügen der Funktionalität des klinischen Studien-Suchmaschinenmoduls.
+- Verbesserte automatische Übersetzungsfunktionalität von Dokumentdetails.
+
+### 1.7 <small>19. Oktober 2023</small>
+
+- Ausschalten der Funktion 'Epidemieanalyse'; Regierungsbehörden teilen keine Epidemiedaten mehr.
+
+### 1.6.1 <small>19. Oktober 2023</small>
+
+- Erhöhte Sicherheit gegen externe Angriffe auf den Aufruf der Social Card.
+
+### 1.6 <small>18. Oktober 2023</small>
+
+- Hinzufügen der Funktionalität wissenschaftlicher Papier-Social Cards.
+
+### 1.5.1 <small>17. Oktober 2023</small>
+
+- Aktualisierte Schriftgröße des ES/IODE-Menüs.
+
+### 1.5 <small>16. Oktober 2023</small>
+
+- Hinzufügen der Sprachsuchfunktionalität.
+
+### 1.4 <small>12. Oktober 2023</small>
+
+- Verbessern des Suchfelds durch Hinzufügen des Textlöschkreuzes.
+- Verbesserte Indizierung wissenschaftlicher Studien nach Schlüsselwort und Titel.
+
+### 1.2 <small>3. Oktober 2023</small>
+
+- Hinzufügen des "bright" LLM KI-Modells zur Benutzerauswahl: Dieses Modell soll Forscher unterstützen und zuverlässige wissenschaftliche Antworten liefern.
+- Erstellung des LLM Bright-Modells.
+
+### 1.2 <small>26. September 2023</small>
+
+- Hinzufügen des "Genius" LLM KI-Modells zur Benutzerauswahl: Dieses Modell soll erfahrene Forscher unterstützen und zuverlässige, sehr technische wissenschaftliche Antworten liefern.
+- Hinzufügen der Suchkonfigurationsfunktionalität, die es dem Benutzer ermöglicht, den ES/IODE KI-Assistenten in ihre Suchen zu integrieren und das Modell auszuwählen.
+
+### 1.1 <small>24. Juli 2023</small>
+- Aktualisierte französische Übersetzungen
+- Aktualisierte deutsche Übersetzungen
+- Aktualisierte englische Übersetzungen
+- Aktualisierte niederländische Übersetzungen
+- Aktualisierte spanische Übersetzungen
+
+### 1.0 <small>1. Juni 2023</small>
+- Initialisierung der Dokumentation

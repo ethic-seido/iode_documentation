@@ -9,7 +9,7 @@ nav:
   - ChangeLog: "changelog.md"
 theme:
   features:
-      - navigation.instant
+      # - navigation.instant
       - navigation.tracking
       - navigation.top
       - search.highlight
@@ -86,5 +86,26 @@ markdown_extensions:
 plugins:
   - social
   - search
-
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true    
+          nav_translations:
+            'Articles search feature': Recherche d'études scientifiques
+            'Clinical trials search feature': Recherche d'essais cliniques
+            'SciScholarCraft feature': SciScholarCraft
+        - locale: de
+          name: Deutsch
+          build: true    
+          nav_translations:
+            'Introduction': Einführung
+            'Articles search feature': Artikelsuchfunktion
+            'Clinical trials search feature': Suchfunktion für klinische Studien
+            'SciScholarCraft feature': SciScholarCraft
 
