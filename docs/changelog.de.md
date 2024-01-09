@@ -6,6 +6,11 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.2.3 <small>9. Januar 2024</small>
+
+- Hinzufügen von Dokumentationslinks in französischer, deutscher, spanischer und niederländischer Sprache.
+
+
 ### 3.2.2 <small>28. Dezember 2023</small>
 
 - Änderung der Präsentation der ES/IODE-Plattform, Verbesserung des Designs, Hinzufügen eines Werbevideos

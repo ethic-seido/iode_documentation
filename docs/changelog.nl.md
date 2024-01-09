@@ -6,6 +6,10 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.2.3 <small>9 januari 2024</small>
+
+- Toegevoegde documentatielinks in het Frans, Duits, Spaans en Nederlands.
+
 ### 3.2.2 <small>28 december 2023</small>
 
 - Presentatie van het ES/IODE-platform gewijzigd, ontwerp verbeterd, promotievideo toegevoegd.

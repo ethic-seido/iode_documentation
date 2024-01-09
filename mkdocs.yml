@@ -116,4 +116,12 @@ plugins:
             'Articles search feature': Zoekfunctie voor artikelen
             'Clinical trials search feature': Zoekfunctie voor klinische onderzoeken
             'SciScholarCraft feature': SciScholarCraft
+        - locale: es
+          name: Española
+          build: true    
+          nav_translations:
+            'Introduction': Introducción
+            'Articles search feature': Función de búsqueda de artículos
+            'Clinical trials search feature': Función de búsqueda de ensayos clínicos
+            'SciScholarCraft feature': SciScholarCraft
 

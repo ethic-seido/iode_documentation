@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.2.3 <small>January 09, 2024</small>
+
+- Added documentation links in French, German, Spanish and Dutch languages.
+
 ### 3.2.2 <small>December 28, 2023</small>
 
 - Changed the presentation of the ES/IODE platform, improved the design, added a promotional video

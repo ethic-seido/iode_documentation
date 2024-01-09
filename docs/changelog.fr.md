@@ -6,6 +6,10 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.2.3 <small>9 janvier 2024</small>
+
+- Ajout de liens de documentation en français, allemand, espagnol et néerlandais.
+
 ### 3.2.2 <small>28 décembre 2023</small>
 
 - Modification de la présentation de la plateforme ES/IODE, amélioration du design, ajout d'une vidéo promotionnelle.
