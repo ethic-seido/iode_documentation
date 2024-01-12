@@ -6,6 +6,11 @@ description: muestra información de actualización del servicio
 
 ## **Registro de cambios de ES/IODE**
 
+### 3.3 <small>12 de enero de 2024</small>
+
+- Adición de nueva funcionalidad: noticias científicas. Esta es nuestra selección de las últimas noticias científicas globales.
+
+
 ### 3.2.3 <small>09 de enero de 2024</small>
 
 - Se añadieron enlaces de documentación en francés, alemán, español y neerlandés.

@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.3 <small>January 12, 2024</small>
+
+- Addition of new functionality: scientific news. This is our selection of the latest global scientfic news.
+
 ### 3.2.3 <small>January 09, 2024</small>
 
 - Added documentation links in French, German, Spanish and Dutch languages.

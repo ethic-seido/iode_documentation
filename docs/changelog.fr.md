@@ -6,6 +6,11 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.3 <small>12 janvier 2024</small>
+
+- Ajout d'une nouvelle fonctionnalité : actualités scientifiques. Il s'agit de notre sélection des dernières actualités scientifiques mondiales.
+
+
 ### 3.2.3 <small>9 janvier 2024</small>
 
 - Ajout de liens de documentation en français, allemand, espagnol et néerlandais.

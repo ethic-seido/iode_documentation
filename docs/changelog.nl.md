@@ -6,6 +6,10 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.3 <small>12 januari 2024</small>
+
+- Toevoeging van nieuwe functionaliteit: wetenschappelijk nieuws. Dit is onze selectie van het laatste wereldwijde wetenschappelijke nieuws.
+
 ### 3.2.3 <small>9 januari 2024</small>
 
 - Toegevoegde documentatielinks in het Frans, Duits, Spaans en Nederlands.

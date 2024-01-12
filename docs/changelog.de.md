@@ -6,6 +6,11 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.3 <small>12. Januar 2024</small>
+
+- Hinzufügung neuer Funktionalitäten: Wissenschaftliche Nachrichten. Dies ist unsere Auswahl der neuesten globalen wissenschaftlichen Nachrichten.
+
+
 ### 3.2.3 <small>9. Januar 2024</small>
 
 - Hinzufügen von Dokumentationslinks in französischer, deutscher, spanischer und niederländischer Sprache.
