@@ -6,6 +6,14 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.3.1 <small>16 januari 2024</small>
+
+- Verbeterde functionaliteit van SciScholarCraft: Verbeterde reacties voor het analyseren van onze AI. We hebben het getraind met nieuwe, betrouwbare wetenschappelijke studies, wat resulteert in nog nauwkeurigere analyses.
+- Verbetering van de functionaliteit van wetenschappelijk nieuws: Toevoeging van een extra nieuwsselectie, waardoor gebruikers toegang hebben tot een wereldwijd overzicht van wetenschappelijk nieuws zonder zich overweldigd te voelen.
+- Verbeterde functionaliteit van artikelzoekopdrachten: Toegevoegde suggesties voor trefwoorden om gebruikers te inspireren bij hun zoekopdracht.
+- Verbeterde functionaliteit van klinische onderzoeken: Toegevoegde suggesties voor trefwoorden om gebruikers te inspireren bij hun zoekopdracht.
+
+
 ### 3.3 <small>12 januari 2024</small>
 
 - Toevoeging van nieuwe functionaliteit: wetenschappelijk nieuws. Dit is onze selectie van het laatste wereldwijde wetenschappelijke nieuws.

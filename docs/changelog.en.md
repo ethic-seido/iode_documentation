@@ -6,6 +6,13 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.3.1 <small>January 16, 2024</small>
+
+- Improved SciScholarCraft functionality: Improved responses for analyzing our AI. We have trained it with new, reliable scientific studies, resulting in even more precise analyses.
+- Improvement of the scientific news functionality: addition of an extra news selection, enabling users to access a global overview of scientific news without feeling overwhelmed.
+- Improved Articles search functionality: Added suggested keyword examples to inspire users in their search.
+- Improved Clinical trials search functionality: Added suggested keyword examples to inspire users in their search.
+
 ### 3.3 <small>January 12, 2024</small>
 
 - Addition of new functionality: scientific news. This is our selection of the latest global scientfic news.

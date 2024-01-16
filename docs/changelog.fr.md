@@ -6,6 +6,14 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.3.1 <small>16 janvier 2024</small>
+
+- Amélioration de la fonctionnalité de SciScholarCraft : Amélioration des réponses pour l'analyse de notre IA. Nous l'avons entraînée avec de nouvelles études scientifiques fiables, ce qui se traduit par des analyses encore plus précises.
+- Amélioration de la fonctionnalité des actualités scientifiques : Ajout d'une sélection de nouvelles supplémentaire, permettant aux utilisateurs d'accéder à une vue d'ensemble mondiale des actualités scientifiques sans se sentir submergés.
+- Amélioration de la fonctionnalité de recherche d'articles : Ajout d'exemples de mots-clés suggérés pour inspirer les utilisateurs dans leur recherche.
+- Amélioration de la fonctionnalité de recherche d'essais cliniques : Ajout d'exemples de mots-clés suggérés pour inspirer les utilisateurs dans leur recherche.
+
+
 ### 3.3 <small>12 janvier 2024</small>
 
 - Ajout d'une nouvelle fonctionnalité : actualités scientifiques. Il s'agit de notre sélection des dernières actualités scientifiques mondiales.

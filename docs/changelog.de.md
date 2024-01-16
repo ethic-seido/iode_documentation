@@ -6,6 +6,14 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.3.1 <small>16. Januar 2024</small>
+
+- Verbesserte Funktionalität von SciScholarCraft: Verbesserte Antworten zur Analyse unserer KI. Wir haben sie mit neuen, zuverlässigen wissenschaftlichen Studien trainiert, was zu noch präziseren Analysen führt.
+- Verbesserung der Funktionalität für wissenschaftliche Nachrichten: Hinzufügen einer zusätzlichen Nachrichtenauswahl, die es Benutzern ermöglicht, einen globalen Überblick über wissenschaftliche Nachrichten zu erhalten, ohne sich überfordert zu fühlen.
+- Verbesserte Suchfunktionalität für Artikel: Hinzufügen von vorgeschlagenen Schlüsselwortbeispielen, um Benutzer bei ihrer Suche zu inspirieren.
+- Verbesserte Suchfunktionalität für klinische Studien: Hinzufügen von vorgeschlagenen Schlüsselwortbeispielen, um Benutzer bei ihrer Suche zu inspirieren.
+
+
 ### 3.3 <small>12. Januar 2024</small>
 
 - Hinzufügung neuer Funktionalitäten: Wissenschaftliche Nachrichten. Dies ist unsere Auswahl der neuesten globalen wissenschaftlichen Nachrichten.
