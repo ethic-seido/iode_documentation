@@ -80,9 +80,9 @@ Elle est située à gauche des sections de génération.
 
 ## **Sélection de projet de recherche**
 
-!!! warning "connexion requise"
+!!! warning "Offre Academic requise"
 
-    **Cette fonctionnalité est uniquement accessible si vous êtes connecté avec un compte (créé sur notre plateforme)**
+    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
 
 Deux possibilités s'offrent à vous :
 
@@ -94,9 +94,9 @@ vous pourrez alors consulter la liste de vos projets (si vous en avez déjà enr
 
 ## **Enregistrer votre projet**
 
-!!! warning "connexion requise"
+!!! warning "Offre Academic requise"
 
-    **Cette fonctionnalité est uniquement accessible si vous êtes connecté avec un compte (créé sur notre plateforme)**
+    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
 
 !!! info
 
@@ -112,9 +112,9 @@ Une notification confirmera si le projet a été enregistré.
 
 ## **Supprimer votre projet**
 
-!!! warning "connexion requise"
+!!! warning "Offre Academic requise"
 
-    **Cette fonctionnalité est uniquement accessible si vous êtes connecté avec un compte (créé sur notre plateforme)**
+    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
 
 Deux possibilités s'offrent à vous :
 
@@ -131,9 +131,9 @@ Une notification confirmera si le projet a été supprimé.
 
 ## **Ouvrir votre projet**
 
-!!! warning "connexion requise"
+!!! warning "Offre Academic requise"
 
-    **Cette fonctionnalité est uniquement accessible si vous êtes connecté avec un compte (créé sur notre plateforme)**
+    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
 
 Deux possibilités s'offrent à vous :
 
@@ -148,8 +148,8 @@ Deux possibilités s'offrent à vous :
     
 ## **Nouveau projet**
 
-!!! warning "connexion requise"
+!!! warning "Offre Academic requise"
 
-    **Cette fonctionnalité est uniquement accessible si vous êtes connecté avec un compte (créé sur notre plateforme)**
+    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
 
 Cliquez sur l'icône :fontawesome-solid-plus: dans la barre latérale d'accès rapide.

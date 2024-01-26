@@ -6,6 +6,9 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.4 <small>26 januari 2024</small>
+- Abonnementssysteem toegevoegd aan ES/IODE. Het platform wordt professioneler door zowel een betaald als gratis aanbod van zijn platform aan te bieden.
+
 ### 3.3.1 <small>16 januari 2024</small>
 
 - Verbeterde functionaliteit van SciScholarCraft: Verbeterde reacties voor het analyseren van onze AI. We hebben het getraind met nieuwe, betrouwbare wetenschappelijke studies, wat resulteert in nog nauwkeurigere analyses.

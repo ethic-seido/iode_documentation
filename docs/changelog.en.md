@@ -6,6 +6,8 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.4 <small>January 26, 2024</small>
+
 ### 3.3.1 <small>January 16, 2024</small>
 
 - Improved SciScholarCraft functionality: Improved responses for analyzing our AI. We have trained it with new, reliable scientific studies, resulting in even more precise analyses.

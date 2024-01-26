@@ -80,9 +80,9 @@ Het bevindt zich links van de generatiesections.
 
 ## **Selectie van onderzoeksproject**
 
-!!! warning "aanmelden vereist"
+!!! warning "Academic aanbod vereist"
 
-    **Deze functie is alleen toegankelijk als je bent ingelogd met een account (aangemaakt op ons platform)**
+    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
 
 Er zijn 2 mogelijkheden voor jou beschikbaar:
 
@@ -94,9 +94,9 @@ Je kunt dan de lijst met jouw projecten bekijken (als je er al hebt opgeslagen).
 
 ## **Sla je project op**
 
-!!! warning "aanmelden vereist"
+!!! warning "Academic aanbod vereist"
 
-    **Deze functie is alleen toegankelijk als je bent ingelogd met een account (aangemaakt op ons platform)**
+    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
 
 !!! info
 
@@ -112,9 +112,9 @@ Een melding zal bevestigen of het project is opgeslagen.
 
 ## **Verwijder je project**
 
-!!! warning "aanmelden vereist"
+!!! warning "Academic aanbod vereist"
 
-    **Deze functie is alleen toegankelijk als je bent ingelogd met een account (aangemaakt op ons platform)**
+    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
 
 Er zijn 2 mogelijkheden voor jou beschikbaar:
 
@@ -131,9 +131,9 @@ Een melding zal bevestigen of het project is verwijderd.
 
 ## **Open je project**
 
-!!! warning "aanmelden vereist"
+!!! warning "Academic aanbod vereist"
 
-    **Deze functie is alleen toegankelijk als je bent ingelogd met een account (aangemaakt op ons platform)**
+    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
 
 Er zijn 2 mogelijkheden voor jou beschikbaar:
 
@@ -148,9 +148,9 @@ Er zijn 2 mogelijkheden voor jou beschikbaar:
 
 ## **Nieuw project**
 
-!!! warning "aanmelden vereist"
+!!! warning "Academic aanbod vereist"
 
-    **Deze functie is alleen toegankelijk als je bent ingelogd met een account (aangemaakt op ons platform)**
+    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
 
 Klik op het :fontawesome-solid-plus: icoon in de snelle toegangszijbalk.
 

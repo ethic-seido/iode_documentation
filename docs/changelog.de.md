@@ -6,6 +6,10 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.4 <small>26. Januar 2024</small>
+- Abonnementssystem zu ES/IODE hinzugefügt. Die Plattform wird professioneller, indem sie ein kostenpflichtiges und kostenloses Angebot ihrer Plattform anbietet.
+
+
 ### 3.3.1 <small>16. Januar 2024</small>
 
 - Verbesserte Funktionalität von SciScholarCraft: Verbesserte Antworten zur Analyse unserer KI. Wir haben sie mit neuen, zuverlässigen wissenschaftlichen Studien trainiert, was zu noch präziseren Analysen führt.

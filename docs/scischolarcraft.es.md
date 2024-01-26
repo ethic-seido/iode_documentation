@@ -80,9 +80,9 @@ Se encuentra a la izquierda de las secciones de generaciones.
 
 ## **Selección de proyecto de investigación**
 
-!!! warning "se requiere inicio de sesión"
+!!! warning "Se requiere oferta Academic"
 
-    **Esta función solo es accesible si has iniciado sesión con una cuenta (creada en nuestra plataforma)**
+    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
 
 Tienes dos posibilidades:
 
@@ -94,9 +94,9 @@ entonces podrás ver la lista de tus proyectos (si ya has guardado alguno).
 
 ## **Guardar tu proyecto**
 
-!!! warning "se requiere inicio de sesión"
+!!! warning "Se requiere oferta Academic"
 
-    **Esta función solo es accesible si has iniciado sesión con una cuenta (creada en nuestra plataforma)**
+    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
 
 !!! info
 
@@ -114,9 +114,9 @@ Una notificación confirmará si el proyecto ha sido guardado.
 
 ## **Eliminar tu proyecto**
 
-!!! warning "se requiere inicio de sesión"
+!!! warning "Se requiere oferta Academic"
 
-    **Esta función solo es accesible si has iniciado sesión con una cuenta (creada en nuestra plataforma)**
+    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
 
 Tienes dos posibilidades:
 
@@ -133,9 +133,9 @@ Una notificación confirmará si el proyecto ha sido eliminado.
 
 ## **Abrir tu proyecto**
 
-!!! warning "se requiere inicio de sesión"
+!!! warning "Se requiere oferta Academic"
 
-    **Esta función solo es accesible si has iniciado sesión con una cuenta (creada en nuestra plataforma)**
+    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
 
 Tienes dos posibilidades:
 
@@ -150,9 +150,9 @@ Tienes dos posibilidades:
   
 ## **Nuevo proyecto**
 
-!!! warning "se requiere inicio de sesión"
+!!! warning "Se requiere oferta Academic"
 
-    **Esta función solo es accesible si has iniciado sesión con una cuenta (creada en nuestra plataforma)**
+    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
 
 
 Haz clic en el icono :fontawesome-solid-plus: en la barra lateral de acceso rápido.

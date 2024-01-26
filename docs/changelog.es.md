@@ -6,6 +6,10 @@ description: muestra información de actualización del servicio
 
 ## **Registro de cambios de ES/IODE**
 
+### 3.4 <small>26 de enero de 2024</small>
+- Se agregó un sistema de suscripción a ES/IODE. La plataforma se vuelve más profesional al ofrecer una oferta de pago y gratuita de su plataforma.
+
+
 ### 3.3.1 <small>16 de enero de 2024</small>
 
 - Mejora de la funcionalidad de SciScholarCraft: Mejora de las respuestas para analizar nuestra IA. La hemos entrenado con nuevos estudios científicos fiables, lo que resulta en análisis aún más precisos.

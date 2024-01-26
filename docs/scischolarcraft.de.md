@@ -80,9 +80,9 @@ Sie befindet sich links von den Generierungsbereichen.
 
 ## **Auswahl des Forschungsprojekts**
 
-!!! Warning "Anmeldung erforderlich"
+!!! warning "Academic Angebot erforderlich"
 
-    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto angemeldet sind (auf unserer Plattform erstellt)**
+    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto verbunden sind (auf unserer Plattform erstellt) und über das Academic Angebot verfügen**
 
 Es stehen Ihnen 2 Möglichkeiten zur Verfügung:
 
@@ -94,9 +94,9 @@ Dann können Sie die Liste Ihrer Projekte anzeigen (wenn Sie bereits welche gesp
 
 ## **Speichern Sie Ihr Projekt**
 
-!!! Warning "Anmeldung erforderlich"
+!!! warning "Academic Angebot erforderlich"
 
-    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto angemeldet sind (auf unserer Plattform erstellt)**
+    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto verbunden sind (auf unserer Plattform erstellt) und über das Academic Angebot verfügen**
 
 !!! Info
 
@@ -114,9 +114,9 @@ Eine Benachrichtigung bestätigt, ob das Projekt gespeichert wurde.
 
 ## **Löschen Sie Ihr Projekt**
 
-!!! Warning "Anmeldung erforderlich"
+!!! warning "Academic Angebot erforderlich"
 
-    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto angemeldet sind (auf unserer Plattform erstellt)**
+    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto verbunden sind (auf unserer Plattform erstellt) und über das Academic Angebot verfügen**
 
 Es stehen Ihnen 2 Möglichkeiten zur Verfügung:
 
@@ -133,9 +133,9 @@ Eine Benachrichtigung bestätigt, ob das Projekt gelöscht wurde.
 
 ## **Öffnen Sie Ihr Projekt**
 
-!!! Warning "Anmeldung erforderlich"
+!!! warning "Academic Angebot erforderlich"
 
-    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto angemeldet sind (auf unserer Plattform erstellt)**
+    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto verbunden sind (auf unserer Plattform erstellt) und über das Academic Angebot verfügen**
 
 Es stehen Ihnen 2 Möglichkeiten zur Verfügung:
 
@@ -150,8 +150,8 @@ Es stehen Ihnen 2 Möglichkeiten zur Verfügung:
 
 ## **Neues Projekt**
 
-!!! Warning "Anmeldung erforderlich"
+!!! warning "Academic Angebot erforderlich"
 
-    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto angemeldet sind (auf unserer Plattform erstellt)**
+    **Diese Funktion ist nur zugänglich, wenn Sie mit einem Konto verbunden sind (auf unserer Plattform erstellt) und über das Academic Angebot verfügen**
 
 Klicken Sie auf das Symbol :fontawesome-solid-plus: in der Schnellzugriffsleiste.

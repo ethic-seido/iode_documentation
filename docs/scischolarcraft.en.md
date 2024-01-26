@@ -80,9 +80,9 @@ It is located to the left of the generations sections.
 
 ## **Research project selection**
 
-!!! warning "login required"
+!!! warning "Academic offer required"
 
-    **This feature is only accessible if you are logged in with an account (created on our platform)**
+    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
 
 2 possibilities are available to you:
 
@@ -96,7 +96,7 @@ you will then be able to view the list of your projects (if you have already sav
 
 !!! warning "login required"
 
-    **This feature is only accessible if you are logged in with an account (created on our platform)**
+    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
 
 !!! info
 
@@ -114,9 +114,9 @@ A notification will confirm if the project has been saved.
 
 ## **Delete your project**
 
-!!! warning "login required"
+!!! warning "Academic offer required"
 
-    **This feature is only accessible if you are logged in with an account (created on our platform)**
+    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
 
 2 possibilities are available to you:
 
@@ -133,9 +133,9 @@ A notification will confirm if the project has been deleted.
 
 ## **Open your project**
 
-!!! warning "login required"
+!!! warning "Academic offer required"
 
-    **This feature is only accessible if you are logged in with an account (created on our platform)**
+    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
 
 2 possibilities are available to you:
 
@@ -150,9 +150,9 @@ A notification will confirm if the project has been deleted.
 
 ## **New project**
 
-!!! warning "login required"
+!!! warning "Academic offer required"
 
-    **This feature is only accessible if you are logged in with an account (created on our platform)**
+    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
 
 
 Click on the :fontawesome-solid-plus: icon in the quick access sidebar.
