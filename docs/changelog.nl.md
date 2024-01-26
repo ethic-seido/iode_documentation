@@ -7,7 +7,9 @@ description: weergeven van informatie over service-updates
 ## **ES/IODE Wijzigingslogboek**
 
 ### 3.4 <small>26 januari 2024</small>
-- Abonnementssysteem toegevoegd aan ES/IODE. Het platform wordt professioneler door zowel een betaald als gratis aanbod van zijn platform aan te bieden.
+
+- Toevoegen van een abonnementssysteem voor ES/IODE. Het platform wordt professioneler door een betaald en gratis aanbod van zijn platform aan te bieden.
+- Toevoeging van de prijspagina, waarmee u zich eenvoudig kunt abonneren op de verschillende aanbiedingen.
 
 ### 3.3.1 <small>16 januari 2024</small>
 

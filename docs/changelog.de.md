@@ -7,7 +7,10 @@ description: Anzeige von Service-Update-Informationen
 ## **ES/IODE Änderungsprotokoll**
 
 ### 3.4 <small>26. Januar 2024</small>
-- Abonnementssystem zu ES/IODE hinzugefügt. Die Plattform wird professioneller, indem sie ein kostenpflichtiges und kostenloses Angebot ihrer Plattform anbietet.
+
+- Hinzufügen eines Abonnement-Systems für ES/IODE. Die Plattform wird professioneller, indem sie ein kostenpflichtiges und kostenloses Angebot ihrer Plattform anbietet.
+- Hinzufügen der Preisübersichtsseite, die es Ihnen ermöglicht, sich einfach für die verschiedenen Angebote anzumelden.
+
 
 
 ### 3.3.1 <small>16. Januar 2024</small>

@@ -7,7 +7,9 @@ description: muestra información de actualización del servicio
 ## **Registro de cambios de ES/IODE**
 
 ### 3.4 <small>26 de enero de 2024</small>
-- Se agregó un sistema de suscripción a ES/IODE. La plataforma se vuelve más profesional al ofrecer una oferta de pago y gratuita de su plataforma.
+
+- Se agregó un sistema de suscripción a ES/IODE. La plataforma se vuelve más profesional al ofrecer una oferta paga y gratuita de su plataforma.
+- Adición de la página de precios, que le permite suscribirse fácilmente a las diferentes ofertas.
 
 
 ### 3.3.1 <small>16 de enero de 2024</small>

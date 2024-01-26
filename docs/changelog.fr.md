@@ -7,7 +7,9 @@ description: affichage des informations de mise à jour du service
 ## **Journal des modifications ES/IODE**
 
 ### 3.4 <small>26 janvier 2024</small>
+
 - Ajout d'un système d'abonnement à ES/IODE. La plateforme devient plus professionnelle en proposant une offre payante et gratuite de sa plateforme.
+- Ajout de la page des tarifs, qui vous permet de vous abonner facilement aux différentes offres.
 
 
 ### 3.3.1 <small>16 janvier 2024</small>

@@ -8,6 +8,9 @@ description: displaying service update information
 
 ### 3.4 <small>January 26, 2024</small>
 
+- Added subscription system to ES/IODE. The platform is becoming more professional, by offering a paid and free offer of its platform.
+- Addition of the pricing page, which allows you to easily subscribe to the different offers.
+
 ### 3.3.1 <small>January 16, 2024</small>
 
 - Improved SciScholarCraft functionality: Improved responses for analyzing our AI. We have trained it with new, reliable scientific studies, resulting in even more precise analyses.
