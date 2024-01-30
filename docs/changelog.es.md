@@ -6,6 +6,13 @@ description: muestra información de actualización del servicio
 
 ## **Registro de cambios de ES/IODE**
 
+### 3.4.1 <small>30 de enero de 2024</small>
+
+- Mejora de la funcionalidad de SciScholarCraft: Los estudios científicos ahora contienen un resumen o una imagen relacionada con el estudio.
+- Mejora de la funcionalidad de búsqueda de artículos científicos: Los estudios científicos ahora contienen un resumen o una imagen relacionada con el artículo.
+- Mejora de la funcionalidad de SciScholarCraft: Se ha mejorado el encabezado de espera, así como la animación de espera y la animación del tiempo restante.
+
+
 ### 3.4 <small>26 de enero de 2024</small>
 
 - Se agregó un sistema de suscripción a ES/IODE. La plataforma se vuelve más profesional al ofrecer una oferta paga y gratuita de su plataforma.

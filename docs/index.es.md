@@ -4,7 +4,7 @@ icon: simple/readthedocs
 ---
 # Bienvenido a ES/IODE: Tu servicio confiable de investigación científica en línea
 
-[![imagen](https://img.shields.io/badge/versión-3.4-blue)](changelog.md)
+[![imagen](https://img.shields.io/badge/versión-3.4.1-blue)](changelog.md)
 [![imagen](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=blanco)](https://learn.microsoft.com/dotnet/)
 
 [![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)

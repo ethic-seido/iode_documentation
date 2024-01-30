@@ -6,6 +6,12 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.4.1 <small>January 30, 2024</small>
+
+- Improved SciScholarCraft functionality: Scientific studies now contain an overview or image relating to the study.
+- Improved scientific article search functionality: Scientific studies now contain an overview or an image relating to the article.
+- Improved SciScholarCraft functionality: the waiting header has been improved, as well as the waiting animation and the remaining time animation.
+
 ### 3.4 <small>January 26, 2024</small>
 
 - Added subscription system to ES/IODE. The platform is becoming more professional, by offering a paid and free offer of its platform.

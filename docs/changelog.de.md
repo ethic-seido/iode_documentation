@@ -6,6 +6,13 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.4.1 <small>30. Januar 2024</small>
+
+- Verbesserte Funktionalität von SciScholarCraft: Wissenschaftliche Studien enthalten jetzt eine Übersicht oder ein Bild, das sich auf die Studie bezieht.
+- Verbesserte Funktion zur Suche wissenschaftlicher Artikel: Wissenschaftliche Studien enthalten jetzt eine Übersicht oder ein Bild, das sich auf den Artikel bezieht.
+- Verbesserte Funktionalität von SciScholarCraft: Der Warte-Header wurde verbessert, ebenso wie die Warte-Animation und die verbleibende Zeit-Animation.
+
+
 ### 3.4 <small>26. Januar 2024</small>
 
 - Hinzufügen eines Abonnement-Systems für ES/IODE. Die Plattform wird professioneller, indem sie ein kostenpflichtiges und kostenloses Angebot ihrer Plattform anbietet.

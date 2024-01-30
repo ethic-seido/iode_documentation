@@ -6,6 +6,13 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.4.1 <small>30 janvier 2024</small>
+
+- Amélioration de la fonctionnalité de SciScholarCraft : Les études scientifiques contiennent désormais un aperçu ou une image liée à l'étude.
+- Amélioration de la fonction de recherche d'articles scientifiques : Les études scientifiques contiennent désormais un aperçu ou une image liée à l'article.
+- Amélioration de la fonctionnalité de SciScholarCraft : L'en-tête d'attente a été amélioré, ainsi que l'animation d'attente et l'animation du temps restant.
+
+
 ### 3.4 <small>26 janvier 2024</small>
 
 - Ajout d'un système d'abonnement à ES/IODE. La plateforme devient plus professionnelle en proposant une offre payante et gratuite de sa plateforme.

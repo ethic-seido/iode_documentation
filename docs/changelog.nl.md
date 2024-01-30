@@ -6,6 +6,13 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.4.1 <small>30 januari 2024</small>
+
+- Verbeterde functionaliteit van SciScholarCraft: Wetenschappelijke studies bevatten nu een overzicht of afbeelding met betrekking tot de studie.
+- Verbeterde functionaliteit voor het zoeken van wetenschappelijke artikelen: Wetenschappelijke studies bevatten nu een overzicht of afbeelding met betrekking tot het artikel.
+- Verbeterde functionaliteit van SciScholarCraft: De wachtkop is verbeterd, evenals de wachtanimatie en de resterende tijd-animatie.
+
+
 ### 3.4 <small>26 januari 2024</small>
 
 - Toevoegen van een abonnementssysteem voor ES/IODE. Het platform wordt professioneler door een betaald en gratis aanbod van zijn platform aan te bieden.
