@@ -6,6 +6,10 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.4.2 <small>Februrary 05, 2024</small>
+
+- Evolution of the scientific article search functionality: modification of the pagination mechanism, the latter is now presented in the form of loading by scroll
+
 ### 3.4.1 <small>January 30, 2024</small>
 
 - Improved SciScholarCraft functionality: Scientific studies now contain an overview or image relating to the study.

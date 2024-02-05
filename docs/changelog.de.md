@@ -6,6 +6,11 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.4.2 <small>5. Februar 2024</small>
+
+- Weiterentwicklung der Funktion zur wissenschaftlichen Artikel-Suche: Änderung des Paginierungsmechanismus, dieser wird nun in Form von Scroll-Laden präsentiert
+
+
 ### 3.4.1 <small>30. Januar 2024</small>
 
 - Verbesserte Funktionalität von SciScholarCraft: Wissenschaftliche Studien enthalten jetzt eine Übersicht oder ein Bild, das sich auf die Studie bezieht.

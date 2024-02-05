@@ -6,6 +6,11 @@ description: muestra información de actualización del servicio
 
 ## **Registro de cambios de ES/IODE**
 
+### 3.4.2 <small>5 de febrero de 2024</small>
+
+- Evolución de la funcionalidad de búsqueda de artículos científicos: modificación del mecanismo de paginación, este ahora se presenta en forma de carga por desplazamiento
+
+
 ### 3.4.1 <small>30 de enero de 2024</small>
 
 - Mejora de la funcionalidad de SciScholarCraft: Los estudios científicos ahora contienen un resumen o una imagen relacionada con el estudio.

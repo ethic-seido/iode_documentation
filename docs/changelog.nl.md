@@ -6,6 +6,11 @@ description: weergeven van informatie over service-updates
 
 ## **ES/IODE Wijzigingslogboek**
 
+### 3.4.2 <small>5 februari 2024</small>
+
+- Evolutie van de functionaliteit voor het zoeken van wetenschappelijke artikelen: wijziging van het paginatiemechanisme, dit wordt nu gepresenteerd in de vorm van laden via scrollen
+
+
 ### 3.4.1 <small>30 januari 2024</small>
 
 - Verbeterde functionaliteit van SciScholarCraft: Wetenschappelijke studies bevatten nu een overzicht of afbeelding met betrekking tot de studie.
