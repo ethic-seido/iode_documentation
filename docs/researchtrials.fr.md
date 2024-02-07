@@ -24,4 +24,4 @@ Cliquez sur l'icône :material-cog: sous la barre de recherche, puis vous pouvez
 - Modèle __bright__ : Ce modèle vise à aider les chercheurs et à fournir des réponses scientifiques fiables.
 - Modèle __genius__ : Ce modèle vise à aider les chercheurs expérimentés et à fournir des réponses scientifiques très techniques et fiables.
 
-L'assistant IA d'__ES/IODE__ est une intelligence artif
+L'assistant IA d'__ES/IODE__ est une intelligence artificielle générative que nous avons conçue pour vous aider à approfondir vos sujets de recherche scientifique tout en vous aidant dans leur progression et leur compréhension.
