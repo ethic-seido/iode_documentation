@@ -6,9 +6,11 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
-### 3.4.2 <small>5 février 2024</small>
+### 3.4.2 <small>5 Février 2024</small>
 
 - Évolution de la fonctionnalité de recherche d'articles scientifiques : modification du mécanisme de pagination, celui-ci est désormais présenté sous forme de chargement par défilement.
+- Correction d'un problème de session lié à la pagination dans la recherche d'études scientifiques, qui empêchait l'utilisateur de voir les résultats suivants.
+
 
 ### 3.4.1 <small>30 janvier 2024</small>
 

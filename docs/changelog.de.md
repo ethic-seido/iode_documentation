@@ -8,8 +8,8 @@ description: Anzeige von Service-Update-Informationen
 
 ### 3.4.2 <small>5. Februar 2024</small>
 
-- Weiterentwicklung der Funktion zur wissenschaftlichen Artikel-Suche: Änderung des Paginierungsmechanismus, dieser wird nun in Form von Scroll-Laden präsentiert
-
+- Entwicklung der Funktion zur wissenschaftlichen Artikelrecherche: Änderung des Paginierungsmechanismus, dieser wird nun in Form eines Scroll-Ladens präsentiert.
+- Behebung eines Sitzungsproblems im Zusammenhang mit der Paginierung bei der wissenschaftlichen Studiensuche, das verhinderte, dass der Benutzer die folgenden Ergebnisse sah.
 
 ### 3.4.1 <small>30. Januar 2024</small>
 
