@@ -8,7 +8,7 @@ description: displaying service update information
 
 ### 3.4.2 <small>Februrary 05, 2024</small>
 
-- Evolution of the scientific article search functionality: modification of the pagination mechanism, the latter is now presented in the form of loading by scroll
+- Evolution of the scientific article search functionality: modification of the pagination mechanism, the latter is now presented in the form of loading by scroll.
 - Fixed a session issue relating to pagination in the scientific study search, which prevented the user from seeing the following results.
 
 ### 3.4.1 <small>January 30, 2024</small>
