@@ -8,8 +8,11 @@ description: weergeven van informatie over service-updates
 
 ### 3.4.2 <small>5 februari 2024</small>
 
-- Evolutie van de functionaliteit voor het zoeken naar wetenschappelijke artikelen: aanpassing van het paginatiemechanisme, dit wordt nu gepresenteerd in de vorm van laden door scrollen.
-- Een probleem met de sessie met betrekking tot paginering in de zoektocht naar wetenschappelijke studies is opgelost, waardoor de gebruiker de volgende resultaten niet kon zien.
+- Evolutie van de functionaliteit voor het zoeken van wetenschappelijke artikelen: wijziging van het paginatiemechanisme, dit wordt nu weergegeven in de vorm van laden door te scrollen.
+- Oplossing van een sessieprobleem met betrekking tot paginering in het zoeken naar wetenschappelijke studies, waardoor de gebruiker de volgende resultaten niet kon zien.
+- Verbetering van de functionaliteit voor wetenschappelijk nieuws: toevoeging van een sectie "Wetenschappelijk nieuws in uw taal" met de laatste nieuwsberichten in de taal van de gebruiker of volgens de geselecteerde taal in het platform.
+- Verplaatsing van de locatie van het menu voor wetenschappelijke afbeeldingen in het Functiemenu.
+
 
 ### 3.4.1 <small>30 januari 2024</small>
 

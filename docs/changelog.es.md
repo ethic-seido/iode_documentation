@@ -8,8 +8,11 @@ description: muestra información de actualización del servicio
 
 ### 3.4.2 <small>5 de febrero de 2024</small>
 
-- Evolución de la funcionalidad de búsqueda de artículos científicos: modificación del mecanismo de paginación, ahora presentado en forma de carga por desplazamiento.
-- Se corrigió un problema de sesión relacionado con la paginación en la búsqueda de estudios científicos, que impedía al usuario ver los resultados siguientes.
+- Evolución de la funcionalidad de búsqueda de artículos científicos: modificación del mecanismo de paginación, ahora se presenta en forma de carga por desplazamiento.
+- Se solucionó un problema de sesión relacionado con la paginación en la búsqueda de estudios científicos, que impedía que el usuario viera los resultados siguientes.
+- Mejora de la funcionalidad de noticias científicas: adición de una sección "Noticias científicas en su idioma" que contiene las últimas noticias en el idioma del usuario o según el idioma seleccionado en la plataforma.
+- Cambio de la ubicación del menú de imágenes científicas en el menú de Características.
+
 
 ### 3.4.1 <small>30 de enero de 2024</small>
 

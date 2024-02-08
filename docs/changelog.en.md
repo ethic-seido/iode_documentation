@@ -6,10 +6,13 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
-### 3.4.2 <small>Februrary 05, 2024</small>
+### 3.4.2 <small>February 05, 2024</small>
 
 - Evolution of the scientific article search functionality: modification of the pagination mechanism, the latter is now presented in the form of loading by scroll.
 - Fixed a session issue relating to pagination in the scientific study search, which prevented the user from seeing the following results.
+- Improvement of the science news functionality: addition of a “scientific news your language” section which contains the latest news in the user's language or according to the language selected in the platform.
+- Changing the location of the science image menu in the Feature menu.
+
 
 ### 3.4.1 <small>January 30, 2024</small>
 

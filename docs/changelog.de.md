@@ -8,8 +8,11 @@ description: Anzeige von Service-Update-Informationen
 
 ### 3.4.2 <small>5. Februar 2024</small>
 
-- Entwicklung der Funktion zur wissenschaftlichen Artikelrecherche: Änderung des Paginierungsmechanismus, dieser wird nun in Form eines Scroll-Ladens präsentiert.
-- Behebung eines Sitzungsproblems im Zusammenhang mit der Paginierung bei der wissenschaftlichen Studiensuche, das verhinderte, dass der Benutzer die folgenden Ergebnisse sah.
+- Entwicklung der Funktionalität zur Suche wissenschaftlicher Artikel: Änderung des Paginierungsmechanismus, dieser wird nun in Form von Laden durch Scrollen präsentiert.
+- Behebung eines Sitzungsproblems in Bezug auf die Paginierung bei der Suche nach wissenschaftlichen Studien, das verhinderte, dass der Benutzer die folgenden Ergebnisse sah.
+- Verbesserung der Funktionalität für wissenschaftliche Nachrichten: Hinzufügen eines Abschnitts "Wissenschaftsnachrichten in Ihrer Sprache", der die neuesten Nachrichten in der Sprache des Benutzers oder gemäß der in der Plattform ausgewählten Sprache enthält.
+- Änderung des Standorts des Wissenschaftsbild-Menüs im Feature-Menü.
+
 
 ### 3.4.1 <small>30. Januar 2024</small>
 

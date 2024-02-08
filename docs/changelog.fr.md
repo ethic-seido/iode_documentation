@@ -6,10 +6,13 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
-### 3.4.2 <small>5 Février 2024</small>
+### 3.4.2 <small>5 février 2024</small>
 
-- Évolution de la fonctionnalité de recherche d'articles scientifiques : modification du mécanisme de pagination, celui-ci est désormais présenté sous forme de chargement par défilement.
-- Correction d'un problème de session lié à la pagination dans la recherche d'études scientifiques, qui empêchait l'utilisateur de voir les résultats suivants.
+- Évolution de la fonctionnalité de recherche d'articles scientifiques : modification du mécanisme de pagination, ce dernier est désormais présenté sous forme de chargement par défilement.
+- Résolution d'un problème de session lié à la pagination dans la recherche d'études scientifiques, empêchant l'utilisateur de voir les résultats suivants.
+- Amélioration de la fonctionnalité des actualités scientifiques : ajout d'une section "Actualités scientifiques dans votre langue" qui contient les dernières nouvelles dans la langue de l'utilisateur ou selon la langue sélectionnée dans la plateforme.
+- Changement de l'emplacement du menu des images scientifiques dans le menu Fonctionnalités.
+
 
 
 ### 3.4.1 <small>30 janvier 2024</small>
