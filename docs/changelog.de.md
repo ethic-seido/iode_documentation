@@ -6,6 +6,13 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.4.3 <small>9. Februar 2024</small>
+
+- Wissenschaftliche Nachrichtenfunktion: verbesserte Größenanpassung von Nachrichtenbildern.
+- Änderung des Titels der Plattformpräsentationsseite.
+- Funktionalität zur Suche nach wissenschaftlichen Artikeln: Verbesserte Größenanpassung der Ergebnisliste.
+
+
 ### 3.4.2 <small>5. Februar 2024</small>
 
 - Entwicklung der Funktionalität zur Suche wissenschaftlicher Artikel: Änderung des Paginierungsmechanismus, dieser wird nun in Form von Laden durch Scrollen präsentiert.

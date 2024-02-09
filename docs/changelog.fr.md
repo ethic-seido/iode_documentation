@@ -6,6 +6,13 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.4.3 <small>9 février 2024</small>
+
+- Fonctionnalité d'actualités scientifiques : amélioration de la taille des images d'actualités.
+- Changement du titre de la page de présentation de la plateforme.
+- Fonctionnalité de recherche d'articles scientifiques : amélioration de la taille de la liste de résultats.
+
+
 ### 3.4.2 <small>5 février 2024</small>
 
 - Évolution de la fonctionnalité de recherche d'articles scientifiques : modification du mécanisme de pagination, ce dernier est désormais présenté sous forme de chargement par défilement.

@@ -6,6 +6,12 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.4.3 <small>February 09, 2024</small>
+
+- Scientific News feature: improved sizing of news images.
+- Changing the title of the platform presentation page.
+- Scientific article search functionality: Improved sizing of the result list.
+
 ### 3.4.2 <small>February 05, 2024</small>
 
 - Evolution of the scientific article search functionality: modification of the pagination mechanism, the latter is now presented in the form of loading by scroll.

@@ -5,6 +5,12 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.3 <small>9 februari 2024</small>
+
+- Wetenschappelijke nieuwsfunctie: verbeterde dimensionering van nieuwsafbeeldingen.
+- Wijziging van de titel van de presentatiepagina van het platform.
+- Functionaliteit voor het zoeken van wetenschappelijke artikelen: verbeterde dimensionering van de resultatenlijst.
+
 
 ### 3.4.2 <small>5 februari 2024</small>
 
