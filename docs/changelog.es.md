@@ -6,6 +6,12 @@ description: muestra información de actualización del servicio
 
 ## **Registro de cambios de ES/IODE**
 
+### 3.4.4 <small>16 de febrero de 2024</small>
+
+- Mejora de la ergonomía de la funcionalidad SciScholarCraft
+- Mejora de la funcionalidad SciScholarCraft: Se agregó la sección "Noticias Relacionadas". Que muestra noticias relacionadas con el objetivo de búsqueda del usuario.
+
+
 ### 3.4.3 <small>9 de febrero de 2024</small>
 
 - Función de noticias científicas: mejora en el tamaño de las imágenes de noticias.

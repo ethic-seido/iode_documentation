@@ -5,6 +5,12 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+
+### 3.4.4 <small>16 februari 2024</small>
+
+- Verbeterde ergonomie van de SciScholarCraft-functionaliteit
+- Verbeterde SciScholarCraft-functionaliteit: Toegevoegde sectie "Gerelateerd nieuws". Die nieuws toont dat verband houdt met het zoekdoel van de gebruiker.
+
 ### 3.4.3 <small>9 februari 2024</small>
 
 - Wetenschappelijke nieuwsfunctie: verbeterde dimensionering van nieuwsafbeeldingen.

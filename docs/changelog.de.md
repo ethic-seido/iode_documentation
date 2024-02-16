@@ -6,6 +6,12 @@ description: Anzeige von Service-Update-Informationen
 
 ## **ES/IODE Änderungsprotokoll**
 
+### 3.4.4 <small>16. Februar 2024</small>
+
+- Verbesserte Ergonomie der SciScholarCraft-Funktionalität
+- Verbesserte SciScholarCraft-Funktionalität: Hinzufügen des Abschnitts "Verwandte Nachrichten". Hier werden Nachrichten angezeigt, die mit dem Suchziel des Benutzers zusammenhängen.
+
+
 ### 3.4.3 <small>9. Februar 2024</small>
 
 - Wissenschaftliche Nachrichtenfunktion: verbesserte Größenanpassung von Nachrichtenbildern.

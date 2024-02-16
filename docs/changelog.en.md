@@ -6,6 +6,11 @@ description: displaying service update information
 
 ## **ES/IODE Changelog**
 
+### 3.4.4 <small>February 16, 2024</small>
+
+- Improved ergonomics of the SciScholarCraft functionality
+- Improved SciScholarCraft functionality: Added "Related News" section. Which displays news related to the user's search objective.
+
 ### 3.4.3 <small>February 09, 2024</small>
 
 - Scientific News feature: improved sizing of news images.

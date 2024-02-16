@@ -6,6 +6,12 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.4.4 <small>16 février 2024</small>
+
+- Amélioration de l'ergonomie de la fonctionnalité SciScholarCraft
+- Amélioration de la fonctionnalité SciScholarCraft : Ajout de la section "Actualités connexes". Qui affiche des actualités liées à l'objectif de recherche de l'utilisateur.
+
+
 ### 3.4.3 <small>9 février 2024</small>
 
 - Fonctionnalité d'actualités scientifiques : amélioration de la taille des images d'actualités.
