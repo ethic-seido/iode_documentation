@@ -5,6 +5,12 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.5 <small>17 mei 2024</small>
+
+- Oplossing voor een probleem met sessiebeheer in de functionaliteit voor het zoeken naar klinische proeven
+- Verbeteringen aan de functionaliteit voor het zoeken naar wetenschappelijke artikelen en klinische proeven:
+    - Wijziging van de zoekinstellingenknop
+    - Verbetering van de leesbaarheid van teksten en artikelen met een meer geschikt lettertype
 
 ### 3.4.4 <small>16 februari 2024</small>
 

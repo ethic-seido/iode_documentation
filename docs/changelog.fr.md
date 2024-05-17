@@ -5,6 +5,12 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.4.5 <small>17 mai 2024</small>
+
+- Correction d'un problème de gestion de session dans la fonctionnalité de recherche d'essais cliniques
+- Améliorations des fonctionnalités de recherche d'articles scientifiques et d'essais cliniques :
+    - Modification du bouton de réglage de recherche
+    - Amélioration de la lisibilité des textes et articles avec une police plus adaptée
 
 ### 3.4.4 <small>16 février 2024</small>
 

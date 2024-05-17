@@ -5,6 +5,12 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.4.5 <small>17 de mayo de 2024</small>
+
+- Corrección de un problema de gestión de sesión en la funcionalidad de búsqueda de ensayos clínicos
+- Mejoras en las funcionalidades de búsqueda de artículos científicos y ensayos clínicos:
+    - Cambio del botón de configuración de búsqueda
+    - Mejora de la legibilidad de textos y artículos con una fuente más adecuada
 
 ### 3.4.4 <small>16 de febrero de 2024</small>
 

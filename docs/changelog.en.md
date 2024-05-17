@@ -5,6 +5,12 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.4.5 <small>May 17, 2024</small>
+
+- Fixing a session management issue in the clinical trial search functionality
+- Enhancements to scientific article and clinical trial search features:
+    - Changing the search setting button
+    - Improving the readability of texts and articles with a more suitable font
 
 ### 3.4.4 <small>February 16, 2024</small>
 

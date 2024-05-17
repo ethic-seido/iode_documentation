@@ -5,6 +5,12 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.4.5 <small>17. Mai 2024</small>
+
+- Behebung eines Problems mit der Sitzungsverwaltung in der klinischen Studiensuche
+- Verbesserung der Funktionen für die Suche nach wissenschaftlichen Artikeln und klinischen Studien:
+    - Änderung der Einstellungsschaltfläche für die Suche
+    - Verbesserung der Lesbarkeit von Texten und Artikeln mit einer geeigneteren Schriftart
 
 ### 3.4.4 <small>16. Februar 2024</small>
 
