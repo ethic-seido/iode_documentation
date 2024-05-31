@@ -5,6 +5,10 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.4.6 <small>31 mai 2024</small>
+
+- Amélioration des performances de chargement du service
+
 ### 3.4.5 <small>17 mai 2024</small>
 
 - Correction d'un problème de gestion de session dans la fonctionnalité de recherche d'essais cliniques

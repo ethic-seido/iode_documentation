@@ -5,6 +5,10 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.4.6 <small>May 31, 2024</small>
+
+- Improved service loading performance
+
 ### 3.4.5 <small>May 17, 2024</small>
 
 - Fixing a session management issue in the clinical trial search functionality

@@ -5,6 +5,10 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.4.6 <small>31 de mayo de 2024</small>
+
+- Mejora del rendimiento de carga del servicio
+
 ### 3.4.5 <small>17 de mayo de 2024</small>
 
 - Corrección de un problema de gestión de sesión en la funcionalidad de búsqueda de ensayos clínicos

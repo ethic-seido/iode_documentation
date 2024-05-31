@@ -5,6 +5,10 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.4.6 <small>31. Mai 2024</small>
+
+- Verbesserung der Ladeleistung des Dienstes
+
 ### 3.4.5 <small>17. Mai 2024</small>
 
 - Behebung eines Problems mit der Sitzungsverwaltung in der klinischen Studiensuche

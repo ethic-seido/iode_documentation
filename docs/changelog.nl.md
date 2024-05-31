@@ -5,6 +5,10 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.6 <small>31 mei 2024</small>
+
+- Verbeterde laadsnelheid van de service
+
 ### 3.4.5 <small>17 mei 2024</small>
 
 - Oplossing voor een probleem met sessiebeheer in de functionaliteit voor het zoeken naar klinische proeven
