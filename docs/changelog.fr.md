@@ -5,6 +5,10 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.4.7 <small>21 juin 2024</small>
+
+- Ajout d'une nouvelle fonctionnalité : Revue scientifique. Il s'agit de notre sélection des études scientifiques du moment. Nous sélectionnons chaque jour de nouvelles études !
+
 ### 3.4.6 <small>31 mai 2024</small>
 
 - Amélioration des performances de chargement du service

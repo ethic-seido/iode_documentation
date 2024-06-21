@@ -5,6 +5,10 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.4.7 <small>21. Juni 2024</small>
+
+- Hinzufügung einer neuen Funktion: Wissenschaftliche Rezension. Dies ist unsere Auswahl der aktuellen wissenschaftlichen Studien. Wir wählen jeden Tag neue Studien aus!
+
 ### 3.4.6 <small>31. Mai 2024</small>
 
 - Verbesserung der Ladeleistung des Dienstes

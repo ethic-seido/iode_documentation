@@ -5,6 +5,10 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.4.7 <small>June 21, 2024</small>
+
+- Added a new feature: Scientific Review. This is our selection of current scientific studies. We select new studies every day!
+
 ### 3.4.6 <small>May 31, 2024</small>
 
 - Improved service loading performance

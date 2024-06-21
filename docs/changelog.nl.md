@@ -5,6 +5,10 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.7 <small>21 juni 2024</small>
+
+- Toevoeging van een nieuwe functie: Wetenschappelijke beoordeling. Dit is onze selectie van actuele wetenschappelijke studies. We selecteren elke dag nieuwe studies!
+
 ### 3.4.6 <small>31 mei 2024</small>
 
 - Verbeterde laadsnelheid van de service
