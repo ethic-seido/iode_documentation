@@ -7,7 +7,22 @@ description: muestra información de actualización del servicio
 ## **Registro de cambios de ES/IODE**
 ### 3.4.7 <small>21 de junio de 2024</small>
 
-- Se agregó una nueva función: Revisión científica. Esta es nuestra selección de estudios científicos actuales. ¡Seleccionamos nuevos estudios todos los días!
+- Añadida una nueva característica: Revisión Científica. Esta es nuestra selección de estudios científicos actuales. Todos los días seleccionamos nuevos estudios sobre los siguientes temas:
+    - Alzheimer
+    - Esclerosis Lateral Amiotrófica / Charcot
+    - Cáncer
+    - Informática e IA
+    - Covid
+    - Gripe
+    - Micología
+    - Neurociencias
+    - Parkinson
+    - Estudios Universitarios
+    - Deportes
+    - Tiroides
+    - Urología
+    - Medicina Veterinaria
+
 
 ### 3.4.6 <small>31 de mayo de 2024</small>
 

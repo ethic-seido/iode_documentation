@@ -7,7 +7,21 @@ description: affichage des informations de mise à jour du service
 ## **Journal des modifications ES/IODE**
 ### 3.4.7 <small>21 juin 2024</small>
 
-- Ajout d'une nouvelle fonctionnalité : Revue scientifique. Il s'agit de notre sélection des études scientifiques du moment. Nous sélectionnons chaque jour de nouvelles études !
+- Ajout d'une nouvelle fonctionnalité : Revue scientifique. Il s'agit de notre sélection des études scientifiques du moment. Chaque jour, nous sélectionnons de nouvelles études sur les sujets suivants :
+    - Alzheimer
+    - Sclérose latérale amyotrophique / Charcot
+    - Cancer
+    - Informatique et IA
+    - Covid
+    - Grippe
+    - Mycologie
+    - Neurosciences
+    - Parkinson
+    - Sciences Univers
+    - Sport
+    - Thyroïde
+    - Urologie
+    - Vétérinaire
 
 ### 3.4.6 <small>31 mai 2024</small>
 

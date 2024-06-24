@@ -7,7 +7,22 @@ description: Anzeige von Service-Update-Informationen
 ## **ES/IODE Änderungsprotokoll**
 ### 3.4.7 <small>21. Juni 2024</small>
 
-- Hinzufügung einer neuen Funktion: Wissenschaftliche Rezension. Dies ist unsere Auswahl der aktuellen wissenschaftlichen Studien. Wir wählen jeden Tag neue Studien aus!
+- Hinzufügung eines neuen Features: Wissenschaftliche Überprüfung. Dies ist unsere Auswahl aktueller wissenschaftlicher Studien. Täglich wählen wir neue Studien zu folgenden Themen aus:
+    - Alzheimer
+    - Amyotrophe Lateralsklerose / Charcot
+    - Krebs
+    - Informatik und KI
+    - Covid
+    - Grippe
+    - Mykologie
+    - Neurowissenschaften
+    - Parkinson
+    - Universitätsstudien
+    - Sport
+    - Schilddrüse
+    - Urologie
+    - Veterinärmedizin
+
 
 ### 3.4.6 <small>31. Mai 2024</small>
 
