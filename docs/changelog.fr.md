@@ -22,6 +22,9 @@ description: affichage des informations de mise à jour du service
     - Thyroïde
     - Urologie
     - Vétérinaire
+- Correction d'un problème de redirection de l'utilisateur vers une page qui n'existait plus suite aux succés de l'authentification.
+- Modification et amélioration des formulaires utilisateur, simplification de la procédure pour l'utilisateur en enlevant le questionnaire captcha.
+
 
 ### 3.4.6 <small>31 mai 2024</small>
 

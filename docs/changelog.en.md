@@ -7,21 +7,24 @@ description: displaying service update information
 ## **ES/IODE Changelog**
 ### 3.4.7 <small>June 21, 2024</small>
 
-- Added a new feature: Scientific Review. This is our selection of current scientific studies. Every day, we select new studies on the following topics:
-    - Alzheimer's
-    - Amyotrophic Lateral Sclerosis / Charcot
+- Added a new feature: Scientific Review. This is our selection of current scientific studies. Every day we select new studies on the following topics:
+    - Alzheimer
+    - Amyotrophic lateral sclerosis / Charcot
     - Cancer
     - Computer Science and AI
     - Covid
-    - Influenza
+    - Flu
     - Mycology
     - Neuroscience
-    - Parkinson's
-    - University Studies
-    - Sports
+    - Parkinson
+    - Universe Sciences
+    - Sport
     - Thyroid
     - Urology
-    - Veterinary Medicine
+    - Veterinary
+- Fixed an issue redirecting the user to a non-existent page following successful authentication.
+- Modified and improved user forms, simplifying the procedure for the user by removing the captcha questionnaire.
+
 
 
 ### 3.4.6 <small>May 31, 2024</small>

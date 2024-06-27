@@ -7,9 +7,9 @@ description: weergeven van informatie over service-updates
 ## **ES/IODE Wijzigingslogboek**
 ### 3.4.7 <small>21 juni 2024</small>
 
-- Toevoeging van een nieuwe functie: Wetenschappelijke Review. Dit is onze selectie van actuele wetenschappelijke studies. Dagelijks selecteren we nieuwe studies over de volgende onderwerpen:
+- Toevoeging van een nieuwe functie: Wetenschappelijke Review. Dit is onze selectie van actuele wetenschappelijke studies. Elke dag selecteren we nieuwe studies over de volgende onderwerpen:
     - Alzheimer
-    - Amyotrofe Laterale Sclerose / Charcot
+    - Amyotrofische laterale sclerose / Charcot
     - Kanker
     - Informatica en AI
     - Covid
@@ -17,11 +17,13 @@ description: weergeven van informatie over service-updates
     - Mycologie
     - Neurowetenschappen
     - Parkinson
-    - Universiteitsstudies
+    - Universumwetenschappen
     - Sport
     - Schildklier
     - Urologie
-    - Veterinaire Geneeskunde
+    - Diergeneeskunde
+- Oplossing van een probleem waarbij de gebruiker werd doorgestuurd naar een niet-bestaande pagina na succesvolle authenticatie.
+- Wijziging en verbetering van gebruikersformulieren, vereenvoudiging van de procedure voor de gebruiker door de captcha-vragenlijst te verwijderen.
 
 ### 3.4.6 <small>31 mei 2024</small>
 

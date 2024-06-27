@@ -7,7 +7,7 @@ description: Anzeige von Service-Update-Informationen
 ## **ES/IODE Änderungsprotokoll**
 ### 3.4.7 <small>21. Juni 2024</small>
 
-- Hinzufügung eines neuen Features: Wissenschaftliche Überprüfung. Dies ist unsere Auswahl aktueller wissenschaftlicher Studien. Täglich wählen wir neue Studien zu folgenden Themen aus:
+- Hinzufügung einer neuen Funktion: Wissenschaftliche Überprüfung. Dies ist unsere Auswahl der aktuellen wissenschaftlichen Studien. Jeden Tag wählen wir neue Studien zu den folgenden Themen aus:
     - Alzheimer
     - Amyotrophe Lateralsklerose / Charcot
     - Krebs
@@ -17,11 +17,14 @@ description: Anzeige von Service-Update-Informationen
     - Mykologie
     - Neurowissenschaften
     - Parkinson
-    - Universitätsstudien
+    - Universumwissenschaften
     - Sport
     - Schilddrüse
     - Urologie
     - Veterinärmedizin
+- Behebung eines Problems, bei dem der Benutzer nach erfolgreicher Authentifizierung auf eine nicht mehr vorhandene Seite weitergeleitet wurde.
+- Anpassung und Verbesserung der Benutzerformulare, Vereinfachung des Verfahrens für den Benutzer durch Entfernen des Captcha-Fragebogens.
+
 
 
 ### 3.4.6 <small>31. Mai 2024</small>
