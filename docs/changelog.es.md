@@ -5,6 +5,11 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.4.8 <small>22 de julio de 2024</small>
+
+- Función de Revisión Científica. Se añadió el modo oscuro para la función.
+- Se añadió la función de Seguimiento del COVID-19 en Francia. Ponemos a disposición las cifras de nuevos casos y tasas de incidencia para Francia. Esta función está disponible solo en francés.
+
 ### 3.4.7 <small>21 de junio de 2024</small>
 
 - Añadida una nueva función: Revisión científica. Esta es nuestra selección de estudios científicos actuales. Cada día seleccionamos nuevos estudios sobre los siguientes temas:

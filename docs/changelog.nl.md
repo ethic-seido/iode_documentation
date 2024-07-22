@@ -5,6 +5,11 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.8 <small>22 juli 2024</small>
+
+- Wetenschappelijke beoordelingsfunctie. Donkere modus toegevoegd aan de functie.
+- Toevoeging van COVID-19-volgfunctie in Frankrijk. We stellen de cijfers van nieuwe gevallen en incidentiepercentages voor Frankrijk beschikbaar. Deze functie is alleen beschikbaar in het Frans.
+
 ### 3.4.7 <small>21 juni 2024</small>
 
 - Toevoeging van een nieuwe functie: Wetenschappelijke Review. Dit is onze selectie van actuele wetenschappelijke studies. Elke dag selecteren we nieuwe studies over de volgende onderwerpen:

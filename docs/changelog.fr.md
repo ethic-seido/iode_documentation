@@ -5,6 +5,12 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.4.8 <small>22 juillet 2024</small>
+
+- Fonctionnalité Revue scientifique : ajout du mode dark pour la fonctionnalité.
+- Ajout de la fonctionnalité Suivi du covid-19 en France. Nous remettons à disposition les chiffres des nouveaux cas et taux d'incidence pour la France. Cette fonctionnalité est accessible seulement dans la langue française.
+
+
 ### 3.4.7 <small>21 juin 2024</small>
 
 - Ajout d'une nouvelle fonctionnalité : Revue scientifique. Il s'agit de notre sélection des études scientifiques du moment. Chaque jour, nous sélectionnons de nouvelles études sur les sujets suivants :

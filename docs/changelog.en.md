@@ -5,6 +5,11 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.4.8 <small>July 22, 2024</small>
+
+- Scientific Review feature. Added dark mode for the feature.
+- Added COVID-19 tracking feature in France. We provide the numbers of new cases and incidence rates for France. This feature is available only in French.
+
 ### 3.4.7 <small>June 21, 2024</small>
 
 - Added a new feature: Scientific Review. This is our selection of current scientific studies. Every day we select new studies on the following topics:

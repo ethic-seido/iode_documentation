@@ -5,6 +5,11 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.4.8 <small>22. Juli 2024</small>
+
+- Wissenschaftliche Überprüfungsfunktion. Hinzufügen des Dunkelmodus für diese Funktion.
+- Hinzufügen der COVID-19-Verfolgungsfunktion in Frankreich. Wir stellen die Zahlen der neuen Fälle und Inzidenzraten für Frankreich zur Verfügung. Diese Funktion ist nur in französischer Sprache verfügbar.
+
 ### 3.4.7 <small>21. Juni 2024</small>
 
 - Hinzufügung einer neuen Funktion: Wissenschaftliche Überprüfung. Dies ist unsere Auswahl der aktuellen wissenschaftlichen Studien. Jeden Tag wählen wir neue Studien zu den folgenden Themen aus:
