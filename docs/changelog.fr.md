@@ -5,6 +5,12 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+
+### 3.4.9 <small>20 août 2024</small>
+
+- Fonctionnalité Image de Science : Modification de la mise en page de la fonctionnalité, la zone d'image a été centrée et le texte de description a été intégré à l'image.
+- Fonctionnalité Revue Scientifique : Nouvelle catégorie d'études scientifiques ajoutée dans les sélections d'études quotidiennes : Médecine Respiratoire, Immuno-allergologique et Dermatologique.
+
 ### 3.4.8 <small>22 juillet 2024</small>
 
 - Fonctionnalité Revue scientifique : ajout du mode dark pour la fonctionnalité.

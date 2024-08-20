@@ -5,6 +5,11 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.4.9 <small>20 augustus 2024</small>
+
+- Wetenschapsbeeld-functie: Lay-out van de functie aangepast, het afbeeldingsgebied is gecentreerd en de beschrijvende tekst is in de afbeelding geïntegreerd.
+- Wetenschappelijk Review-functie: Nieuwe categorie wetenschappelijke studies toegevoegd aan de dagelijkse selectie van studies: Respiratoire geneeskunde, Immuno-allergologie en Dermatologie.
+
 ### 3.4.8 <small>22 juli 2024</small>
 
 - Wetenschappelijke beoordelingsfunctie. Donkere modus toegevoegd aan de functie.

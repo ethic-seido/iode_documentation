@@ -5,6 +5,11 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.4.9 <small>20 agosto 2024</small>
+
+- Función Imagen de Ciencia: Se modificó el diseño de la función, el área de imagen se centró y el texto de descripción se integró en la imagen.
+- Función de Revisión Científica: Nueva categoría de estudios científicos añadida a las selecciones diarias de estudios: Medicina Respiratoria, Inmunoalergología y Dermatología.
+
 ### 3.4.8 <small>22 de julio de 2024</small>
 
 - Función de Revisión Científica. Se añadió el modo oscuro para la función.

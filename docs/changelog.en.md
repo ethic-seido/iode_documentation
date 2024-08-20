@@ -5,6 +5,11 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.4.9 <small>20 August 2024</small>
+
+- Science Image Feature: Layout of the feature modified, the image area has been centered and the description text integrated into the image.
+- Scientific Review Feature: New category of scientific studies added to the daily study selections: Respiratory Medicine, Immuno-Allergology, and Dermatology.
+
 ### 3.4.8 <small>July 22, 2024</small>
 
 - Scientific Review feature. Added dark mode for the feature.

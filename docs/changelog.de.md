@@ -5,6 +5,11 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.4.9 <small>20. August 2024</small>
+
+- Wissenschaftsbild-Funktion: Layout der Funktion geändert, das Bildfeld wurde zentriert und der Beschreibungstext in das Bild integriert.
+- Wissenschaftliche Zeitschriftenfunktion: Neue Kategorie wissenschaftlicher Studien zu den täglichen Studienauswahlen hinzugefügt: Respiratorische Medizin, Immuno-Allergologie und Dermatologie.
+
 ### 3.4.8 <small>22. Juli 2024</small>
 
 - Wissenschaftliche Überprüfungsfunktion. Hinzufügen des Dunkelmodus für diese Funktion.
