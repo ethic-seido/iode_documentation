@@ -6,6 +6,10 @@ description: affichage des informations de mise à jour du service
 
 ## **Journal des modifications ES/IODE**
 
+### 3.5.0 <small>17 septembre 2024</small>
+
+- Amélioration du système d'authentification : Nous avons amélioré les performances, la sécurité et la persistance de l'authentification, permettant aux utilisateurs de rester connectés à nos services pendant 30 jours.
+
 ### 3.4.9 <small>20 août 2024</small>
 
 - Fonctionnalité Image de Science : Modification de la mise en page de la fonctionnalité, la zone d'image a été centrée et le texte de description a été intégré à l'image.

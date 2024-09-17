@@ -5,6 +5,10 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.0 <small>17. September 2024</small>
+
+- Verbesserte Authentifizierung: Wir haben die Leistung, Sicherheit und Persistenz der Authentifizierung verbessert, sodass Benutzer jetzt bis zu 30 Tage lang in unseren Diensten eingeloggt bleiben können.
+
 ### 3.4.9 <small>20. August 2024</small>
 
 - Wissenschaftsbild-Funktion: Layout der Funktion geändert, das Bildfeld wurde zentriert und der Beschreibungstext in das Bild integriert.

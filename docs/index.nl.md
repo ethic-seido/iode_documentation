@@ -4,7 +4,7 @@ icon: simple/readthedocs
 ---
 # Welkom bij ES/IODE: Uw betrouwbare online wetenschappelijke onderzoeksservice
 
-[![afbeelding](https://img.shields.io/badge/versie-3.4.9-blue)](changelog.md)
+[![afbeelding](https://img.shields.io/badge/versie-3.5.0-blue)](changelog.md)
 [![afbeelding](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=wit)](https://learn.microsoft.com/dotnet/)
 
 [![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)

@@ -5,6 +5,10 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.0 <small>17 de septiembre de 2024</small>
+
+- Mejora del sistema de autenticación: Hemos mejorado el rendimiento, la seguridad y la persistencia de la autenticación, permitiendo a los usuarios permanecer conectados a nuestros servicios durante 30 días.
+
 ### 3.4.9 <small>20 agosto 2024</small>
 
 - Función Imagen de Ciencia: Se modificó el diseño de la función, el área de imagen se centró y el texto de descripción se integró en la imagen.

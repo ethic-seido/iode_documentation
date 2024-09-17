@@ -5,6 +5,10 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.5.0 <small>17 september 2024</small>
+
+- Verbeterd Authenticatiesysteem: We hebben de prestaties, beveiliging en persistentie van de authenticatie verbeterd, waardoor gebruikers tot 30 dagen ingelogd kunnen blijven bij onze diensten.
+
 ### 3.4.9 <small>20 augustus 2024</small>
 
 - Wetenschapsbeeld-functie: Lay-out van de functie aangepast, het afbeeldingsgebied is gecentreerd en de beschrijvende tekst is in de afbeelding geïntegreerd.

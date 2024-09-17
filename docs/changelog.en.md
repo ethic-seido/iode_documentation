@@ -5,6 +5,10 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.0 <small>September 17, 2024</small>
+
+- Improved Authentication System: We have enhanced the performance, security, and persistence of the authentication, allowing users to stay logged into our services for up to 30 days.
+
 ### 3.4.9 <small>20 August 2024</small>
 
 - Science Image Feature: Layout of the feature modified, the image area has been centered and the description text integrated into the image.
