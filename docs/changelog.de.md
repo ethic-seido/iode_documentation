@@ -5,6 +5,11 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.1 <small>19. September 2024</small>
+
+- Menü ES/IODE: Änderung der Icons. Änderung des Standorts des Sprachwahlmenüs, das sich jetzt rechts vom Tarife-Menü befindet.
+- Startseite: Änderung der Bilder und Texte zur Präsentation unserer KI und unserer sozialen Medien.
+
 ### 3.5.0 <small>17. September 2024</small>
 
 - Verbesserte Authentifizierung: Wir haben die Leistung, Sicherheit und Persistenz der Authentifizierung verbessert, sodass Benutzer jetzt bis zu 30 Tage lang in unseren Diensten eingeloggt bleiben können.

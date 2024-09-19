@@ -5,6 +5,11 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.5.1 <small>19 september 2024</small>
+
+- Menu ES/IODE: Aanpassing van de pictogrammen. Wijziging van de locatie van het taalkeuzemenu, dat nu rechts van het menu Tarieven staat.
+- Startpagina: Aanpassing van de afbeeldingen en teksten ter presentatie van onze AI en sociale media.
+
 ### 3.5.0 <small>17 september 2024</small>
 
 - Verbeterd Authenticatiesysteem: We hebben de prestaties, beveiliging en persistentie van de authenticatie verbeterd, waardoor gebruikers tot 30 dagen ingelogd kunnen blijven bij onze diensten.

@@ -5,6 +5,11 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.1 <small>September 19, 2024</small>
+
+- Menu ES/IODE: Updated icons. Changed the location of the language selection menu, which is now to the right of the Pricing menu.
+- Homepage: Updated images and texts for presenting our AI and social media.
+
 ### 3.5.0 <small>September 17, 2024</small>
 
 - Improved Authentication System: We have enhanced the performance, security, and persistence of the authentication, allowing users to stay logged into our services for up to 30 days.

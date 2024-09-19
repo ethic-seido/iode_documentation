@@ -5,6 +5,11 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.1 <small>19 de septiembre de 2024</small>
+
+- Menú ES/IODE: Modificación de los iconos. Cambio en la ubicación del menú de selección de idioma, que ahora está a la derecha del menú Tarifas.
+- Página de inicio: Modificación de las imágenes y textos de presentación de nuestra IA y redes sociales.
+
 ### 3.5.0 <small>17 de septiembre de 2024</small>
 
 - Mejora del sistema de autenticación: Hemos mejorado el rendimiento, la seguridad y la persistencia de la autenticación, permitiendo a los usuarios permanecer conectados a nuestros servicios durante 30 días.

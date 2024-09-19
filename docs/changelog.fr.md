@@ -5,6 +5,10 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.5.1 <small>19 septembre 2024</small>
+
+- Menu ES/IODE : Modification des icônes. Modification de l'emplacement du menu de sélection de langue, qui est désormais à droite du menu Tarifs.
+- Page d'accueil : Modification des images et des textes de présentation de notre IA et de nos réseaux sociaux.
 
 ### 3.5.0 <small>17 septembre 2024</small>
 
