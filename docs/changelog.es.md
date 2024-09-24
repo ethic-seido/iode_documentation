@@ -5,6 +5,13 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.2 <small>24 de septiembre de 2024</small>
+
+- Función de búsqueda de artículos científicos: incrustación del botón de configuración en la barra de búsqueda.
+- Función de búsqueda de ensayos clínicos: incrustación del botón de configuración en la barra de búsqueda.
+- Menú de usuario: añadidas opciones para descargar y eliminar datos personales y cuenta, relacionado con el RGPD.
+- Página de inicio: añadida imagen y animación de desplazamiento.
+
 ### 3.5.1 <small>19 de septiembre de 2024</small>
 
 - Menú ES/IODE: Modificación de los iconos. Cambio en la ubicación del menú de selección de idioma, que ahora está a la derecha del menú Tarifas.

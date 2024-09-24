@@ -5,6 +5,13 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.2 <small>September 24, 2024</small>
+
+- Scientific article search feature: embedding the configuration button in the search bar.
+- Clinical trial search feature: embedding the configuration button in the search bar.
+- User menu: added options for downloading and deleting personal data and account, related to GDPR.
+- Homepage: added image and scrolling animation.
+
 ### 3.5.1 <small>September 19, 2024</small>
 
 - Menu ES/IODE: Updated icons. Changed the location of the language selection menu, which is now to the right of the Pricing menu.

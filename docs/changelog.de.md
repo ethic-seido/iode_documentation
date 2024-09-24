@@ -5,6 +5,12 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.2 <small>24. September 2024</small>
+
+- Funktion für die Suche nach wissenschaftlichen Artikeln: Einbettung der Konfigurationsschaltfläche in die Suchleiste.
+- Funktion für die Suche nach klinischen Studien: Einbettung der Konfigurationsschaltfläche in die Suchleiste.
+- Benutzermenü: Hinzufügen von Optionen zum Herunterladen und Löschen persönlicher Daten und Konten, im Zusammenhang mit der DSGVO.
+- Startseite: Hinzufügen von Bildern und Scroll-Animation.
 ### 3.5.1 <small>19. September 2024</small>
 
 - Menü ES/IODE: Änderung der Icons. Änderung des Standorts des Sprachwahlmenüs, das sich jetzt rechts vom Tarife-Menü befindet.

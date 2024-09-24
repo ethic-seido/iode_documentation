@@ -5,6 +5,13 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.5.2 <small>24 septembre 2024</small>
+
+- Fonctionnalité de recherche d'articles scientifiques : incrustation du bouton de configuration dans la barre de recherche.
+- Fonctionnalité de recherche d'essais cliniques : incrustation du bouton de configuration dans la barre de recherche.
+- Menu utilisateur : Ajout des options de téléchargement et de suppression des données personnelles et de compte, relatif au RGPD.
+- Page d'accueil : ajout d'image et animation de défilement.
+
 ### 3.5.1 <small>19 septembre 2024</small>
 
 - Menu ES/IODE : Modification des icônes. Modification de l'emplacement du menu de sélection de langue, qui est désormais à droite du menu Tarifs.
