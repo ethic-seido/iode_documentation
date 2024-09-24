@@ -11,6 +11,7 @@ description: affichage des informations de mise à jour du service
 - Fonctionnalité de recherche d'essais cliniques : incrustation du bouton de configuration dans la barre de recherche.
 - Menu utilisateur : Ajout des options de téléchargement et de suppression des données personnelles et de compte, relatif au RGPD.
 - Page d'accueil : ajout d'image et animation de défilement.
+- Statut de l'infrastructure ES/IODE : Intégration des informations sur l'état de l'infrastructure et ajout d'un lien dans le pied de page du site pour consulter le statut de l'infrastructure, les incidents et les maintenances d'ES/IODE.
 
 ### 3.5.1 <small>19 septembre 2024</small>
 

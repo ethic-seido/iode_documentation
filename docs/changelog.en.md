@@ -11,6 +11,8 @@ description: displaying service update information
 - Clinical trial search feature: embedding the configuration button in the search bar.
 - User menu: added options for downloading and deleting personal data and account, related to GDPR.
 - Homepage: added image and scrolling animation.
+- ES/IODE infrastructure status: Integration of infrastructure status information and adding a link in the site's footer to view the status of the infrastructure, incidents, and maintenance for ES/IODE.
+
 
 ### 3.5.1 <small>September 19, 2024</small>
 

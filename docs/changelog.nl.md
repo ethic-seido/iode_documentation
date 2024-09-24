@@ -11,6 +11,8 @@ description: weergeven van informatie over service-updates
 - Zoekfunctie voor klinische proeven: inbedding van de configuratieknop in de zoekbalk.
 - Gebruikersmenu: Toegevoegd opties voor het downloaden en verwijderen van persoonlijke gegevens en accounts, gerelateerd aan de AVG.
 - Startpagina: Afbeelding en scrollanimatie toegevoegd.
+- Status van de ES/IODE-infrastructuur: Integratie van informatie over de status van de infrastructuur en het toevoegen van een link in de voettekst van de website om de status van de infrastructuur, incidenten en onderhoud van ES/IODE te bekijken.
+
 ### 3.5.1 <small>19 september 2024</small>
 
 - Menu ES/IODE: Aanpassing van de pictogrammen. Wijziging van de locatie van het taalkeuzemenu, dat nu rechts van het menu Tarieven staat.

@@ -11,6 +11,8 @@ description: muestra información de actualización del servicio
 - Función de búsqueda de ensayos clínicos: incrustación del botón de configuración en la barra de búsqueda.
 - Menú de usuario: añadidas opciones para descargar y eliminar datos personales y cuenta, relacionado con el RGPD.
 - Página de inicio: añadida imagen y animación de desplazamiento.
+- Estado de la infraestructura de ES/IODE: Integración de la información sobre el estado de la infraestructura y adición de un enlace en el pie de página del sitio para consultar el estado de la infraestructura, los incidentes y el mantenimiento de ES/IODE.
+
 
 ### 3.5.1 <small>19 de septiembre de 2024</small>
 

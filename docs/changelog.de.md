@@ -11,6 +11,8 @@ description: Anzeige von Service-Update-Informationen
 - Funktion für die Suche nach klinischen Studien: Einbettung der Konfigurationsschaltfläche in die Suchleiste.
 - Benutzermenü: Hinzufügen von Optionen zum Herunterladen und Löschen persönlicher Daten und Konten, im Zusammenhang mit der DSGVO.
 - Startseite: Hinzufügen von Bildern und Scroll-Animation.
+- Status der ES/IODE-Infrastruktur: Integration von Informationen über den Zustand der Infrastruktur und Hinzufügen eines Links in der Fußzeile der Website, um den Status der Infrastruktur, Vorfälle und Wartungsarbeiten von ES/IODE einzusehen.
+
 ### 3.5.1 <small>19. September 2024</small>
 
 - Menü ES/IODE: Änderung der Icons. Änderung des Standorts des Sprachwahlmenüs, das sich jetzt rechts vom Tarife-Menü befindet.
