@@ -5,6 +5,10 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.5.3 <small>5 mei 2025</small>
+
+- Functie voor het zoeken naar wetenschappelijke artikelen: Verbetering van de documentvertaalfunctie
+
 ### 3.5.2 <small>24 september 2024</small>
 
 - Zoekfunctie voor wetenschappelijke artikelen: inbedding van de configuratieknop in de zoekbalk.

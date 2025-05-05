@@ -5,6 +5,10 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.3 <small>5 de mayo de 2025</small>
+
+- Función de búsqueda de artículos científicos: Mejora de la función de traducción de documentos
+
 ### 3.5.2 <small>24 de septiembre de 2024</small>
 
 - Función de búsqueda de artículos científicos: incrustación del botón de configuración en la barra de búsqueda.

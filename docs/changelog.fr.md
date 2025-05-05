@@ -5,6 +5,10 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.5.3 <small>05 mai 2025</small>
+
+- Fonctionnalité de recherche d'articles scientifiques : Amélioration de la fonction de traduction des documents
+
 ### 3.5.2 <small>24 septembre 2024</small>
 
 - Fonctionnalité de recherche d'articles scientifiques : incrustation du bouton de configuration dans la barre de recherche.

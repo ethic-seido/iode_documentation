@@ -5,6 +5,10 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.3 <small>May 5, 2025</small>
+
+- Scientific article search feature: Improved document translation functionality
+
 ### 3.5.2 <small>September 24, 2024</small>
 
 - Scientific article search feature: embedding the configuration button in the search bar.

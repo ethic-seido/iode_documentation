@@ -5,6 +5,10 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.3 <small>05. Mai 2025</small>
+
+- Funktion zur Suche wissenschaftlicher Artikel: Verbesserung der Übersetzungsfunktion für Dokumente
+
 ### 3.5.2 <small>24. September 2024</small>
 
 - Funktion für die Suche nach wissenschaftlichen Artikeln: Einbettung der Konfigurationsschaltfläche in die Suchleiste.
