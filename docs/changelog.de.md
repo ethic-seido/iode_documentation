@@ -5,6 +5,10 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.4 <small>18. November 2025</small>
+
+- Änderung der Bilder des Präsentationsbildschirms  
+- Leistungsverbesserungen unserer KI, IODE IA, für den Rechercheassistenten und für die SciScholarCraft-Funktion
 ### 3.5.3 <small>05. Mai 2025</small>
 
 - Funktion zur Suche wissenschaftlicher Artikel: Verbesserung der Übersetzungsfunktion für Dokumente

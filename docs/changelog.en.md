@@ -5,6 +5,11 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.4 <small>18 November 2025</small>
+
+- Modification of the presentation screen images  
+- Performance improvements to our AI, IODE AI, for the research assistant and for the SciScholarCraft feature
+
 ### 3.5.3 <small>May 5, 2025</small>
 
 - Scientific article search feature: Improved document translation functionality

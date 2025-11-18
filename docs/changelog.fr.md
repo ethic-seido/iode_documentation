@@ -5,6 +5,10 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.5.4 <small>18 novembre 2025</small>
+
+- modification des images de l’écran de présentation  
+- amélioration des performances de notre IA, IODE IA, pour l’assistant de recherche et pour la fonctionnalité SciScholarCraft
 ### 3.5.3 <small>05 mai 2025</small>
 
 - Fonctionnalité de recherche d'articles scientifiques : Amélioration de la fonction de traduction des documents

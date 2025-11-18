@@ -5,6 +5,10 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.5.4 <small>18 november 2025</small>
+
+- Aanpassing van de afbeeldingen van het presentatiescherm  
+- Prestatieverbeteringen van onze AI, IODE IA, voor de onderzoeksassistent en voor de SciScholarCraft-functionaliteit
 ### 3.5.3 <small>5 mei 2025</small>
 
 - Functie voor het zoeken naar wetenschappelijke artikelen: Verbetering van de documentvertaalfunctie

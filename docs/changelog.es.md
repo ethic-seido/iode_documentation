@@ -5,6 +5,10 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.4 <small>18 de noviembre de 2025</small>
+
+- Modificación de las imágenes de la pantalla de presentación  
+- Mejora del rendimiento de nuestra IA, IODE IA, para el asistente de investigación y para la función SciScholarCraft
 ### 3.5.3 <small>5 de mayo de 2025</small>
 
 - Función de búsqueda de artículos científicos: Mejora de la función de traducción de documentos
