@@ -1,155 +1,58 @@
 ---
 icon: material/layers-search
-description: pour commencer à utiliser la fonctionnalité SciScholarCraft
+description: Utiliser SciScholarCraft dans ES/IODE
 ---
+# **SciScholarCraft**
 
-## **Premiers pas**
+SciScholarCraft accompagne la structuration d'un objectif de recherche scientifique. Il aide à passer d'une intention générale à des pistes de travail: hypothèses, sélection d'études, plan d'écriture et organisation de projet lorsque l'offre active le permet.
 
-Pour commencer à utiliser la fonctionnalité __SciScholarCraft__ d'__ES/IODE__, saisissez une phrase aussi complète et pertinente que possible concernant votre objectif de recherche scientifique dans la barre de recherche au centre de la page.
+```text
+https://ethicseido.com/Iode/SciScholarCraft
+```
 
-![barre de recherche](assets/searchbar.png)
+![SciScholarCraft](assets/scischolarcraft-fr.png)
 
-SciScholarCraft analysera votre objectif de recherche et suggérera plusieurs actions de génération.
+## Formuler un objectif de recherche
 
-Inscrivez-vous pour un compte gratuit afin de profiter des fonctionnalités avancées.
+La qualité des résultats dépend fortement de la formulation initiale. Privilégiez une phrase complète qui indique le domaine, l'objet étudié, la population ou le système, la relation à analyser et le type de sortie attendu.
 
-__ES/IODE__ est là pour vous aider dans votre quête de connaissances scientifiques.
+Exemple de formulation:
 
-N'hésitez pas à nous contacter si vous avez des questions ou des commentaires.
+```text
+Évaluer le rôle de la neuroinflammation dans la progression précoce de la maladie d'Alzheimer et identifier les biomarqueurs utiles pour une revue narrative.
+```
 
-Bonne recherche ! :rocket:
+Évitez les requêtes trop courtes ou ambiguës. Si le sujet est vaste, commencez par une question exploratoire puis affinez à partir des hypothèses ou études proposées.
 
-## **Génération d'hypothèses**
+## Actions de génération
 
-Pour la fonction "Génération d'hypothèses", vous devez d'abord saisir un objectif de recherche dans la barre de recherche et obtenir le résultat de l'analyse de SciScholarCraft.
+Après l'analyse, la section des tâches devient disponible. Une seule action de génération peut être lancée à la fois.
 
-Ensuite, vous aurez accès à la section suivante, sous l'analyse :
+- **Génération d'hypothèses**: produit des hypothèses de travail à examiner, réfuter ou préciser.
+- **Sélection d'études scientifiques**: propose des études liées au sujet pour construire un corpus initial.
+- **Génération d'un plan d'écriture**: structure une argumentation scientifique, par exemple pour une revue, une introduction ou un protocole.
 
-![section des tâches](assets/tasks-section.png)
+Chaque génération doit être relue comme une aide à la structuration, pas comme un résultat définitif. Les hypothèses doivent être confrontées à la littérature et aux données disponibles.
 
-Ensuite, cliquez sur le bouton "Génération d'hypothèses", l'action de la génération commencera.
+## Utilisation scientifique
 
-### **Copier la génération d'hypothèses dans le presse-papiers**
+SciScholarCraft est particulièrement utile pour:
 
-Dans la section des hypothèses, cliquez sur l'icône :fontawesome-solid-copy: située en haut à droite.
+- clarifier une question de recherche avant une revue bibliographique;
+- identifier des sous-thèmes ou mécanismes à explorer;
+- préparer un plan d'article ou de rapport;
+- comparer plusieurs angles théoriques;
+- repérer des lacunes dans un corpus.
 
-## **Sélection d'études scientifiques**
+## Projets et sauvegarde
 
-Pour la fonction "Sélection d'études scientifiques", vous devez d'abord saisir un objectif de recherche dans la barre de recherche et obtenir le résultat de l'analyse de SciScholarCraft.
-
-Ensuite, vous aurez accès à la section suivante, sous l'analyse :
-
-![section des tâches](assets/tasks-section.png)
-
-Ensuite, cliquez sur le bouton "Sélection d'études scientifiques", l'action de la génération commencera.
-
-### **Copier les études scientifiques dans le presse-papiers**
-
-Dans la section des études scientifiques, cliquez sur l'icône :fontawesome-solid-copy: située en haut à droite.
-
-## **Génération d'un plan d'écriture**
-
-Pour la fonction "Génération d'un plan d'écriture", vous devez d'abord saisir un objectif de recherche dans la barre de recherche et obtenir le résultat de l'analyse de SciScholarCraft.
-
-Ensuite, vous aurez accès à la section suivante, sous l'analyse :
-
-![section des tâches](assets/tasks-section.png)
-
-Ensuite, cliquez sur le bouton "Génération d'un plan d'écriture", l'action de la génération commencera.
-
-### **Exporter le plan d'écriture généré vers Word**
-
-Dans la section du plan d'écriture, cliquez sur l'icône :fontawesome-solid-file-export: située en haut à droite.
-
-### **Copier le plan d'écriture généré dans le presse-papiers**
-
-Dans la section du plan d'écriture, cliquez sur l'icône :fontawesome-solid-copy: située en haut à droite.
-
-## **Barre latérale d'accès rapide**
-
-!!! info
-    La barre latérale d'accès rapide est disponible à partir de la version 3.2 d'ES/IODE. Elle est accessible sur les appareils avec une largeur de résolution supérieure à **800 pixels**, tels que les tablettes, les ordinateurs de bureau et certains mobiles en mode paysage.
-
-La barre apparaît après la génération de l'analyse de l'objectif SciScholarCraft ou directement après l'ouverture d'un projet existant.
-
-Elle correspond à la visualisation ci-dessous :
-
-![barre latérale d'accès rapide](assets/quickaccess-sidebar.png)
-
-Elle est située à gauche des sections de génération.
-
-## **Sélection de projet de recherche**
+La barre latérale d'accès rapide facilite l'ouverture, la sauvegarde ou la création de projets.
 
 !!! warning "Offre Academic requise"
+    Les fonctions de projet, comme enregistrer, ouvrir, supprimer ou créer un projet, nécessitent une connexion et l'offre Academic lorsqu'elles ne sont pas disponibles publiquement.
 
-    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
+## Limites d'usage et validation
 
-Deux possibilités s'offrent à vous :
+Le site public affiche des messages de limite lorsque le nombre maximal de recherches, d'hypothèses ou de sélections d'études est atteint. Les limites exactes dépendent de l'offre active.
 
-- Cliquez sur l'icône :fontawesome-solid-dna: sous la barre de recherche
-
-- Ou cliquez sur l'icône :fontawesome-solid-folder-open: dans la barre latérale d'accès rapide
-
-vous pourrez alors consulter la liste de vos projets (si vous en avez déjà enregistré).
-
-## **Enregistrer votre projet**
-
-!!! warning "Offre Academic requise"
-
-    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
-
-!!! info
-
-    Dans SciScholarCraft, vous pouvez enregistrer jusqu'à 10 projets.
-
-Deux possibilités s'offrent à vous :
-
-- Cliquez sur le bouton :fontawesome-solid-cloud-arrow-up: Enregistrer, sous les sections de génération
-
-- Ou cliquez sur l'icône :fontawesome-solid-cloud-arrow-up: dans la barre latérale d'accès rapide
-
-Une notification confirmera si le projet a été enregistré.
-
-## **Supprimer votre projet**
-
-!!! warning "Offre Academic requise"
-
-    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
-
-Deux possibilités s'offrent à vous :
-
-1.  Cliquez sur l'icône :fontawesome-solid-dna: sous la barre de recherche,
-    1. Le menu **Sélection de projet de recherche** apparaîtra. Ensuite, cliquez sur le bouton ![bouton de sélection](assets/selection-button.png) sur la ligne du projet que vous souhaitez supprimer.
-    2. Le menu d'action apparaîtra ; ensuite, cliquez sur le bouton ![bouton de suppression](assets/delete-button.png).
-
-
-2. Ou cliquez sur l'icône :fontawesome-solid-cloud-arrow-up: dans la barre latérale d'accès rapide,
-    1. Le menu **Sélection de projet de recherche** apparaîtra, puis cliquez sur le bouton ![bouton de sélection](assets/selection-button.png) sur la ligne du projet que vous souhaitez supprimer.
-    2. Le menu d'action apparaîtra, puis cliquez sur le bouton ![bouton de suppression](assets/delete-button.png).
-
-Une notification confirmera si le projet a été supprimé.
-
-## **Ouvrir votre projet**
-
-!!! warning "Offre Academic requise"
-
-    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
-
-Deux possibilités s'offrent à vous :
-
-1.  Cliquez sur l'icône :fontawesome-solid-dna: sous la barre de recherche,
-    1. Le menu **Sélection de projet de recherche** apparaîtra. Ensuite, cliquez sur le bouton ![bouton de sélection](assets/selection-button.png) sur la ligne du projet que vous souhaitez ouvrir.
-    2. Le menu d'action apparaîtra ; ensuite, cliquez sur le bouton ![bouton d'ouverture](assets/open-button.png).
-
-
-2. Ou cliquez sur l'icône :fontawesome-solid-cloud-arrow-up: dans la barre latérale d'accès rapide,
-    1. Le menu **Sélection de projet de recherche** apparaîtra, puis cliquez sur le bouton ![bouton de sélection](assets/selection-button.png) sur la ligne du projet que vous souhaitez ouvrir.
-    2. Le menu d'action apparaîtra, puis cliquez sur le bouton ![bouton d'ouverture](assets/open-button.png).
-    
-## **Nouveau projet**
-
-!!! warning "Offre Academic requise"
-
-    **Cette fonction n'est accessible que si vous êtes connecté à un compte (créé sur notre plateforme) et que vous disposez de l'Offre Academic**
-
-Cliquez sur l'icône :fontawesome-solid-plus: dans la barre latérale d'accès rapide.
+Pour un travail académique, vérifiez toujours les références primaires, la méthode des études retenues, les biais possibles et la cohérence entre hypothèses, données et conclusion.

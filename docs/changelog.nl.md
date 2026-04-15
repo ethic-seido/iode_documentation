@@ -5,6 +5,11 @@ description: weergeven van informatie over service-updates
 # Wijzigingslogboek
 
 ## **ES/IODE Wijzigingslogboek**
+### 3.5.5 <small>14 april 2026</small>
+
+- Documentatie: navigatie, thema en functiepagina's bijgewerkt om het huidige ES/IODE-ontwerp en de openbare functies weer te geven.
+- Documentatie: pagina's voor Wetenschapsbeeld, Wetenschapsnieuws, Wetenschappelijk tijdschrift, Abonnementen en Servicestatus toegevoegd in de beschikbare talen.
+
 ### 3.5.4 <small>18 november 2025</small>
 
 - Aanpassing van de afbeeldingen van het presentatiescherm  

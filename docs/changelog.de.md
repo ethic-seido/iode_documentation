@@ -5,6 +5,11 @@ description: Anzeige von Service-Update-Informationen
 # Änderungsprotokoll
 
 ## **ES/IODE Änderungsprotokoll**
+### 3.5.5 <small>14. April 2026</small>
+
+- Dokumentation: Navigation, Theme und Funktionsseiten wurden aktualisiert, um das aktuelle ES/IODE-Design und die öffentlichen Funktionen abzubilden.
+- Dokumentation: Seiten für Wissenschaftsbild, Wissenschaftsnachrichten, Wissenschaftsjournal, Angebote und Servicestatus in den verfügbaren Sprachen hinzugefügt.
+
 ### 3.5.4 <small>18. November 2025</small>
 
 - Änderung der Bilder des Präsentationsbildschirms  

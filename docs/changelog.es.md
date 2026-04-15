@@ -5,6 +5,11 @@ description: muestra información de actualización del servicio
 # Registro de cambios
 
 ## **Registro de cambios de ES/IODE**
+### 3.5.5 <small>14 de abril de 2026</small>
+
+- Documentación: se actualizaron la navegación, el tema y las páginas funcionales para reflejar el diseño actual y las funciones públicas de ES/IODE.
+- Documentación: se añadieron páginas de Imagen científica, Noticias científicas, Revista científica, Planes y Estado del servicio en los idiomas disponibles.
+
 ### 3.5.4 <small>18 de noviembre de 2025</small>
 
 - Modificación de las imágenes de la pantalla de presentación  

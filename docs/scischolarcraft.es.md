@@ -1,158 +1,58 @@
 ---
 icon: material/layers-search
-description: para comenzar a usar la función SciScholarCraft
+description: Usar SciScholarCraft en ES/IODE
 ---
+# **SciScholarCraft**
 
-## **Empezando**
+SciScholarCraft acompaña la estructuración de un objetivo de investigación científica. Ayuda a pasar de una intención general a líneas de trabajo: hipótesis, selección de estudios, plan de escritura y organización de proyecto cuando la oferta activa lo permite.
 
-Para comenzar a usar la función SciScholarCraft de __ES/IODE__, ingresa una oración completa y relevante sobre tu objetivo de investigación científica en la barra de búsqueda en el centro de la página.
+```text
+https://ethicseido.com/Iode/SciScholarCraft
+```
 
-![barra de búsqueda](assets/searchbar.png)
+![SciScholarCraft](assets/scischolarcraft-es.png)
 
-SciScholarCraft analizará tu objetivo de investigación y sugerirá varias acciones generativas.
+## Formular un objetivo de investigación
 
-Regístrate para obtener una cuenta gratuita y disfrutar de funciones avanzadas.
+La calidad de los resultados depende mucho de la formulación inicial. Es preferible una frase completa que indique el campo, el objeto de estudio, la población o sistema, la relación que se quiere analizar y el tipo de resultado esperado.
 
-__ES/IODE__ está aquí para ayudarte en tu búsqueda de conocimiento científico.
+Ejemplo:
 
-No dudes en contactarnos si tienes alguna pregunta o comentario.
+```text
+Evaluar el papel de la neuroinflamación en la progresión temprana de la enfermedad de Alzheimer e identificar biomarcadores útiles para una revisión narrativa.
+```
 
-¡Feliz búsqueda! :rocket:
+Evita consultas demasiado cortas o ambiguas. Si el tema es amplio, empieza con una pregunta exploratoria y afina a partir de las hipótesis o estudios propuestos.
 
-## **Generación de hipótesis**
+## Acciones de generación
 
-Para la función "Generación de hipótesis", primero debes ingresar un objetivo de investigación en la barra de búsqueda y obtener el resultado del análisis de SciScholarCraft.
+Tras el análisis, la sección de tareas queda disponible. Solo se puede lanzar una acción de generación a la vez.
 
-Luego tendrás acceso a la siguiente sección, bajo análisis:
+- **Generación de hipótesis**: produce hipótesis de trabajo para examinar, refutar o precisar.
+- **Selección de estudios científicos**: sugiere estudios relacionados con el tema para construir un corpus inicial.
+- **Generación de un plan de escritura**: estructura una argumentación científica, por ejemplo para una revisión, introducción o protocolo.
 
-![sección de tareas](assets/tasks-section.png)
+Cada generación debe leerse como ayuda de estructuración, no como resultado definitivo. Las hipótesis deben contrastarse con la literatura y los datos disponibles.
 
-Después, haz clic en el botón "Generación de hipótesis", y comenzará la acción de las generaciones.
+## Uso científico
 
-### **Copiar Generación de hipótesis al portapapeles**
+SciScholarCraft es especialmente útil para:
 
-En la sección de hipótesis, haz clic en el icono :fontawesome-solid-copy: ubicado en la esquina superior derecha.
+- clarificar una pregunta antes de una revisión bibliográfica;
+- identificar subtemas o mecanismos a explorar;
+- preparar el esquema de un artículo o informe;
+- comparar varios enfoques teóricos;
+- detectar lagunas en un corpus.
 
-## **Selección de estudios científicos**
+## Proyectos y guardado
 
-Para la función "Selección de estudios científicos", primero debes ingresar un objetivo de investigación en la barra de búsqueda y obtener el resultado del análisis de SciScholarCraft.
+La barra lateral de acceso rápido ayuda a abrir, guardar o crear proyectos.
 
-Luego tendrás acceso a la siguiente sección, bajo análisis:
+!!! warning "Oferta Academic requerida"
+    Las funciones de proyecto, como guardar, abrir, eliminar o crear un proyecto, requieren iniciar sesión y la oferta Academic cuando no están disponibles públicamente.
 
-![sección de tareas](assets/tasks-section.png)
+## Límites de uso y validación
 
-Después, haz clic en el botón "Selección de estudios científicos", y comenzará la acción de las generaciones.
+El sitio público muestra mensajes de límite cuando se alcanza el número máximo de búsquedas, hipótesis o selecciones de estudios. Los límites exactos dependen de la oferta activa.
 
-### **Copiar estudios científicos al portapapeles**
-
-En la sección de estudios científicos, haz clic en el icono :fontawesome-solid-copy: ubicado en la esquina superior derecha.
-
-## **Generación de Plan de Escritura**
-
-Para la función "Generación de Plan de Escritura", primero debes ingresar un objetivo de investigación en la barra de búsqueda y obtener el resultado del análisis de SciScholarCraft.
-
-Luego tendrás acceso a la siguiente sección, bajo análisis:
-
-![sección de tareas](assets/tasks-section.png)
-
-Después, haz clic en el botón "Generación de Plan de Escritura", y comenzará la acción de las generaciones.
-
-### **Exportar Plan de Escritura generado a Word**
-
-En la sección de Plan de Escritura, haz clic en el icono :fontawesome-solid-file-export: ubicado en la esquina superior derecha.
-
-### **Copiar Plan de Escritura generado al portapapeles**
-
-En la sección de Plan de Escritura, haz clic en el icono :fontawesome-solid-copy: ubicado en la esquina superior derecha.
-
-## **Barra lateral de acceso rápido**
-
-!!! info
-    La barra lateral de acceso rápido está disponible desde la versión 3.2 de ES/IODE, y está disponible en dispositivos con un ancho de resolución de más de **800px**, como tabletas, escritorios y algunos móviles en modo apaisado.
-
-La barra aparece después de generar el análisis del objetivo de SciScholarCraft o directamente después de abrir un proyecto existente.
-
-Corresponde visualmente a lo siguiente:
-
-![barra lateral de acceso rápido](assets/quickaccess-sidebar.png)
-
-Se encuentra a la izquierda de las secciones de generaciones.
-
-## **Selección de proyecto de investigación**
-
-!!! warning "Se requiere oferta Academic"
-
-    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
-
-Tienes dos posibilidades:
-
-- Haz clic en el icono :fontawesome-solid-dna: bajo la barra de búsqueda
-
-- O haz clic en el icono :fontawesome-solid-folder-open: en la barra lateral de acceso rápido
-
-entonces podrás ver la lista de tus proyectos (si ya has guardado alguno).
-
-## **Guardar tu proyecto**
-
-!!! warning "Se requiere oferta Academic"
-
-    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
-
-!!! info
-
-    En SciScholarCraft puedes guardar hasta 10 proyectos.
-
-Tienes dos posibilidades:
-
-- Haz clic en el botón :fontawesome-solid-cloud-arrow-up: Guardar, bajo las secciones de generaciones
-
-- Alternativamente, haz clic en el icono :fontawesome-solid-cloud-arrow-up: en la barra lateral de acceso rápido
-
-Una notificación confirmará si el proyecto ha sido guardado.
-
-
-
-## **Eliminar tu proyecto**
-
-!!! warning "Se requiere oferta Academic"
-
-    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
-
-Tienes dos posibilidades:
-
-1. Haz clic en el icono :fontawesome-solid-dna: bajo la barra de búsqueda, 
-    1. Aparecerá el menú **Selección de proyecto de investigación**. Luego, haz clic en el botón ![botón de selección](assets/selection-button.png) en la línea del proyecto que deseas eliminar.
-    2. Aparecerá el menú de acciones; luego, haz clic en el botón ![botón de eliminar](assets/delete-button.png).
-
-
-2. Alternativamente, haz clic en el icono :fontawesome-solid-cloud-arrow-up: en la barra lateral de acceso rápido,
-    1. Aparecerá el menú **Selección de proyecto de investigación**. Luego, haz clic en el botón ![botón de selección](assets/selection-button.png) en la línea del proyecto que deseas eliminar.
-    2. Aparecerá el menú de acciones; luego, haz clic en el botón ![botón de eliminar](assets/delete-button.png).
-
-Una notificación confirmará si el proyecto ha sido eliminado.
-
-## **Abrir tu proyecto**
-
-!!! warning "Se requiere oferta Academic"
-
-    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
-
-Tienes dos posibilidades:
-
-1. Haz clic en el icono :fontawesome-solid-dna: bajo la barra de búsqueda, 
-    1. Aparecerá el menú **Selección de proyecto de investigación**. Luego, haz clic en el botón ![botón de selección](assets/selection-button.png) en la línea del proyecto que deseas eliminar.
-    2. Aparecerá el menú de acciones; luego, haz clic en el botón ![botón de abrir](assets/open-button.png).
-
-
-2. Alternativamente, haz clic en el icono :fontawesome-solid-cloud-arrow-up: en la barra lateral de acceso rápido,
-    1. Aparecerá el menú **Selección de proyecto de investigación**. Luego, haz clic en el botón ![botón de selección](assets/selection-button.png) en la línea del proyecto que deseas abrir.
-    2. Aparecerá el menú de acciones; luego, haz clic en el botón ![botón de abrir](assets/open-button.png).
-  
-## **Nuevo proyecto**
-
-!!! warning "Se requiere oferta Academic"
-
-    **Esta función solo es accesible si estás conectado a una cuenta (creada en nuestra plataforma) y tienes la Oferta Academic**
-
-
-Haz clic en el icono :fontawesome-solid-plus: en la barra lateral de acceso rápido.
+Para un trabajo académico, verifica siempre referencias primarias, métodos de los estudios, posibles sesgos y coherencia entre hipótesis, datos y conclusión.

@@ -5,6 +5,11 @@ description: affichage des informations de mise à jour du service
 # Journal des modifications
 
 ## **Journal des modifications ES/IODE**
+### 3.5.5 <small>14 avril 2026</small>
+
+- Documentation : mise à jour de la navigation, du thème et des pages fonctionnelles pour refléter le design actuel et les fonctionnalités publiques d'ES/IODE.
+- Documentation : ajout des pages Image de science, Actualités scientifiques, Revue scientifique, Offres, Statut du service dans les langues disponibles.
+
 ### 3.5.4 <small>18 novembre 2025</small>
 
 - modification des images de l’écran de présentation  

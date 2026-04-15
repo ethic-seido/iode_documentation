@@ -5,6 +5,11 @@ description: displaying service update information
 # Changelog
 
 ## **ES/IODE Changelog**
+### 3.5.5 <small>April 14, 2026</small>
+
+- Documentation: updated navigation, theme, and feature pages to reflect the current ES/IODE design and public features.
+- Documentation: added Science picture, Scientific news, Scientific journal, Plans, and Service status pages in the available languages.
+
 ### 3.5.4 <small>November 18, 2025</small>
 
 - Modification of the presentation screen images  

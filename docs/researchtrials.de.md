@@ -1,27 +1,40 @@
 ---
 icon: material/text-box-search
-description: um die Funktion zur Suche nach wissenschaftlichen klinischen Studien von ES/IODE zu starten
+description: Die ES/IODE-Suche nach klinischen Studien verwenden
 ---
+# Suche nach **klinischen Studien**
 
-## **Erste Schritte**
+Die Suche nach klinischen Studien hilft, Protokolle, Rekrutierungsstatus, Interventionen, Erkrankungen und therapeutische Bereiche zu untersuchen. Sie eignet sich zur Beobachtung translationaler Aktivität, Identifikation laufender Studien und Ergänzung der Literaturrecherche um eine klinische Perspektive.
 
-Um die Funktion zur Suche nach klinischen Studien von __ES/IODE__ zu nutzen, geben Sie einfach relevante Schlüsselwörter in die Suchleiste in der Mitte der Seite ein.
+```text
+https://ethicseido.com/Iode/SearchClinicalTrial
+```
 
-![Suchleiste](assets/searchbar-trials.png)
+![Suche nach klinischen Studien](assets/trials-search-de.png)
 
-Melden Sie sich für ein kostenloses Konto an, um erweiterte Funktionen zu nutzen.
+## Suche aufbauen
 
-__ES/IODE__ steht Ihnen bei Ihrer Suche nach wissenschaftlichem Wissen zur Seite.
+Kombinieren Sie Begriffe zu Erkrankung, Intervention, Population, Biomarker oder Mechanismus:
 
-Bei Fragen oder Kommentaren können Sie uns gerne kontaktieren.
+- Erkrankung oder klinischer Subtyp;
+- therapeutische Klasse, Molekül, Gerät oder Intervention;
+- Rekrutierungsstatus oder Phase, wenn verfügbar;
+- Zielpopulation, Alter, Geschlecht oder klinischer Kontext;
+- biologisches Kriterium oder relevanter Endpunkt.
 
-Viel Erfolg beim Suchen! :rocket:
+## Ergebnisse interpretieren
 
-## **Sucheinstellungen**
+Eine klinische Studie muss über ihr Protokoll gelesen werden. Prüfen Sie Status, Phase, Ein- und Ausschlusskriterien, Intervention, Vergleichsarm, Endpunkte und Standort. Eine aktive Studie bedeutet nicht, dass eine Behandlung validiert ist; sie zeigt, dass eine klinische Hypothese geprüft wird.
 
-Klicken Sie auf das Symbol :material-cog: unterhalb der Suchleiste, um den KI-Assistenten von __ES/IODE__ zu aktivieren und das Modell auszuwählen.
+Vergleichen Sie Studien mit verfügbaren Publikationen, um präklinische Hypothesen, laufende Protokolle, Zwischenergebnisse, begutachtete Publikationen und klinische Empfehlungen zu unterscheiden.
 
-- Modell __bright__: Dieses Modell soll Forschern helfen und zuverlässige wissenschaftliche Antworten liefern.
-- Modell __genius__: Dieses Modell soll erfahrene Forscher unterstützen und zuverlässige, sehr technische wissenschaftliche Antworten liefern.
+## KI-Assistent und Kontext
 
-Der KI-Assistent von __ES/IODE__ ist eine generative künstliche Intelligenz, die wir entwickelt haben, um Ihnen dabei zu helfen, tiefer in Ihre wissenschaftlichen Forschungsthemen einzusteigen und Ihnen Unterstützung bei deren Fortschritt und Verständnis zu bieten.
+Wenn verfügbar, kann der KI-Assistent Suchanfragen reformulieren, Protokollbegriffe erklären, Therapieansätze vergleichen oder Fragen identifizieren, die in Registern und Primärpublikationen zu prüfen sind.
+
+!!! warning "Medizinische Information"
+    ES/IODE unterstützt die Suche nach wissenschaftlichen und klinischen Informationen. Ergebnisse ersetzen keine professionelle medizinische Beratung, kein offizielles Protokoll und keine regulatorische Empfehlung.
+
+## Gute Praxis
+
+Notieren Sie Konsultationsdatum, Schlüsselwörter, Register oder Quellen und Studienkennungen. Für wissenschaftliche Synthesen sollten Studien immer mit Publikationen, methodischen Kriterien und regulatorischem Kontext verbunden werden.

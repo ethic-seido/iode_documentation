@@ -1,159 +1,46 @@
 ---
 icon: material/layers-search
-description: om te beginnen met het gebruik van de SciScholarCraft-functie
+description: SciScholarCraft gebruiken in ES/IODE
 ---
+# **SciScholarCraft**
 
-## **Aan de slag**
+SciScholarCraft ondersteunt het structureren van een wetenschappelijk onderzoeksdoel. Het helpt om van een brede intentie naar werkbare richtingen te gaan: hypothesen, studieselectie, schrijfplan en projectorganisatie wanneer het actieve aanbod dit mogelijk maakt.
 
-Om te beginnen met de functie __ES/IODE's SciScholarCraft__, voer je zo'n compleet en relevant mogelijke zin in over je wetenschappelijk onderzoeksdoel in de zoekbalk in het midden van de pagina.
+```text
+https://ethicseido.com/Iode/SciScholarCraft
+```
 
-![zoekbalk](assets/searchbar.png)
+![SciScholarCraft](assets/scischolarcraft-nl.png)
 
-SciScholarCraft zal je onderzoeksdoel analyseren en verschillende generatieacties voorstellen.
+## Een onderzoeksdoel formuleren
 
-Meld je aan voor een gratis account om te profiteren van geavanceerde functies.
+De kwaliteit van de output hangt sterk af van de startformulering. Gebruik bij voorkeur een volledige zin met vakgebied, studieobject, populatie of systeem, te analyseren relatie en gewenste output.
 
-__ES/IODE__ staat voor je klaar om je te helpen bij je zoektocht naar wetenschappelijke kennis.
+```text
+Beoordeel de rol van neuro-inflammatie in de vroege progressie van de ziekte van Alzheimer en identificeer biomarkers die bruikbaar zijn voor een narratieve review.
+```
 
-Neem gerust contact met ons op als je vragen of opmerkingen hebt.
+Vermijd te korte of dubbelzinnige vragen. Bij brede onderwerpen kun je exploratief starten en verfijnen op basis van voorgestelde hypothesen of studies.
 
-Veel zoekplezier! :rocket:
+## Generatieacties
 
-## **Genereren van hypothesen**
+Na de analyse wordt de taaksectie beschikbaar. Er kan slechts één generatieactie tegelijk worden gestart.
 
-Voor de functie "Genereren van hypothesen" moet je eerst een onderzoeksdoel invoeren in de zoekbalk en het resultaat van de SciScholarCraft-analyse verkrijgen.
+- **Hypothesen genereren**: produceert werkhypothesen om te onderzoeken, verwerpen of preciseren.
+- **Wetenschappelijke studies selecteren**: stelt studies voor om een eerste corpus op te bouwen.
+- **Schrijfplan genereren**: structureert een wetenschappelijke argumentatie, bijvoorbeeld voor review, introductie of protocol.
 
-Vervolgens heb je toegang tot de volgende sectie, onder analyse:
+Elke generatie is een structurerende hulp, geen definitief resultaat. Hypothesen moeten met literatuur en beschikbare gegevens worden vergeleken.
 
-![taken sectie](assets/tasks-section.png)
+## Wetenschappelijk gebruik
 
-Klik vervolgens op de knop "Genereren van hypothesen", de generatieactie zal beginnen.
+SciScholarCraft is nuttig om onderzoeksvragen te verduidelijken, subthema's te vinden, een artikel- of rapportstructuur voor te bereiden, theoretische invalshoeken te vergelijken en lacunes in een corpus zichtbaar te maken.
 
-### **Kopieer generatie van hypothesen naar het klembord**
+## Projecten en opslaan
 
-In het gedeelte met hypotheses, klik op het :fontawesome-solid-copy: icoon rechtsboven.
+!!! warning "Academic-aanbod vereist"
+    Projectfuncties zoals opslaan, openen, verwijderen of maken van een project vereisen aanmelden en het Academic-aanbod wanneer ze niet openbaar beschikbaar zijn.
 
-## **Selectie van wetenschappelijke studies**
+## Validatie
 
-Voor de functie "Selectie van wetenschappelijke studies" moet je eerst een onderzoeksdoel invoeren in de zoekbalk en het resultaat van de SciScholarCraft-analyse verkrijgen.
-
-Vervolgens heb je toegang tot de volgende sectie, onder analyse:
-
-![taken sectie](assets/tasks-section.png)
-
-Klik vervolgens op de knop "Selectie van wetenschappelijke studies", de generatieactie zal beginnen.
-
-### **Kopieer wetenschappelijke studies naar het klembord**
-
-In het gedeelte met wetenschappelijke studies, klik op het :fontawesome-solid-copy: icoon rechtsboven.
-
-## **Genereren van schrijfplan**
-
-Voor de functie "Genereren van schrijfplan" moet je eerst een onderzoeksdoel invoeren in de zoekbalk en het resultaat van de SciScholarCraft-analyse verkrijgen.
-
-Vervolgens heb je toegang tot de volgende sectie, onder analyse:
-
-![taken sectie](assets/tasks-section.png)
-
-Klik vervolgens op de knop "Genereren van schrijfplan", de generatieactie zal beginnen.
-
-### **Exporteer genereren van schrijfplan naar Word**
-
-In het gedeelte met het schrijfplan, klik op het :fontawesome-solid-file-export: icoon rechtsboven.
-
-### **Kopieer genereren van schrijfplan naar het klembord**
-
-In het gedeelte met het schrijfplan, klik op het :fontawesome-solid-copy: icoon rechtsboven.
-
-## **Snelle toegangszijbalk**
-
-!!! info
-    De snelle toegangszijbalk is beschikbaar vanaf versie 3.2 van ES/IODE, het is beschikbaar op apparaten met een resolutie van meer dan **800px** breedte, zoals tablets, desktops en bepaalde mobiele apparaten in liggende modus.
-
-De balk verschijnt na het genereren van de analyse van het SciScholarCraft-doel of direct na het openen van een bestaand project.
-
-Het komt overeen met de onderstaande visual:
-
-![snelle toegangszijbalk](assets/quickaccess-sidebar.png)
-
-Het bevindt zich links van de generatiesections.
-
-## **Selectie van onderzoeksproject**
-
-!!! warning "Academic aanbod vereist"
-
-    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
-
-Er zijn 2 mogelijkheden voor jou beschikbaar:
-
-- Klik op het :fontawesome-solid-dna: icoon onder de zoekbalk
-
-- Of klik op het :fontawesome-solid-folder-open: icoon in de snelle toegangszijbalk
-
-Je kunt dan de lijst met jouw projecten bekijken (als je er al hebt opgeslagen).
-
-## **Sla je project op**
-
-!!! warning "Academic aanbod vereist"
-
-    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
-
-!!! info
-
-    In SciScholarCraft kun je tot 10 projecten opslaan.
-
-Er zijn 2 mogelijkheden voor jou beschikbaar:
-
-- Klik op de knop :fontawesome-solid-cloud-arrow-up: Opslaan, onder de generatiesections
-
-- Als alternatief, klik op het :fontawesome-solid-cloud-arrow-up: icoon in de snelle toegangszijbalk
-
-Een melding zal bevestigen of het project is opgeslagen.
-
-## **Verwijder je project**
-
-!!! warning "Academic aanbod vereist"
-
-    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
-
-Er zijn 2 mogelijkheden voor jou beschikbaar:
-
-1. Klik op het :fontawesome-solid-dna: icoon onder de zoekbalk, 
-    1. Het menu **Selectie van onderzoeksprojecten** verschijnt. Klik vervolgens op de knop ![selectieknop](assets/selection-button.png) op de regel van het project dat je wilt verwijderen.
-    2. Het Actiemenu verschijnt; klik vervolgens op de knop ![verwijderknop](assets/delete-button.png).
-
-
-2. Als alternatief, klik op het :fontawesome-solid-cloud-arrow-up: icoon in de snelle toegangszijbalk,
-    1. Het menu **Selectie van onderzoeksprojecten** verschijnt, klik vervolgens op de knop ![selectieknop](assets/selection-button.png) op de regel van het project dat je wilt verwijderen.
-    2. Het Actiemenu verschijnt, klik vervolgens op de knop ![verwijderknop](assets/delete-button.png).
-
-Een melding zal bevestigen of het project is verwijderd.
-
-## **Open je project**
-
-!!! warning "Academic aanbod vereist"
-
-    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
-
-Er zijn 2 mogelijkheden voor jou beschikbaar:
-
-1. Klik op het :fontawesome-solid-dna: icoon onder de zoekbalk, 
-    1. Het menu **Selectie van onderzoeksprojecten** verschijnt. Klik vervolgens op de knop ![selectieknop](assets/selection-button.png) op de regel van het project dat je wilt openen.
-    2. Het Actiemenu verschijnt; klik vervolgens op de knop ![openknop](assets/open-button.png).
-
-
-2. Als alternatief, klik op het :fontawesome-solid-cloud-arrow-up: icoon in de snelle toegangszijbalk,
-    1. Het menu **Selectie van onderzoeksprojecten** verschijnt, klik vervolgens op de knop ![selectieknop](assets/selection-button.png) op de regel van het project dat je wilt openen.
-    2. Het Actiemenu verschijnt, klik vervolgens op de knop ![openknop](assets/open-button.png).
-
-## **Nieuw project**
-
-!!! warning "Academic aanbod vereist"
-
-    **Deze functie is alleen toegankelijk als je verbonden bent met een account (aangemaakt op ons platform) en je over het Academic aanbod beschikt**
-
-Klik op het :fontawesome-solid-plus: icoon in de snelle toegangszijbalk.
-
-
-
-
+Controleer voor academisch werk altijd primaire referenties, studiemethoden, mogelijke bias en consistentie tussen hypothesen, data en conclusie.

@@ -1,158 +1,58 @@
 ---
 icon: material/layers-search
-description: to start using the scischolarcraft feature
+description: Use SciScholarCraft in ES/IODE
 ---
+# **SciScholarCraft**
 
-## **Getting Started**
+SciScholarCraft supports the structuring of a scientific research objective. It helps move from a broad intention to working directions: hypotheses, study selection, writing plan, and project organization when enabled by the active offer.
 
-To start using __ES/IODE's SciScholarCraft feature__, enter as complete and relevant a sentence as possible about your scientific research objective into the search bar in the center of the page.
+```text
+https://ethicseido.com/Iode/SciScholarCraft
+```
 
-![search bar](assets/searchbar.png)
+![SciScholarCraft](assets/scischolarcraft-en.png)
 
-SciScholarCraft will analyze your research objective and suggest several generation actions.
+## Formulate a research objective
 
-Sign up for a free account to enjoy advanced features.
+Output quality depends strongly on the initial formulation. Prefer a complete sentence that states the field, object of study, population or system, relationship to analyze, and expected output.
 
-__ES/IODE__ is here to assist you in your quest for scientific knowledge. 
+Example:
 
-Feel free to contact us if you have any questions or comments. 
+```text
+Assess the role of neuroinflammation in early Alzheimer's disease progression and identify biomarkers useful for a narrative review.
+```
 
-Happy searching! :rocket:
+Avoid queries that are too short or ambiguous. If the topic is broad, start with an exploratory question and refine it from the proposed hypotheses or studies.
 
-## **Generation of hypotheses**
+## Generation actions
 
-For the "Generation of hypotheses" function, you must first enter a research objective in the search bar and obtain the result of the SciScholarCraft analysis.
+After analysis, the task section becomes available. Only one generation action can be launched at a time.
 
-Then you will have access to the following section, under analysis :
+- **Hypothesis generation**: produces working hypotheses to examine, reject, or refine.
+- **Scientific study selection**: suggests studies related to the topic to build an initial corpus.
+- **Writing plan generation**: structures a scientific argument, for example for a review, introduction, or protocol.
 
-![tasks section](assets/tasks-section.png)
+Each generation should be read as a structuring aid, not a final result. Hypotheses must be compared with the literature and available data.
 
-Next, click on the "Generation of hypotheses" button, the action of the generations will begin.
+## Scientific use
 
-### **Copy Generation of hypotheses to the clipboard**
+SciScholarCraft is useful to:
 
-In hypotheses section, click on the :fontawesome-solid-copy: icon located at the top right.
+- clarify a research question before literature review;
+- identify subtopics or mechanisms to explore;
+- prepare an article or report outline;
+- compare theoretical angles;
+- identify gaps in a corpus.
 
-## **Selection of scientific studies**
+## Projects and saving
 
-For the "Selection of scientific studies" function, you must first enter a research objective in the search bar and obtain the result of the SciScholarCraft analysis.
-
-Then you will have access to the following section, under analysis :
-
-![tasks section](assets/tasks-section.png)
-
-Next, click on the "Selection of scientific studies" button, the action of the generations will begin.
-
-### **Copy scientific studies to the clipboard**
-
-In scientific studies section, click on the :fontawesome-solid-copy: icon located at the top right.
-
-## **Generating Writing Plan**
-
-For the "Generating Writing Plan" function, you must first enter a research objective in the search bar and obtain the result of the SciScholarCraft analysis.
-
-Then you will have access to the following section, under analysis :
-
-![tasks section](assets/tasks-section.png)
-
-Next, click on the "Generating Writing Plan" button, the action of the generations will begin.
-
-### **Export Generating Writing Plan to Word**
-
-In Writing plan section, click on the :fontawesome-solid-file-export: icon located at the top right.
-
-### **Copy Generating Writing Plan to the clipboard**
-
-In Writing plan section, click on the :fontawesome-solid-copy: icon located at the top right.
-
-## **Quick access sidebar**
-
-!!! info
-    The quick access sidebar is available from version 3.2 of ES/IODE, it is available on devices with more than **800px** resolution width, such as tablets, desktop and certain mobile held in landscape mode.
-
-The bar appears following the generation of the analysis of the SciScholarCraft objective or directly after opening an existing project.
-
-It corresponds to the visual below:
-
-![quickaccess sidebar](assets/quickaccess-sidebar.png)
-
-It is located to the left of the generations sections.
-
-## **Research project selection**
+The quick access sidebar helps open, save, or create projects.
 
 !!! warning "Academic offer required"
+    Project features such as saving, opening, deleting, or creating a project require sign-in and the Academic offer when not publicly available.
 
-    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
+## Usage limits and validation
 
-2 possibilities are available to you:
+The public site displays limit messages when the maximum number of searches, hypotheses, or study selections is reached. Exact limits depend on the active offer.
 
-- Click on the :fontawesome-solid-dna: icon under the search bar
-
-- Or, click on the :fontawesome-solid-folder-open: icon in the quick access sidebar
-
-you will then be able to view the list of your projects (if you have already saved any).
-
-## **Save your project**
-
-!!! warning "login required"
-
-    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
-
-!!! info
-
-    In SciScholarCraft you can save up to 10 projects.
-
-2 possibilities are available to you:
-
-- Click on the button :fontawesome-solid-cloud-arrow-up: Save,  under the generations sections
-
-- Alternatively, click on the :fontawesome-solid-cloud-arrow-up: icon in the quick access sidebar
-
-A notification will confirm if the project has been saved.
-
-
-
-## **Delete your project**
-
-!!! warning "Academic offer required"
-
-    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
-
-2 possibilities are available to you:
-
-1.  Click on the :fontawesome-solid-dna: icon under the search bar, 
-    1. The **Research project selection** menu will appear. Next, click on the button ![selection button](assets/selection-button.png) on the line of the project you want to delete.
-    2. The Action menu will appear; then, click on the button ![delete button](assets/delete-button.png).
-
-
-2. Alternatively, Click on the :fontawesome-solid-cloud-arrow-up: icon in the quick access sidebar,
-    1. The **Research project selection** menu will appear, then click on the button ![selection button](assets/selection-button.png) on the line of the project you want to delete.
-    2. The Action menu will appear, then click on the button ![delete button](assets/delete-button.png).
-
-A notification will confirm if the project has been deleted.
-
-## **Open your project**
-
-!!! warning "Academic offer required"
-
-    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
-
-2 possibilities are available to you:
-
-1.  Click on the :fontawesome-solid-dna: icon under the search bar, 
-    1. The **Research project selection** menu will appear. Next, click on the button ![selection button](assets/selection-button.png) on the line of the project you want to delete.
-    2. The Action menu will appear; then, click on the button ![open button](assets/open-button.png).
-
-
-2. Alternatively, Click on the :fontawesome-solid-cloud-arrow-up: icon in the quick access sidebar,
-    1. The **Research project selection** menu will appear, then click on the button ![selection button](assets/selection-button.png) on the line of the project you want to open.
-    2. The Action menu will appear, then click on the button ![open button](assets/open-button.png).
-
-## **New project**
-
-!!! warning "Academic offer required"
-
-    **This feature is only accessible if you are connected with an account (created on our platform) and you have the Academic offer**
-
-
-Click on the :fontawesome-solid-plus: icon in the quick access sidebar.
+For academic work, always verify primary references, study methods, possible biases, and consistency between hypotheses, data, and conclusion.

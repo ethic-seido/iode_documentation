@@ -1,27 +1,40 @@
 ---
 icon: material/text-box-search
-description: om te beginnen met het gebruik van de zoekfunctie voor wetenschappelijke klinische onderzoeken
+description: De ES/IODE-zoekfunctie voor klinische onderzoeken gebruiken
 ---
+# Zoeken naar **klinische onderzoeken**
 
-## **Aan de slag**
+De zoekfunctie voor klinische onderzoeken helpt protocollen, rekruteringsstatus, interventies, aandoeningen en therapeutische domeinen te verkennen. Ze is nuttig om translationele activiteit te volgen, lopende onderzoeken te vinden en literatuuronderzoek aan te vullen met een klinisch perspectief.
 
-Om de zoekfunctie voor klinische onderzoeken van __ES/IODE__ te gebruiken, voert u eenvoudig relevante zoekwoorden in de zoekbalk in het midden van de pagina in.
+```text
+https://ethicseido.com/Iode/SearchClinicalTrial
+```
 
-![zoekbalk](assets/searchbar-trials.png)
+![zoeken naar klinische onderzoeken](assets/trials-search-nl.png)
 
-Meld u aan voor een gratis account om van geavanceerde functies te genieten.
+## De zoekopdracht opbouwen
 
-__ES/IODE__ staat klaar om u te helpen bij uw zoektocht naar wetenschappelijke kennis.
+Gebruik termen rond aandoening, interventie, populatie, biomarker of mechanisme. Combineer:
 
-Neem gerust contact met ons op als u vragen of opmerkingen heeft.
+- ziekte of klinisch subtype;
+- therapeutische klasse, molecule, apparaat of interventie;
+- rekruteringsstatus of fase wanneer beschikbaar;
+- doelpopulatie, leeftijd, geslacht of klinische context;
+- biologisch criterium of relevante endpoint.
 
-Veel succes met zoeken! :rocket:
+## Resultaten interpreteren
 
-## **Zoekinstellingen**
+Een klinisch onderzoek moet via het protocol worden gelezen. Bekijk status, fase, inclusie- en exclusiecriteria, interventie, comparator, endpoints en locatie. Een actief onderzoek betekent niet dat een behandeling gevalideerd is; het betekent dat een klinische hypothese wordt geëvalueerd.
 
-Klik op het pictogram :materiaal-tandwiel: onder de zoekbalk en activeer vervolgens de __ES/IODE__ AI-assistent en selecteer het model.
+Vergelijk onderzoeken met beschikbare publicaties om preklinische hypothesen, lopende protocollen, tussentijdse resultaten, peer-reviewed publicaties en klinische aanbevelingen te onderscheiden.
 
-- __bright__-model: Dit model is bedoeld om onderzoekers te helpen en betrouwbare wetenschappelijke antwoorden te bieden.
-- __genius__-model: Dit model is bedoeld om ervaren onderzoekers te helpen en betrouwbare, zeer technische wetenschappelijke antwoorden te bieden.
+## AI-assistent en context
 
-De __ES/IODE AI__-assistent is een generatieve kunstmatige intelligentie die we hebben ontworpen om u te helpen dieper in te gaan op uw wetenschappelijke onderwerpen terwijl we hulp bieden bij hun voortgang en begrip.
+Wanneer beschikbaar kan de AI-assistent helpen zoekvragen te herformuleren, protocoltermen uit te leggen, therapeutische benaderingen te vergelijken of vragen te identificeren die in registers en primaire publicaties moeten worden gecontroleerd.
+
+!!! warning "Medische informatie"
+    ES/IODE helpt bij het zoeken naar wetenschappelijke en klinische informatie. Resultaten vervangen geen professioneel medisch advies, officieel protocol of regelgevende aanbeveling.
+
+## Goede praktijken
+
+Noteer consultatiedatum, trefwoorden, geraadpleegde registers of bronnen en trial-identificaties. Verbind klinische onderzoeken voor wetenschappelijke synthese altijd met gepubliceerde artikelen, methodologische criteria en regelgevende context.

@@ -6,60 +6,63 @@ nav:
   - Articles search feature: "researcharticles.md"
   - Clinical trials search feature: "researchtrials.md"
   - SciScholarCraft feature: "scischolarcraft.md"
+  - Science picture: "sciencepicture.md"
+  - Scientific news: "sciencenews.md"
+  - Scientific journal: "scientificjournal.md"
+  - Plans: "plans.md"
+  - Service status: "status.md"
   - ChangeLog: "changelog.md"
+
 theme:
+  name: material
+  language: en
+  favicon: assets/IodeIconv232-round.png
+  logo: assets/horizontal-nobackground-es-iode-microscope-only-logo-45x41-v3.png
+  font:
+    text: Inter
   features:
-      # - navigation.instant
-      - navigation.tracking
-      - navigation.top
-      - search.highlight
-      - search.share
-      - content.code.annotate
-      - content.code.copy    
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - content.code.annotate
+    - content.code.copy
   palette:
     - scheme: esiode
-      primary: blue
-      accent: blue 
+      primary: custom
+      accent: custom
       toggle:
         icon: fontawesome/solid/moon
         name: Switch to dark mode
     - scheme: slate
       primary: black
-      accent: blue 
+      accent: blue
       toggle:
         icon: material/white-balance-sunny
         name: Switch to light mode
 
-
-  favicon: assets/IodeIconv232-round.png
-  icon:
-    logo: fontawesome/solid/microscope
-
-  name: material
-  language: en
-  font:
-    text: Poppins
 extra_css:
   - stylesheets/extra.css
-copyright: Copyright &copy; 2020 - 2024 <a href="https://ethicseido.com"  target="_blank" rel="noopener">ETHIC SEIDO</a>
+
+copyright: Copyright &copy; 2020 - 2026 <a href="https://ethicseido.com" target="_blank" rel="noopener">ETHIC SEIDO</a>
 
 extra:
   feedback:
-      title: Was this page helpful?
-      ratings:
-        - icon: material/emoticon-happy-outline
-          name: This page was helpful
-          data: 1
-          note: >-
-            Thanks for your feedback!
-        - icon: material/emoticon-sad-outline
-          name: This page could be improved
-          data: 0
+    title: Was this page helpful?
+    ratings:
+      - icon: material/emoticon-happy-outline
+        name: This page was helpful
+        data: 1
+        note: >-
+          Thanks for your feedback!
+      - icon: material/emoticon-sad-outline
+        name: This page could be improved
+        data: 0
   generator: false
   social:
-    - icon: fontawesome/brands/linkedin 
+    - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/showcase/es-iode
-    - icon: fontawesome/brands/facebook 
+    - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/ESIodeSearchEngine
     - icon: fontawesome/solid/envelope
       link: https://ethicseido.com/Shared/Contact
@@ -84,7 +87,6 @@ markdown_extensions:
       custom_checkbox: true
 
 plugins:
-  - social
   - search
   - i18n:
       docs_structure: suffix
@@ -95,33 +97,52 @@ plugins:
           build: true
         - locale: fr
           name: Français
-          build: true    
+          build: true
           nav_translations:
             'Articles search feature': Recherche d'études scientifiques
             'Clinical trials search feature': Recherche d'essais cliniques
             'SciScholarCraft feature': SciScholarCraft
+            'Science picture': Image de science
+            'Scientific news': Actualités scientifiques
+            'Scientific journal': Revue scientifique
+            'Plans': Offres
+            'Service status': Statut du service
         - locale: de
           name: Deutsch
-          build: true    
+          build: true
           nav_translations:
             'Introduction': Einführung
             'Articles search feature': Artikelsuchfunktion
             'Clinical trials search feature': Suchfunktion für klinische Studien
             'SciScholarCraft feature': SciScholarCraft
+            'Science picture': Wissenschaftsbild
+            'Scientific news': Wissenschaftsnachrichten
+            'Scientific journal': Wissenschaftsjournal
+            'Plans': Angebote
+            'Service status': Servicestatus
         - locale: nl
           name: Nederlands
-          build: true    
+          build: true
           nav_translations:
             'Introduction': Invoering
             'Articles search feature': Zoekfunctie voor artikelen
             'Clinical trials search feature': Zoekfunctie voor klinische onderzoeken
             'SciScholarCraft feature': SciScholarCraft
+            'Science picture': Wetenschapsbeeld
+            'Scientific news': Wetenschapsnieuws
+            'Scientific journal': Wetenschappelijk tijdschrift
+            'Plans': Abonnementen
+            'Service status': Servicestatus
         - locale: es
-          name: Española
-          build: true    
+          name: Español
+          build: true
           nav_translations:
             'Introduction': Introducción
             'Articles search feature': Función de búsqueda de artículos
             'Clinical trials search feature': Función de búsqueda de ensayos clínicos
             'SciScholarCraft feature': SciScholarCraft
-
+            'Science picture': Imagen científica
+            'Scientific news': Noticias científicas
+            'Scientific journal': Revista científica
+            'Plans': Planes
+            'Service status': Estado del servicio

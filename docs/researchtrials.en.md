@@ -1,27 +1,50 @@
 ---
 icon: material/text-box-search
-description: to start using the scientific clinical trials search feature
+description: Use the ES/IODE clinical trials search
 ---
+# Clinical **Trials Search**
 
-## **Getting Started**
+ES/IODE clinical trials search helps explore protocols, recruitment status, interventions, diseases, and therapeutic areas. It is useful for tracking translational activity, identifying ongoing trials, and complementing literature search with a clinical view.
 
-To start using __ES/IODE's clinical trial search function__, simply enter relevant keywords into the search bar in the center of the page.
+```text
+https://ethicseido.com/Iode/SearchClinicalTrial
+```
 
-![search bar](assets/searchbar-trials.png)
+![clinical trials search](assets/trials-search-en.png)
 
-Sign up for a free account to enjoy advanced features.
+## Build the search
 
-__ES/IODE__ is here to assist you in your quest for scientific knowledge. 
+Use terms related to the condition, intervention, population, biomarker, or mechanism. To broaden or narrow exploration, combine:
 
-Feel free to contact us if you have any questions or comments. 
+- disease name or clinical subtype;
+- therapeutic class, molecule, device, or intervention;
+- recruitment status or phase when available;
+- target population, age, sex, or clinical context;
+- biological criterion or endpoint of interest.
 
-Happy searching! :rocket:
+## Interpret results
 
-## **Search settings**
+A clinical trial should be read through its protocol. Review status, phase, inclusion and exclusion criteria, intervention, comparator, endpoints, and location. An active trial does not mean that a treatment is validated; it means a clinical hypothesis is being evaluated.
 
-Click on the icon :material-cog: under the search bar, then you can activate the __ES/IODE__ AI assistant and select the model.
+Compare trials with available scientific publications to distinguish:
 
-- __bright__ model: This model aims to assist researchers and provide reliable scientific answers
-- __genius__ model: This model aims to assist experienced researchers and provide reliable, very technical scientific answers. 
+- preclinical hypothesis;
+- ongoing protocol;
+- interim results;
+- peer-reviewed publication;
+- clinical recommendation or authorized use.
 
-The __ES/IODE AI__ Assistant is a generative artificial intelligence that we have designed to help you delve deeper into your scientific research topics while providing assistance in their progress and understanding.
+## AI assistant and context
+
+When available, the AI assistant can help reformulate a search, explain protocol vocabulary, compare therapeutic approaches, or identify questions to verify in registries and primary publications.
+
+!!! warning "Medical information"
+    ES/IODE helps search scientific and clinical information. Results do not replace professional medical advice, an official protocol, or a regulatory recommendation.
+
+## Good practices
+
+Record the consultation date, keywords, consulted registries or sources, and trial identifiers when available. For scientific synthesis, always connect trials with published articles, methodological criteria, and regulatory context.
+
+## Account and limits
+
+Some options may be limited by the active offer, account sign-in, or public service quotas.
