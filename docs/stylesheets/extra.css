@@ -62,11 +62,11 @@ body {
 }
 
 [data-md-color-scheme="esiode"] .md-header__button.md-logo img {
-    content: url("../assets/es-iode-mark-v5-light-mode.png");
+    content: url("../assets/es-iode-mark-v5-black.png");
 }
 
 [data-md-color-scheme="slate"] .md-header__button.md-logo img {
-    content: url("../assets/es-iode-mark-v5-dark-mode.png");
+    content: url("../assets/es-iode-mark-v5-white.png");
 }
 
 [data-md-color-scheme="esiode"] .md-search__form {
