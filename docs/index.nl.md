@@ -7,7 +7,7 @@ icon: simple/readthedocs
 [![versie](https://img.shields.io/badge/versie-3.5.5-blue)](changelog.md)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 
-[![logo](assets/background_es-iode-logo-v3.png)](https://ethicseido.com/Iode/Iode)
+[![logo](assets/background_es-iode-logo-v5.png)](https://ethicseido.com/Iode/Iode)
 
 ## Overzicht
 
