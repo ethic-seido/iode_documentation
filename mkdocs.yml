@@ -17,7 +17,7 @@ theme:
   name: material
   language: en
   favicon: assets/IodeIconv532-round.png
-  logo: assets/es-iode-mark-v5-black.png
+  logo: assets/es-iode-mark-v5-light-mode.png
   font:
     text: Inter
   features:
