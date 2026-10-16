@@ -8,7 +8,7 @@ description: Entender los planes de ES/IODE, los límites de uso y las funciones
 ES/IODE combina recorridos públicos, utilizables sin cuenta, y funciones avanzadas asociadas a una cuenta o a un plan. Esta distinción es importante para los equipos de investigación: permite saber qué puede evaluarse de inmediato, qué requiere autenticación y qué pertenece a un uso académico o institucional.
 
 ```text
-https://ethicseido.com/Shared/Pricing
+https://iode.ethicseido.com/Pricing
 ```
 
 ## Acceso público
