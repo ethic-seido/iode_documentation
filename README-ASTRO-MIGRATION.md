@@ -11,7 +11,7 @@ npm run build
 
 ## Read the Docs
 
-The Starlight Read the Docs configuration is in `readthedocs-astro.yaml`. Create a preview build using this branch and configuration before switching the production project. The Astro configuration derives both `site` and `base` from `READTHEDOCS_CANONICAL_URL`, preventing broken assets and duplicate language/version prefixes.
+This branch’s `readthedocs.yaml` builds Starlight. Create a preview build using this branch before switching the production project. The Astro configuration derives both `site` and `base` from `READTHEDOCS_CANONICAL_URL`, preventing broken assets and duplicate language/version prefixes.
 
 ## Rollback
 
