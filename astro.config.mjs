@@ -16,6 +16,9 @@ export default defineConfig({
       },
       favicon: '/assets/IodeIconv532-round.png',
       customCss: ['./src/styles/esiode.css'],
+      components: {
+        SocialIcons: './src/components/SocialIcons.astro',
+      },
       defaultLocale: 'en',
       locales: {
         en: { label: 'English', lang: 'en' },
