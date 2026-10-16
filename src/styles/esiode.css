@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600;6..72,700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --sl-font: Inter, ui-sans-serif, system-ui, sans-serif;
+  --sl-font-system: Inter, ui-sans-serif, system-ui, sans-serif;
+  --sl-font-system-mono: ui-monospace, SFMono-Regular, Consolas, monospace;
+  --sl-color-text: #142033;
+  --sl-color-text-accent: #8f4f42;
+  --sl-color-bg: #f7f7f2;
+  --sl-color-bg-nav: #fbfaf4;
+  --sl-color-bg-sidebar: #f1efe7;
+  --sl-color-hairline: rgba(17, 24, 39, 0.12);
+  --sl-color-accent-low: #f1ddd5;
+  --sl-color-accent: #b46b57;
+  --sl-color-accent-high: #6f3027;
+}
+
+:root[data-theme='dark'] {
+  --sl-color-text: #f7f7f2;
+  --sl-color-text-accent: #e6a995;
+  --sl-color-bg: #111827;
+  --sl-color-bg-nav: #111827;
+  --sl-color-bg-sidebar: #0b0f1a;
+  --sl-color-hairline: rgba(255, 255, 255, 0.14);
+  --sl-color-accent-low: #542f29;
+  --sl-color-accent: #d89b84;
+  --sl-color-accent-high: #f4c5b4;
+}
+
+.site-title, .content :is(h1, h2, h3) { font-family: 'Newsreader', Georgia, serif; }
+.site-title { font-style: italic; font-weight: 600; }
+.content h1 { font-size: 2.6rem; line-height: 1.05; }
+.content h2 { font-size: 1.65rem; line-height: 1.18; }
+.content img { border-radius: 8px; box-shadow: 0 20px 50px rgba(17, 24, 39, .14); }
+:root[data-theme='dark'] .content img { box-shadow: 0 20px 50px rgba(0, 0, 0, .28); }
