@@ -5,8 +5,6 @@ title: "Wetenschappelijk beeld"
 icon: material/image-search
 description: De ES/IODE-functie Wetenschapsbeeld interpreteren en gebruiken
 ---
-# **Wetenschappelijk beeld**
-
 **Science picture** belicht een wetenschappelijke visual met redactionele context: astronomisch beeld, experimentele foto, technische observatie, institutioneel archiefmateriaal of illustratie uit een openbare wetenschappelijke bron. Het doel is niet alleen visueel: de pagina helpt een observatie te verbinden met haar wetenschappelijke context, bron en mogelijke onderzoeksrichtingen.
 
 ```text

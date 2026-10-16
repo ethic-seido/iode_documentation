@@ -5,8 +5,6 @@ title: "Zoeken naar wetenschappelijke artikelen"
 icon: material/file-search
 description: De ES/IODE-zoekfunctie voor wetenschappelijke artikelen gebruiken
 ---
-# Zoeken naar **wetenschappelijke artikelen**
-
 De ES/IODE-zoekfunctie voor wetenschappelijke artikelen helpt relevante publicaties te vinden vanuit een vraag, onderwerp of reeks trefwoorden. Ze ondersteunt literatuurmonitoring, bibliografievoorbereiding, exploratie van opkomende domeinen en snelle controle van een wetenschappelijk corpus.
 
 ```text

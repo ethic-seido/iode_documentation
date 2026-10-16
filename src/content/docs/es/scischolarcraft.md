@@ -5,8 +5,6 @@ title: "SciScholarCraft"
 icon: material/layers-search
 description: Usar SciScholarCraft en ES/IODE
 ---
-# **SciScholarCraft**
-
 SciScholarCraft acompaña la estructuración de un objetivo de investigación científica. Ayuda a pasar de una intención general a líneas de trabajo: hipótesis, selección de estudios, plan de escritura y organización de proyecto cuando la oferta activa lo permite.
 
 ```text

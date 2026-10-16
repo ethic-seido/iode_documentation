@@ -5,8 +5,6 @@ title: "Changelog"
 icon: material/format-list-numbered-rtl
 description: displaying service update information
 ---
-# Changelog
-
 ## **ES/IODE Changelog**
 ### 3.5.5 <small>April 14, 2026</small>
 

@@ -5,8 +5,6 @@ title: "Revue scientifique"
 icon: material/book-open-page-variant
 description: Parcourir la revue scientifique ES/IODE
 ---
-# Revue **scientifique**
-
 La revue scientifique ES/IODE présente une sélection régulière de publications organisées par champ de recherche. Elle aide à suivre l'évolution d'un domaine, à repérer des articles récents et à constituer un point d'entrée pour une veille ou une bibliographie.
 
 ```text

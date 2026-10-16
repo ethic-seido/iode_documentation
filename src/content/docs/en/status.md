@@ -5,8 +5,6 @@ title: "Service Status"
 icon: material/list-status
 description: Monitor public ES/IODE service availability and interpret the status page.
 ---
-# Service **Status**
-
 The status page helps users quickly check whether ES/IODE public services are operating normally, whether an incident is in progress, or whether maintenance has been published. It is useful when a search does not behave as expected, when an AI assistant appears unavailable, or before rerunning an important query.
 
 ```text

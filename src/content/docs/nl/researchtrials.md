@@ -5,8 +5,6 @@ title: "Zoeken naar klinische onderzoeken"
 icon: material/text-box-search
 description: De ES/IODE-zoekfunctie voor klinische onderzoeken gebruiken
 ---
-# Zoeken naar **klinische onderzoeken**
-
 De zoekfunctie voor klinische onderzoeken helpt protocollen, rekruteringsstatus, interventies, aandoeningen en therapeutische domeinen te verkennen. Ze is nuttig om translationele activiteit te volgen, lopende onderzoeken te vinden en literatuuronderzoek aan te vullen met een klinisch perspectief.
 
 ```text

@@ -5,8 +5,6 @@ title: "Wetenschappelijk tijdschrift"
 icon: material/book-open-page-variant
 description: Het ES/IODE wetenschappelijk tijdschrift bekijken
 ---
-# **Wetenschappelijk tijdschrift**
-
 Het ES/IODE wetenschappelijk tijdschrift presenteert regelmatig geselecteerde publicaties per onderzoeksveld. Het helpt de evolutie van een domein te volgen, recente artikelen te ontdekken en een startpunt te vormen voor monitoring of bibliografie.
 
 ```text

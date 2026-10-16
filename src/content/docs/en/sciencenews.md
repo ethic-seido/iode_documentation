@@ -5,8 +5,6 @@ title: "Scientific News"
 icon: material/newspaper-variant-outline
 description: Read ES/IODE scientific news
 ---
-# Scientific **News**
-
 ES/IODE scientific news helps monitor recent signals from external sources: research announcements, major publications, institutional results, press releases, or emerging topics. It complements article search by offering a quick view of scientific developments.
 
 ```text

@@ -5,8 +5,6 @@ title: "Revista científica"
 icon: material/book-open-page-variant
 description: Explorar la revista científica de ES/IODE
 ---
-# Revista **científica**
-
 La revista científica de ES/IODE presenta una selección regular de publicaciones organizadas por campo de investigación. Ayuda a seguir la evolución de un área, detectar artículos recientes y crear un punto de entrada para vigilancia o bibliografía.
 
 ```text

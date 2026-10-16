@@ -5,8 +5,6 @@ title: "Wissenschaftliche Nachrichten"
 icon: material/newspaper-variant-outline
 description: Wissenschaftsnachrichten in ES/IODE lesen
 ---
-# **Wissenschaftliche Nachrichten**
-
 ES/IODE-Wissenschaftsnachrichten helfen, aktuelle Signale aus externen Quellen zu verfolgen: Forschungsankündigungen, wichtige Publikationen, institutionelle Ergebnisse, Pressemitteilungen oder aufkommende Themen. Sie ergänzen die Artikelsuche durch einen schnellen Überblick über Entwicklungen.
 
 ```text

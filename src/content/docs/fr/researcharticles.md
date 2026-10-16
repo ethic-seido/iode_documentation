@@ -5,8 +5,6 @@ title: "Recherche d'articles scientifiques"
 icon: material/file-search
 description: Utiliser la recherche d'articles scientifiques ES/IODE
 ---
-# Recherche d'**articles scientifiques**
-
 La recherche d'articles scientifiques ES/IODE aide à identifier des publications pertinentes à partir d'une question, d'un sujet ou d'un ensemble de mots-clés. Elle est conçue pour soutenir la veille, la préparation bibliographique, l'exploration d'un domaine émergent et la vérification rapide d'un corpus scientifique.
 
 ```text

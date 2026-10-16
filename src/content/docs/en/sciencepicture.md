@@ -5,8 +5,6 @@ title: "Science Picture"
 icon: material/image-search
 description: Interpret and use the ES/IODE Science picture feature
 ---
-# Science **Picture**
-
 **Science picture** highlights an editorialized scientific visual: astronomical image, experimental photograph, technical observation, institutional archive, or illustration from a public scientific source. The purpose is not only visual appeal: the page helps connect an observation to its scientific context, source, and related research paths.
 
 ```text

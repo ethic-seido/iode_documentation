@@ -5,8 +5,6 @@ title: "Wijzigingslogboek"
 icon: material/format-list-numbered-rtl
 description: weergeven van informatie over service-updates
 ---
-# Wijzigingslogboek
-
 ## **ES/IODE Wijzigingslogboek**
 ### 3.5.5 <small>14 april 2026</small>
 

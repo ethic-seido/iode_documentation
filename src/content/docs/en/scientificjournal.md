@@ -5,8 +5,6 @@ title: "Scientific Journal"
 icon: material/book-open-page-variant
 description: Browse the ES/IODE scientific journal
 ---
-# Scientific **Journal**
-
 The ES/IODE scientific journal presents a regular selection of publications organized by research field. It helps follow field evolution, spot recent articles, and create an entry point for monitoring or bibliography building.
 
 ```text

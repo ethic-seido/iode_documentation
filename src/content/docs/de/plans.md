@@ -5,8 +5,6 @@ title: "ES/IODE-Angebote"
 icon: material/card-account-details-outline
 description: ES/IODE-Angebote, Nutzungslimits und kontogebundene Funktionen verstehen.
 ---
-# **ES/IODE-Angebote**
-
 ES/IODE verbindet öffentliche Arbeitsabläufe ohne Konto mit erweiterten Funktionen, die an ein Konto oder ein Angebot gebunden sind. Diese Unterscheidung ist für Forschungsteams wichtig: Sie zeigt, was sofort geprüft werden kann, was eine Anmeldung erfordert und welche Funktionen für akademische oder institutionelle Nutzung vorgesehen sind.
 
 ```text

@@ -5,8 +5,6 @@ title: "Journal des modifications"
 icon: material/format-list-numbered-rtl
 description: affichage des informations de mise à jour du service
 ---
-# Journal des modifications
-
 ## **Journal des modifications ES/IODE**
 ### 3.5.5 <small>14 avril 2026</small>
 

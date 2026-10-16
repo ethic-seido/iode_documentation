@@ -5,8 +5,6 @@ title: "Änderungsprotokoll"
 icon: material/format-list-numbered-rtl
 description: Anzeige von Service-Update-Informationen
 ---
-# Änderungsprotokoll
-
 ## **ES/IODE Änderungsprotokoll**
 ### 3.5.5 <small>14. April 2026</small>
 

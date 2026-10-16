@@ -5,8 +5,6 @@ title: "Suche nach klinischen Studien"
 icon: material/text-box-search
 description: Die ES/IODE-Suche nach klinischen Studien verwenden
 ---
-# Suche nach **klinischen Studien**
-
 Die Suche nach klinischen Studien hilft, Protokolle, Rekrutierungsstatus, Interventionen, Erkrankungen und therapeutische Bereiche zu untersuchen. Sie eignet sich zur Beobachtung translationaler Aktivität, Identifikation laufender Studien und Ergänzung der Literaturrecherche um eine klinische Perspektive.
 
 ```text

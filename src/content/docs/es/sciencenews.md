@@ -5,8 +5,6 @@ title: "Noticias científicas"
 icon: material/newspaper-variant-outline
 description: Consultar noticias científicas de ES/IODE
 ---
-# Noticias **científicas**
-
 Las noticias científicas de ES/IODE sirven para seguir señales recientes de fuentes externas: anuncios de investigación, publicaciones relevantes, resultados institucionales, comunicados o temas emergentes. Complementan la búsqueda de artículos ofreciendo una visión rápida de la actualidad científica.
 
 ```text

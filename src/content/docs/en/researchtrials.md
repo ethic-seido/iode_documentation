@@ -5,8 +5,6 @@ title: "Clinical Trials Search"
 icon: material/text-box-search
 description: Use the ES/IODE clinical trials search
 ---
-# Clinical **Trials Search**
-
 ES/IODE clinical trials search helps explore protocols, recruitment status, interventions, diseases, and therapeutic areas. It is useful for tracking translational activity, identifying ongoing trials, and complementing literature search with a clinical view.
 
 ```text

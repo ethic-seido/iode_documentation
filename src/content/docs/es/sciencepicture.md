@@ -5,8 +5,6 @@ title: "Imagen científica"
 icon: material/image-search
 description: Interpretar y usar la función Imagen científica de ES/IODE
 ---
-# Imagen **científica**
-
 **Science picture** destaca un visual científico con contexto editorial: imagen astronómica, fotografía experimental, observación técnica, archivo institucional o ilustración procedente de una fuente científica pública. Su objetivo no es solo visual: la página ayuda a conectar una observación con su contexto científico, su fuente y posibles rutas de investigación.
 
 ```text

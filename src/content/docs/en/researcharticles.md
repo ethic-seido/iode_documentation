@@ -5,8 +5,6 @@ title: "Scientific Articles Search"
 icon: material/file-search
 description: Use the ES/IODE scientific articles search
 ---
-# Scientific **Articles Search**
-
 ES/IODE scientific article search helps identify relevant publications from a question, topic, or set of keywords. It supports literature monitoring, bibliography preparation, exploration of emerging fields, and rapid verification of a scientific corpus.
 
 ```text

@@ -5,8 +5,6 @@ title: "Planes ES/IODE"
 icon: material/card-account-details-outline
 description: Entender los planes de ES/IODE, los límites de uso y las funciones vinculadas a una cuenta.
 ---
-# Planes **ES/IODE**
-
 ES/IODE combina recorridos públicos, utilizables sin cuenta, y funciones avanzadas asociadas a una cuenta o a un plan. Esta distinción es importante para los equipos de investigación: permite saber qué puede evaluarse de inmediato, qué requiere autenticación y qué pertenece a un uso académico o institucional.
 
 ```text

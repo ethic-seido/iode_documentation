@@ -11,7 +11,7 @@ export default defineConfig({
     starlight({
       title: 'ES IODE Documentation',
       logo: {
-        src: './src/assets/es-iode-mark-v5-black.png',
+        src: './src/assets/horizontal-nobackground-es-iode-documentation-logo-300x41-v3.png',
         replacesTitle: true,
       },
       favicon: '/assets/IodeIconv532-round.png',

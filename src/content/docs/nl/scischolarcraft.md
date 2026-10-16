@@ -5,8 +5,6 @@ title: "SciScholarCraft"
 icon: material/layers-search
 description: SciScholarCraft gebruiken in ES/IODE
 ---
-# **SciScholarCraft**
-
 SciScholarCraft ondersteunt het structureren van een wetenschappelijk onderzoeksdoel. Het helpt om van een brede intentie naar werkbare richtingen te gaan: hypothesen, studieselectie, schrijfplan en projectorganisatie wanneer het actieve aanbod dit mogelijk maakt.
 
 ```text

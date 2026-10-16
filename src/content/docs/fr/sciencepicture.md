@@ -5,8 +5,6 @@ title: "Image de science"
 icon: material/image-search
 description: Interpréter et utiliser la fonctionnalité Image de science ES/IODE
 ---
-# Image de **science**
-
 **Image de science** met en avant un visuel scientifique éditorialisé: image astronomique, photographie expérimentale, observation technique, archive institutionnelle ou illustration issue d'une source scientifique publique. L'objectif n'est pas seulement esthétique: cette page aide à relier une observation visuelle à son contexte scientifique, à sa source et aux pistes de recherche associées.
 
 ```text

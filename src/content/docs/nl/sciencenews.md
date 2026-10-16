@@ -5,8 +5,6 @@ title: "Wetenschappelijk nieuws"
 icon: material/newspaper-variant-outline
 description: Wetenschapsnieuws in ES/IODE lezen
 ---
-# **Wetenschappelijk nieuws**
-
 ES/IODE-wetenschapsnieuws helpt recente signalen uit externe bronnen te volgen: onderzoeksberichten, belangrijke publicaties, institutionele resultaten, persberichten of opkomende onderwerpen. Het vult artikelzoekopdrachten aan met een snelle blik op wetenschappelijke ontwikkelingen.
 
 ```text

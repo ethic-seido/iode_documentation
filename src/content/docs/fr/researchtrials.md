@@ -5,8 +5,6 @@ title: "Recherche d'essais cliniques"
 icon: material/text-box-search
 description: Utiliser la recherche d'essais cliniques ES/IODE
 ---
-# Recherche d'**essais cliniques**
-
 La recherche d'essais cliniques ES/IODE permet d'explorer des protocoles, statuts de recrutement, interventions, pathologies et domaines thérapeutiques. Elle est utile pour suivre l'activité translationnelle d'un domaine, identifier des essais en cours et compléter une recherche bibliographique par une vision clinique.
 
 ```text

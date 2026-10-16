@@ -5,8 +5,6 @@ title: "Wissenschaftliches Bild"
 icon: material/image-search
 description: Die ES/IODE-Funktion Wissenschaftsbild interpretieren und nutzen
 ---
-# **Wissenschaftliches Bild**
-
 **Science picture** stellt ein wissenschaftliches Bild mit redaktionellem Kontext vor: astronomische Aufnahme, experimentelle Fotografie, technische Beobachtung, institutionelles Archivmaterial oder Illustration aus einer öffentlichen wissenschaftlichen Quelle. Der Nutzen ist nicht nur visuell: Die Seite hilft, eine Beobachtung mit ihrem wissenschaftlichen Kontext, ihrer Quelle und möglichen Recherchepfaden zu verbinden.
 
 ```text

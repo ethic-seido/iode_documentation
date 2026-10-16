@@ -5,8 +5,6 @@ title: "Welcome to ES/IODE"
 description: Start using the ES/IODE scientific research service
 icon: simple/readthedocs
 ---
-# Welcome to **ES/IODE**
-
 [![version](https://img.shields.io/badge/version-3.5.5-blue)](changelog.md)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 

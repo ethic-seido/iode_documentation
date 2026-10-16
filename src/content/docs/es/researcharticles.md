@@ -5,8 +5,6 @@ title: "Búsqueda de artículos científicos"
 icon: material/file-search
 description: Usar la búsqueda de artículos científicos de ES/IODE
 ---
-# Búsqueda de **artículos científicos**
-
 La búsqueda de artículos científicos de ES/IODE ayuda a identificar publicaciones relevantes a partir de una pregunta, un tema o un conjunto de palabras clave. Está pensada para apoyar la vigilancia bibliográfica, la preparación de revisiones, la exploración de campos emergentes y la verificación rápida de un corpus científico.
 
 ```text

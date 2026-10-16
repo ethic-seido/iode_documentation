@@ -5,8 +5,6 @@ title: "Welkom bij ES/IODE"
 description: Aan de slag met de wetenschappelijke onderzoeksdienst ES/IODE
 icon: simple/readthedocs
 ---
-# Welkom bij **ES/IODE**
-
 [![versie](https://img.shields.io/badge/versie-3.5.5-blue)](changelog.md)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/)
 

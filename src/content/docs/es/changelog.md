@@ -5,8 +5,6 @@ title: "Registro de cambios"
 icon: material/format-list-numbered-rtl
 description: muestra información de actualización del servicio
 ---
-# Registro de cambios
-
 ## **Registro de cambios de ES/IODE**
 ### 3.5.5 <small>14 de abril de 2026</small>
 

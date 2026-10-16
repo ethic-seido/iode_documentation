@@ -5,8 +5,6 @@ title: "ES/IODE-abonnementen"
 icon: material/card-account-details-outline
 description: ES/IODE-abonnementen, gebruikslimieten en accountgebonden functies begrijpen.
 ---
-# **ES/IODE-abonnementen**
-
 ES/IODE combineert openbare workflows die zonder account kunnen worden gebruikt met geavanceerde functies die aan een account of abonnement zijn gekoppeld. Dit onderscheid is belangrijk voor onderzoeksteams: het maakt duidelijk wat direct kan worden geëvalueerd, wat authenticatie vereist en wat past bij academisch of institutioneel gebruik.
 
 ```text

@@ -5,8 +5,6 @@ title: "Búsqueda de ensayos clínicos"
 icon: material/text-box-search
 description: Usar la búsqueda de ensayos clínicos de ES/IODE
 ---
-# Búsqueda de **ensayos clínicos**
-
 La búsqueda de ensayos clínicos de ES/IODE permite explorar protocolos, estados de reclutamiento, intervenciones, enfermedades y áreas terapéuticas. Es útil para seguir la actividad traslacional de un campo, identificar ensayos en curso y complementar una búsqueda bibliográfica con una visión clínica.
 
 ```text

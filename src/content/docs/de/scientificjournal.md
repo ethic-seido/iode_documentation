@@ -5,8 +5,6 @@ title: "Wissenschaftliches Journal"
 icon: material/book-open-page-variant
 description: Das ES/IODE-Wissenschaftsjournal durchsuchen
 ---
-# **Wissenschaftliches Journal**
-
 Das ES/IODE-Wissenschaftsjournal präsentiert regelmäßig ausgewählte Publikationen nach Forschungsfeldern. Es hilft, die Entwicklung eines Fachgebiets zu verfolgen, aktuelle Artikel zu entdecken und einen Einstieg für Monitoring oder Bibliografieaufbau zu schaffen.
 
 ```text

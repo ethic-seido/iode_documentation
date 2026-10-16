@@ -5,8 +5,6 @@ title: "Offres ES/IODE"
 icon: material/card-account-details-outline
 description: Comprendre les offres ES/IODE, les limites d'usage et les fonctions réservées aux comptes.
 ---
-# Offres **ES/IODE**
-
 ES/IODE combine des parcours publics, utilisables sans compte, et des fonctions avancées associées à un compte ou à une offre. Cette distinction est importante pour les équipes de recherche: elle permet de savoir ce qui peut être exploré immédiatement, ce qui nécessite une authentification, et ce qui relève d'un usage académique ou institutionnel.
 
 ```text

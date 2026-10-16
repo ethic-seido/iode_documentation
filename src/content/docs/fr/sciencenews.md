@@ -5,8 +5,6 @@ title: "Actualités scientifiques"
 icon: material/newspaper-variant-outline
 description: Consulter les actualités scientifiques ES/IODE
 ---
-# Actualités **scientifiques**
-
 Les actualités scientifiques ES/IODE servent à suivre les signaux récents issus de sources externes: annonces de recherche, publications majeures, résultats institutionnels, communiqués ou sujets émergents. Cette page complète la recherche d'articles en donnant une vue rapide de l'actualité scientifique.
 
 ```text

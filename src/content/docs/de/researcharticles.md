@@ -5,8 +5,6 @@ title: "Suche nach wissenschaftlichen Artikeln"
 icon: material/file-search
 description: Die ES/IODE-Suche nach wissenschaftlichen Artikeln verwenden
 ---
-# Suche nach **wissenschaftlichen Artikeln**
-
 Die ES/IODE-Suche nach wissenschaftlichen Artikeln hilft, relevante Publikationen ausgehend von einer Frage, einem Thema oder Schlüsselwörtern zu finden. Sie unterstützt Literaturbeobachtung, Bibliografieaufbau, Exploration neuer Felder und schnelle Prüfung eines wissenschaftlichen Korpus.
 
 ```text
