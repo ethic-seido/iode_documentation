@@ -8,7 +8,7 @@ description: De openbare beschikbaarheid van ES/IODE volgen en de statuspagina i
 De statuspagina helpt gebruikers snel te controleren of de openbare diensten van ES/IODE normaal werken, of er een incident loopt, of dat onderhoud is gepubliceerd. Dit is nuttig wanneer een zoekopdracht niet reageert zoals verwacht, wanneer een AI-assistent niet beschikbaar lijkt, of voordat een belangrijke query opnieuw wordt uitgevoerd.
 
 ```text
-Status: https://esiode.statuspage.io/
+https://esiode.statuspage.io/
 ```
 
 ## Gevolgde componenten

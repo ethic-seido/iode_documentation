@@ -8,7 +8,7 @@ description: Monitor public ES/IODE service availability and interpret the statu
 The status page helps users quickly check whether ES/IODE public services are operating normally, whether an incident is in progress, or whether maintenance has been published. It is useful when a search does not behave as expected, when an AI assistant appears unavailable, or before rerunning an important query.
 
 ```text
-Status: https://esiode.statuspage.io/
+https://esiode.statuspage.io/
 ```
 
 ## Monitored components

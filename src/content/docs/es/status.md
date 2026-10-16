@@ -8,7 +8,7 @@ description: Seguir la disponibilidad pública de ES/IODE e interpretar la pági
 La página de estado permite comprobar rápidamente si los servicios públicos de ES/IODE funcionan con normalidad, si hay un incidente en curso o si se ha publicado un mantenimiento. Es útil cuando una búsqueda no responde como se esperaba, cuando un asistente de IA parece no estar disponible o antes de repetir una consulta importante.
 
 ```text
-Estado: https://esiode.statuspage.io/
+https://esiode.statuspage.io/
 ```
 
 ## Componentes supervisados

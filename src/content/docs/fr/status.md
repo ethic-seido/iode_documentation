@@ -8,7 +8,7 @@ description: Suivre la disponibilité publique des services ES/IODE et interpré
 La page de statut permet de vérifier rapidement si les services publics d'ES/IODE fonctionnent normalement, si un incident est en cours ou si une maintenance a été publiée. Elle est utile lorsqu'une recherche ne répond pas comme prévu, lorsqu'un assistant IA semble indisponible ou avant de relancer une requête importante.
 
 ```text
-Statut: https://esiode.statuspage.io/
+https://esiode.statuspage.io/
 ```
 
 ## Composants suivis

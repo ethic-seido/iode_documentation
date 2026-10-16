@@ -8,7 +8,7 @@ description: Die öffentliche Verfügbarkeit von ES/IODE verfolgen und die Statu
 Die Statusseite zeigt schnell, ob die öffentlichen Dienste von ES/IODE normal funktionieren, ob ein Vorfall läuft oder ob eine Wartung veröffentlicht wurde. Sie ist hilfreich, wenn eine Suche nicht wie erwartet reagiert, ein KI-Assistent nicht verfügbar scheint oder eine wichtige Abfrage erneut gestartet werden soll.
 
 ```text
-Status: https://esiode.statuspage.io/
+https://esiode.statuspage.io/
 ```
 
 ## Überwachte Komponenten
