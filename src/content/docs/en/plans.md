@@ -8,7 +8,7 @@ description: Understand ES/IODE plans, usage limits, and account-only features.
 ES/IODE combines public workflows that can be used without an account and advanced features associated with an account or plan. This distinction matters for research teams: it clarifies what can be evaluated immediately, what requires authentication, and what belongs to an academic or institutional use case.
 
 ```text
-Pricing: https://ethicseido.com/Shared/Pricing
+https://ethicseido.com/Shared/Pricing
 ```
 
 ## Public access

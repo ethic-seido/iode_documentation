@@ -8,7 +8,7 @@ description: ES/IODE-Angebote, Nutzungslimits und kontogebundene Funktionen vers
 ES/IODE verbindet öffentliche Arbeitsabläufe ohne Konto mit erweiterten Funktionen, die an ein Konto oder ein Angebot gebunden sind. Diese Unterscheidung ist für Forschungsteams wichtig: Sie zeigt, was sofort geprüft werden kann, was eine Anmeldung erfordert und welche Funktionen für akademische oder institutionelle Nutzung vorgesehen sind.
 
 ```text
-Preise: https://ethicseido.com/Shared/Pricing
+https://ethicseido.com/Shared/Pricing
 ```
 
 ## Öffentlicher Zugang

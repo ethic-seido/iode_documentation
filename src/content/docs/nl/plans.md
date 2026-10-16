@@ -8,7 +8,7 @@ description: ES/IODE-abonnementen, gebruikslimieten en accountgebonden functies 
 ES/IODE combineert openbare workflows die zonder account kunnen worden gebruikt met geavanceerde functies die aan een account of abonnement zijn gekoppeld. Dit onderscheid is belangrijk voor onderzoeksteams: het maakt duidelijk wat direct kan worden geëvalueerd, wat authenticatie vereist en wat past bij academisch of institutioneel gebruik.
 
 ```text
-Prijzen: https://ethicseido.com/Shared/Pricing
+https://ethicseido.com/Shared/Pricing
 ```
 
 ## Openbare toegang

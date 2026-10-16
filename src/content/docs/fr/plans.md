@@ -8,7 +8,7 @@ description: Comprendre les offres ES/IODE, les limites d'usage et les fonctions
 ES/IODE combine des parcours publics, utilisables sans compte, et des fonctions avancées associées à un compte ou à une offre. Cette distinction est importante pour les équipes de recherche: elle permet de savoir ce qui peut être exploré immédiatement, ce qui nécessite une authentification, et ce qui relève d'un usage académique ou institutionnel.
 
 ```text
-Tarifs: https://ethicseido.com/Shared/Pricing
+https://ethicseido.com/Shared/Pricing
 ```
 
 ## Ce qui est public
