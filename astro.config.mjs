@@ -26,7 +26,7 @@ export default defineConfig({
       },
       social: [
         { icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/showcase/es-iode' },
-        { icon: 'github', label: 'ES IODE', href: 'https://ethicseido.com/Iode/Iode' },
+        { icon: 'external', label: 'Site ES IODE', href: 'https://iode.ethicseido.com/' },
       ],
     }),
   ],
