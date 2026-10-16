@@ -1,0 +1,13 @@
+{
+  "search.label": "Zoeken",
+  "pagefind.clear_search": "Wissen",
+  "pagefind.load_more": "Meer resultaten laden",
+  "pagefind.search_label": "Deze site doorzoeken",
+  "pagefind.filters_label": "Filters",
+  "pagefind.zero_results": "Geen resultaten voor [SEARCH_TERM]",
+  "pagefind.many_results": "[COUNT] resultaten voor [SEARCH_TERM]",
+  "pagefind.one_result": "[COUNT] resultaat voor [SEARCH_TERM]",
+  "pagefind.alt_search": "Geen resultaten voor [SEARCH_TERM]. In plaats daarvan worden resultaten voor [DIFFERENT_TERM] getoond.",
+  "pagefind.search_suggestion": "Geen resultaten voor [SEARCH_TERM]. Probeer een van de volgende zoekopdrachten:",
+  "pagefind.searching": "Zoeken naar [SEARCH_TERM]..."
+}
